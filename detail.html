@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>公告详情 - 粤师聘</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <!-- 顶部导航 -->
+  <nav class="navbar">
+    <div class="nav-brand">
+      <div class="logo">粤</div>
+      <span>粤师聘</span>
+    </div>
+    <div class="nav-right">
+      <a href="index.html" class="nav-link active">公告库</a>
+      <span class="nav-note">广东全省 · 21 个地市</span>
+    </div>
+  </nav>
+
+  <div class="container">
+    <a href="index.html" class="detail-back">← 返回列表</a>
+    <div class="detail-card" id="detailContent">
+      <div style="padding:60px;text-align:center;color:var(--gray-400);">加载中...</div>
+    </div>
+  </div>
+</div>
+
+<script src="mock.js"></script>
+<script src="data.js"></script>
+<script src="api.js"></script>
+<script>
+  function getParam(name) {
+    return new URLSearchParams(window.location.search).get(name);
+  }
+
+  // ===== 已读 & 收藏（与列表页共用浏览器本地存储）=====
+  const store = {
+    get(key) {
+      try { return localStorage.getItem(key); } catch (e) { return null; }
+    },
+    set(key, val) {
+      try { localStorage.setItem(key, val); } catch (e) {}
+    }
+  };
+
+  let favIds = JSON.parse(store.get('ysp_favs') || '[]');
+
+  function markViewed(id) {
+    const v = new Set(JSON.parse(store.get('ysp_viewed') || '[]'));
+    v.add(id);
+    store.set('ysp_viewed', JSON.stringify([...v]));
+  }
+  function toggleFavDetail(id) {
+    if (favIds.includes(id)) {
+      favIds = favIds.filter(x => x !== id);
+    } else {
+      favIds.unshift(id);
+    }
+    store.set('ysp_favs', JSON.stringify(favIds));
+    updateFavBtn(id);
+  }
+  function updateFavBtn(id) {
+    const btn = document.getElementById('favBtn');
+    if (!btn) return;
+    if (favIds.includes(id)) {
+      btn.textContent = '★ 已收藏（点击取消）';
+      btn.classList.add('fav-on');
+    } else {
+      btn.textContent = '☆ 收藏公告';
+      btn.classList.remove('fav-on');
+    }
+  }
+
+  function getEstBadge(est) {
+    if (est.includes("正式编") || est.includes("事业编")) return `<span class="badge badge-formal">${est}</span>`;
+    if (est.includes("长聘")) return `<span class="badge badge-talent">${est}</span>`;
+    return `<span class="badge badge-contract">${est}</span>`;
+  }
+
+  function getDeadlineClass(deadline) {
+    if (!deadline) return { cls: "deadline-ok", text: "以官方原文为准" };
+    const today = new Date();
+    const d = new Date(deadline);
+    const days = (d - today) / (1000 * 60 * 60 * 24);
+    if (days < 0) return { cls: "deadline-over", text: "已截止" };
+    if (days <= 7) return { cls: "deadline-soon", text: `${deadline}（剩余${Math.ceil(days)}天）` };
+    return { cls: "deadline-ok", text: deadline };
+  }
+
+  async function loadDetail() {
+    const id = getParam('id');
+    const job = await API.getJobDetail(id);
+    const container = document.getElementById('detailContent');
+
+    if (!job) {
+      container.innerHTML = '<div style="padding:60px;text-align:center;color:var(--gray-400);">公告不存在或已被移除</div>';
+      return;
+    }
+
+    markViewed(job.id);
+    const dl = getDeadlineClass(job.deadline);
+    const c = job.content;
+
+    container.innerHTML = `
+      <h1 class="detail-title">${job.title}</h1>
+
+      <div class="detail-meta">
+        <div class="meta-item">招聘单位：<span>${job.school}</span></div>
+        <div class="meta-item">所在城市：<span>${job.city}</span></div>
+        <div class="meta-item">学段：<span>${job.stage}</span></div>
+        <div class="meta-item">编制性质：${getEstBadge(job.establishment)}</div>
+        <div class="meta-item">招聘人数：<span style="color:var(--primary);font-size:16px;">${job.headcount ? job.headcount + " 人" : "详见原文"}</span></div>
+        <div class="meta-item">学历要求：<span>${job.education}</span></div>
+        <div class="meta-item">报名截止：<span class="${dl.cls}">${dl.text}</span></div>
+        <div class="meta-item">录入时间：<span>${job.recordedAt}</span></div>
+        <div class="meta-item">信息来源：<a href="${job.sourceUrl}" target="_blank" rel="noopener" style="color:var(--primary);text-decoration:underline;">${job.source} ↗</a></div>
+      </div>
+
+      <div class="detail-section">
+        <h3>招聘简介</h3>
+        <p>${c.intro}</p>
+      </div>
+
+      <div class="detail-section">
+        <h3>招聘对象</h3>
+        <p>${c.targets.join('、')}</p>
+      </div>
+
+      <div class="detail-section">
+        <h3>招聘岗位</h3>
+        <p>${c.positions}</p>
+      </div>
+
+      <div class="detail-section">
+        <h3>报考条件</h3>
+        <ul>
+          ${c.conditions.map(x => `<li>${x}</li>`).join('')}
+        </ul>
+      </div>
+
+      <div class="detail-section">
+        <h3>招聘流程</h3>
+        <p>${c.process}</p>
+      </div>
+
+      <div class="detail-section">
+        <h3>报名时间</h3>
+        <p>${c.signup}</p>
+      </div>
+
+      <div class="detail-section">
+        <h3>联系方式</h3>
+        <p>${c.contact}</p>
+      </div>
+
+      <div class="detail-actions">
+        <a class="btn-primary" href="${job.sourceUrl}" target="_blank" rel="noopener" style="display:inline-block;text-align:center;">查看原文报名 ↗</a>
+        <button class="btn-outline" id="favBtn" onclick="toggleFavDetail(${job.id})">☆ 收藏公告</button>
+      </div>
+    `;
+    updateFavBtn(job.id);
+  }
+
+  loadDetail();
+</script>
+</body>
+</html>
