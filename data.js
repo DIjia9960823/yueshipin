@@ -1,6 +1,6 @@
 // 本文件由 crawler/crawler.py 自动生成，请勿手工修改
-// 生成时间：2026-11-09 12:58:17   共 76 条
-window.DATA_UPDATED = "2026-11-09 12:58";
+// 生成时间：2026-11-09 13:01:24   共 76 条
+window.DATA_UPDATED = "2026-11-09 13:01";
 window.REAL_JOBS = [
   {
     "title": "2026年广州市教育系统校园招聘“优才计划”公告",
@@ -44,7 +44,7 @@ window.REAL_JOBS = [
     "establishment": "合同制",
     "headcount": 39,
     "education": "硕士及以上",
-    "deadline": "2027-07-31",
+    "deadline": "2026-11-19",
     "recordedAt": "2026-11-09",
     "source": "广东工业大学官网",
     "sourceUrl": "https://hr.gdut.edu.cn/info/1077/1844.htm",
