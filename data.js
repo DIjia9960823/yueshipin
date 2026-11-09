@@ -1,5 +1,5 @@
 // 本文件由 crawler/crawler.py 自动生成，请勿手工修改
-// 生成时间：2026-11-09 14:28:17   共 387 条
+// 生成时间：2026-11-09 14:28   共 387 条
 window.DATA_UPDATED = "2026-11-09 14:28";
 window.REAL_JOBS = [
   {
@@ -61,7 +61,8 @@ window.REAL_JOBS = [
       "signup": "请将个人简历和相关证明材料发送至 附件中对应岗位的 邮箱 （标题请备注：科研助理 + 报名的部门名称）。",
       "contact": "电话 020-61648120、020-61648495"
     },
-    "id": 2
+    "id": 2,
+    "ownership": "公办"
   },
   {
     "title": "南方医科大学后勤保障部交通服务中心招聘非事业编制工勤人员启事",
@@ -91,7 +92,8 @@ window.REAL_JOBS = [
       "signup": "报名方式：采取推荐与公开招聘相结合的形式，应聘者可以投个人简历至；，或者到现场报名，报名地址：广州市白云区沙太南路",
       "contact": "联系人 朱老师；电话 18189098188；地址 广州市白云区沙太南路"
     },
-    "id": 3
+    "id": 3,
+    "ownership": "公办"
   },
   {
     "title": "南方医科大学继续教育学院招聘非事业编制工勤人员启事",
@@ -121,7 +123,8 @@ window.REAL_JOBS = [
       "signup": "报名方式：报名人员将个人简历发送至邮箱",
       "contact": "联系人 韩老师，联系方式；邮箱 1714685859@qq.com"
     },
-    "id": 4
+    "id": 4,
+    "ownership": "公办"
   },
   {
     "title": "南方医科大学外国语学院诚聘国际英语教师（Southern Medical University is Looking for International English Teachers）",
@@ -150,7 +153,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 王小康；电话 020-61647385\n；邮箱 857150668@qq.com"
     },
-    "id": 5
+    "id": 5,
+    "ownership": "公办"
   },
   {
     "title": "南方医科大学2020年公开招聘网上资格审查结果的公告",
@@ -179,7 +183,8 @@ window.REAL_JOBS = [
       "signup": "年校本部公开招聘专业技术人员公告》的要求，目前我校已完成网上报名、资格审查的工作；请各位应聘者登录南方医科大学人事处网站公开招聘报名系统（网址：（；日在报名系统内自行下载并打印准考证（资格审查通过者才可打印准考证）",
       "contact": "邮箱 smursk@163.com"
     },
-    "id": 6
+    "id": 6,
+    "ownership": "公办"
   },
   {
     "title": "南方医科大学诚聘国际英语教师（Southern Medical University is Looking for  International English Teachers）（已招）",
@@ -208,7 +213,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 王小康；电话 020-61647385\n；邮箱 857150668@qq.com"
     },
-    "id": 7
+    "id": 7,
+    "ownership": "公办"
   },
   {
     "title": "关于转发《广东省教育厅办公室关于选调事业单位工作人员的通知》的通知",
@@ -237,7 +243,8 @@ window.REAL_JOBS = [
       "signup": "现将该通知发给你们，请做好宣传和报名工作",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 8
+    "id": 8,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学心理学院徐敏课题组诚聘科研助理1名",
@@ -269,7 +276,8 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 9
+    "id": 9,
+    "ownership": "公办"
   },
   {
     "title": "专职副研究员招聘公告-深圳大学经济学院陈锦濠团队 Recruitment of Full-Time Research Associate at College of Economics, Shenzhen University, Research Team of Tommy Chan",
@@ -299,7 +307,8 @@ window.REAL_JOBS = [
       "signup": "欢迎申请人在投递前查阅陈老师学术档案与代表作(ORCID:0000-0001-9930-8897;ScopusAuthorID:56202307300)，深入了解团队的研究脉络与学术风格；申请程序与投递方式；注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "邮箱 tommy.chan@szu.edu.cn"
     },
-    "id": 10
+    "id": 10,
+    "ownership": "公办"
   },
   {
     "title": "教学科研系列招聘公告",
@@ -328,7 +337,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 11
+    "id": 11,
+    "ownership": "公办"
   },
   {
     "title": "华南农业大学-韶关学院博士后创新实践基地2026年全职博士后招聘公告",
@@ -357,7 +367,8 @@ window.REAL_JOBS = [
       "signup": "符合条件人员将以下资料电子版发送至邮箱 sgurscrsk@sgu.edu.cn ， 邮件主题请写为 “姓名+博士后应聘”。 （三）报名需提供材料：博士后申请表、简历、学历学位证书、身份证、科研成果佐证材料等电子版材料，初审通 过后将根据个人实际情况由韶关学院与华南农业大学协商 联合培养方式和工作地点。",
       "contact": "电话 0751-8120085；邮箱 sgurscrsk@sgu.edu.cn"
     },
-    "id": 12
+    "id": 12,
+    "ownership": "公办"
   },
   {
     "title": "韶关学院2026年教学科研人员招聘公告",
@@ -386,7 +397,8 @@ window.REAL_JOBS = [
       "signup": "采用系统在线报名。进入韶关学院人才招聘网页（https://www.sgu.edu.cn/rczpw/），注册用户名后登陆报名系统，在系统中查询申请相应的职位，上传所需应聘材料，确认后提交。",
       "contact": "电话 0751-8120085；邮箱 sgurscrsk@sgu.edu.cn"
     },
-    "id": 13
+    "id": 13,
+    "ownership": "公办"
   },
   {
     "title": "肇庆学院2026年11月招聘科研助理公告",
@@ -415,7 +427,8 @@ window.REAL_JOBS = [
       "signup": "采取 电子邮件报名 方式。 应聘者 需 将所有报名材料打包压缩 后， 发",
       "contact": "电话 0758-2752102\n；邮箱 rsk316@zqu.edu.cn"
     },
-    "id": 14
+    "id": 14,
+    "ownership": "公办"
   },
   {
     "title": "广东文理职业学院2026年银龄教师招聘启事",
@@ -447,7 +460,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 0759-6632226\n；邮箱 gdwlxyrsc@163.com"
     },
-    "id": 15
+    "id": 15,
+    "ownership": "民办"
   },
   {
     "title": "【教师招聘】广州软件学院师资人才招聘启事",
@@ -476,7 +490,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 16
+    "id": 16,
+    "ownership": "民办"
   },
   {
     "title": "广东建设职业技术学院2026年校编（非事业编制）辅导员招聘公告",
@@ -506,7 +521,8 @@ window.REAL_JOBS = [
       "contact": "电话 0763-3919523、0763-3919526；邮箱 gdcvizp2022@163.com"
     },
     "id": 17,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "公办"
   },
   {
     "title": "2026年清远市清城区教育系统公开招聘编外教师公告",
@@ -568,7 +584,8 @@ window.REAL_JOBS = [
     },
     "id": 19,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学骨干数学教师(骨干教师)",
@@ -600,7 +617,8 @@ window.REAL_JOBS = [
     },
     "id": 20,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师（清北骨干名师）",
@@ -664,7 +682,8 @@ window.REAL_JOBS = [
     },
     "id": 22,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学心理健康教师",
@@ -696,7 +715,8 @@ window.REAL_JOBS = [
     },
     "id": 23,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师(实习、代课)",
@@ -760,7 +780,8 @@ window.REAL_JOBS = [
     },
     "id": 25,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师(合格教师)",
@@ -792,7 +813,8 @@ window.REAL_JOBS = [
     },
     "id": 26,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "工业机器人技术应用教师",
@@ -824,7 +846,8 @@ window.REAL_JOBS = [
     },
     "id": 27,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师(年薪8-25万)",
@@ -856,7 +879,8 @@ window.REAL_JOBS = [
     },
     "id": 28,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师",
@@ -888,7 +912,8 @@ window.REAL_JOBS = [
     },
     "id": 29,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师",
@@ -920,7 +945,8 @@ window.REAL_JOBS = [
     },
     "id": 30,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师",
@@ -952,7 +978,8 @@ window.REAL_JOBS = [
     },
     "id": 31,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师",
@@ -984,7 +1011,8 @@ window.REAL_JOBS = [
     },
     "id": 32,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学教师(名优教师)",
@@ -1048,7 +1076,8 @@ window.REAL_JOBS = [
     },
     "id": 34,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理青年教师",
@@ -1080,7 +1109,8 @@ window.REAL_JOBS = [
     },
     "id": 35,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师(骨干教师)",
@@ -1112,7 +1142,8 @@ window.REAL_JOBS = [
     },
     "id": 36,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中物理教师",
@@ -1144,7 +1175,8 @@ window.REAL_JOBS = [
     },
     "id": 37,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中化学教师",
@@ -1176,7 +1208,8 @@ window.REAL_JOBS = [
     },
     "id": 38,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师(青年教师)",
@@ -1208,7 +1241,8 @@ window.REAL_JOBS = [
     },
     "id": 39,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学教师",
@@ -1240,7 +1274,8 @@ window.REAL_JOBS = [
     },
     "id": 40,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师(骨干教师)",
@@ -1272,7 +1307,8 @@ window.REAL_JOBS = [
     },
     "id": 41,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生物教师",
@@ -1304,7 +1340,8 @@ window.REAL_JOBS = [
     },
     "id": 42,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学音乐教师(青年教师)",
@@ -1336,7 +1373,8 @@ window.REAL_JOBS = [
     },
     "id": 43,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(骨干教师)",
@@ -1400,7 +1438,8 @@ window.REAL_JOBS = [
     },
     "id": 45,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中化学老师",
@@ -1432,7 +1471,8 @@ window.REAL_JOBS = [
     },
     "id": 46,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "急招 初中道德与法治教师(青年教师)",
@@ -1464,7 +1504,8 @@ window.REAL_JOBS = [
     },
     "id": 47,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "生活教师",
@@ -1527,7 +1568,8 @@ window.REAL_JOBS = [
     },
     "id": 49,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中化学教师(青年教师)",
@@ -1591,7 +1633,8 @@ window.REAL_JOBS = [
     },
     "id": 51,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中体育教师",
@@ -1623,7 +1666,8 @@ window.REAL_JOBS = [
     },
     "id": 52,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学教师(骨干教师)",
@@ -1687,7 +1731,8 @@ window.REAL_JOBS = [
     },
     "id": 54,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中历史教师(合格教师)",
@@ -1719,7 +1764,8 @@ window.REAL_JOBS = [
     },
     "id": 55,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初数学教师(合格教师)",
@@ -1751,7 +1797,8 @@ window.REAL_JOBS = [
     },
     "id": 56,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "国际部班主任",
@@ -1783,7 +1830,8 @@ window.REAL_JOBS = [
     },
     "id": 57,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "幼儿园实习教师",
@@ -1815,7 +1863,8 @@ window.REAL_JOBS = [
     },
     "id": 58,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "国际部德育主任",
@@ -1847,7 +1896,8 @@ window.REAL_JOBS = [
     },
     "id": 59,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "幼儿园班级教师",
@@ -1879,7 +1929,8 @@ window.REAL_JOBS = [
     },
     "id": 60,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "幼儿园保育老师",
@@ -1911,7 +1962,8 @@ window.REAL_JOBS = [
     },
     "id": 61,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中地理教师",
@@ -1943,7 +1995,8 @@ window.REAL_JOBS = [
     },
     "id": 62,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学美术教师",
@@ -1975,7 +2028,8 @@ window.REAL_JOBS = [
     },
     "id": 63,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学语文教师",
@@ -2007,7 +2061,8 @@ window.REAL_JOBS = [
     },
     "id": 64,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学数学教师",
@@ -2039,7 +2094,8 @@ window.REAL_JOBS = [
     },
     "id": 65,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学英语教师",
@@ -2071,7 +2127,8 @@ window.REAL_JOBS = [
     },
     "id": 66,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学书法教师",
@@ -2103,7 +2160,8 @@ window.REAL_JOBS = [
     },
     "id": 67,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学科学教师",
@@ -2135,7 +2193,8 @@ window.REAL_JOBS = [
     },
     "id": 68,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学体育教师",
@@ -2167,7 +2226,8 @@ window.REAL_JOBS = [
     },
     "id": 69,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学音乐教师",
@@ -2199,7 +2259,8 @@ window.REAL_JOBS = [
     },
     "id": 70,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学教师(青年教师)",
@@ -2231,7 +2292,8 @@ window.REAL_JOBS = [
     },
     "id": 71,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学数学教师及班主任（ 线下面试）",
@@ -2263,7 +2325,8 @@ window.REAL_JOBS = [
     },
     "id": 72,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语科任教师（线下面试）",
@@ -2295,7 +2358,8 @@ window.REAL_JOBS = [
     },
     "id": 73,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "心理健康教师（专职）",
@@ -2327,7 +2391,8 @@ window.REAL_JOBS = [
     },
     "id": 74,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "八语文教师兼班主任（需要线下面试）",
@@ -2359,7 +2424,8 @@ window.REAL_JOBS = [
     },
     "id": 75,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学教师(8月份上岗)",
@@ -2391,7 +2457,8 @@ window.REAL_JOBS = [
     },
     "id": 76,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学心理健康教师(青年教师)",
@@ -2423,7 +2490,8 @@ window.REAL_JOBS = [
     },
     "id": 77,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学语文骨干教师(青年教师)",
@@ -2455,7 +2523,8 @@ window.REAL_JOBS = [
     },
     "id": 78,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学英语骨干教师",
@@ -2487,7 +2556,8 @@ window.REAL_JOBS = [
     },
     "id": 79,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学体育教师(青年教师)",
@@ -2519,7 +2589,8 @@ window.REAL_JOBS = [
     },
     "id": 80,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学美术教师(青年教师)",
@@ -2551,7 +2622,8 @@ window.REAL_JOBS = [
     },
     "id": 81,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "信息技术(青年教师)",
@@ -2583,7 +2655,8 @@ window.REAL_JOBS = [
     },
     "id": 82,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学科学老师(青年教师)",
@@ -2615,7 +2688,8 @@ window.REAL_JOBS = [
     },
     "id": 83,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中心理健康教师(青年教师)",
@@ -2647,7 +2721,8 @@ window.REAL_JOBS = [
     },
     "id": 84,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师(骨干教师)",
@@ -2679,7 +2754,8 @@ window.REAL_JOBS = [
     },
     "id": 85,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生物教师(骨干教师)",
@@ -2711,7 +2787,8 @@ window.REAL_JOBS = [
     },
     "id": 86,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中体育教师(青年教师)",
@@ -2743,7 +2820,8 @@ window.REAL_JOBS = [
     },
     "id": 87,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中信息技术教师(青年教师)",
@@ -2775,7 +2853,8 @@ window.REAL_JOBS = [
     },
     "id": 88,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "德育主任",
@@ -2807,7 +2886,8 @@ window.REAL_JOBS = [
     },
     "id": 89,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中舞蹈教师(青年教师)",
@@ -2839,7 +2919,8 @@ window.REAL_JOBS = [
     },
     "id": 90,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(骨干教师)",
@@ -2871,7 +2952,8 @@ window.REAL_JOBS = [
     },
     "id": 91,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师(骨干教师)",
@@ -2903,7 +2985,8 @@ window.REAL_JOBS = [
     },
     "id": 92,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中地理教师(骨干教师)",
@@ -2935,7 +3018,8 @@ window.REAL_JOBS = [
     },
     "id": 93,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学语文教师（年薪10万-20万）",
@@ -2967,7 +3051,8 @@ window.REAL_JOBS = [
     },
     "id": 94,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "A-Level 教学主管",
@@ -2999,7 +3084,8 @@ window.REAL_JOBS = [
     },
     "id": 95,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE数学教师（高中）",
@@ -3031,7 +3117,8 @@ window.REAL_JOBS = [
     },
     "id": 96,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中政治教师（年薪12-24万）",
@@ -3063,7 +3150,8 @@ window.REAL_JOBS = [
     },
     "id": 97,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE公社教师（高中）",
@@ -3095,7 +3183,8 @@ window.REAL_JOBS = [
     },
     "id": 98,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小初高各科教师(2027应届生)",
@@ -3127,7 +3216,8 @@ window.REAL_JOBS = [
     },
     "id": 99,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "教务主任",
@@ -3159,7 +3249,8 @@ window.REAL_JOBS = [
     },
     "id": 100,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE物理教师（高中）",
@@ -3191,7 +3282,8 @@ window.REAL_JOBS = [
     },
     "id": 101,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE历史教师（高中）",
@@ -3223,7 +3315,8 @@ window.REAL_JOBS = [
     },
     "id": 102,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE经济老师",
@@ -3255,7 +3348,8 @@ window.REAL_JOBS = [
     },
     "id": 103,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE化学教师（高中）",
@@ -3287,7 +3381,8 @@ window.REAL_JOBS = [
     },
     "id": 104,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE生物教师（高中）",
@@ -3319,7 +3414,8 @@ window.REAL_JOBS = [
     },
     "id": 105,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE英语教师（高中）",
@@ -3351,7 +3447,8 @@ window.REAL_JOBS = [
     },
     "id": 106,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE语文教师（高中）",
@@ -3383,7 +3480,8 @@ window.REAL_JOBS = [
     },
     "id": 107,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中日语教师(骨干教师)",
@@ -3415,7 +3513,8 @@ window.REAL_JOBS = [
     },
     "id": 108,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "德育干事",
@@ -3447,7 +3546,8 @@ window.REAL_JOBS = [
     },
     "id": 109,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文老师",
@@ -3479,7 +3579,8 @@ window.REAL_JOBS = [
     },
     "id": 110,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中信息技术教师(青年教师)",
@@ -3511,7 +3612,8 @@ window.REAL_JOBS = [
     },
     "id": 111,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE英语教师(青年教师)",
@@ -3543,7 +3645,8 @@ window.REAL_JOBS = [
     },
     "id": 112,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "双语化学教师(青年教师)",
@@ -3575,7 +3678,8 @@ window.REAL_JOBS = [
     },
     "id": 113,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "日语教师（有高三教学经验的）",
@@ -3607,7 +3711,8 @@ window.REAL_JOBS = [
     },
     "id": 114,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中道德与法治教师",
@@ -3639,7 +3744,8 @@ window.REAL_JOBS = [
     },
     "id": 115,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学体育教师（羽毛球或乒乓球）(青年教师)",
@@ -3671,7 +3777,8 @@ window.REAL_JOBS = [
     },
     "id": 116,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "双语物理教师",
@@ -3703,7 +3810,8 @@ window.REAL_JOBS = [
     },
     "id": 117,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "双语化学生物教师",
@@ -3735,7 +3843,8 @@ window.REAL_JOBS = [
     },
     "id": 118,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE公民与社会(道德与法治)(青年教师)",
@@ -3767,7 +3876,8 @@ window.REAL_JOBS = [
     },
     "id": 119,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师（辅修西班牙语/阿拉伯语））(青年教师)",
@@ -3799,7 +3909,8 @@ window.REAL_JOBS = [
     },
     "id": 120,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师",
@@ -3831,7 +3942,8 @@ window.REAL_JOBS = [
     },
     "id": 121,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师（清北班）",
@@ -3863,7 +3975,8 @@ window.REAL_JOBS = [
     },
     "id": 122,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学道德与法治教师(青年教师)",
@@ -3895,7 +4008,8 @@ window.REAL_JOBS = [
     },
     "id": 123,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(需要高三经验)",
@@ -3927,7 +4041,8 @@ window.REAL_JOBS = [
     },
     "id": 124,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学英语教师（需要班主任经验）",
@@ -3959,7 +4074,8 @@ window.REAL_JOBS = [
     },
     "id": 125,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中地理教师",
@@ -3991,7 +4107,8 @@ window.REAL_JOBS = [
     },
     "id": 126,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中生物教师(青年教师)",
@@ -4023,7 +4140,8 @@ window.REAL_JOBS = [
     },
     "id": 127,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师",
@@ -4055,7 +4173,8 @@ window.REAL_JOBS = [
     },
     "id": 128,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "香港DSE数学教师(青年教师)",
@@ -4087,7 +4206,8 @@ window.REAL_JOBS = [
     },
     "id": 129,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高一物理老师",
@@ -4119,7 +4239,8 @@ window.REAL_JOBS = [
     },
     "id": 130,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学老师",
@@ -4151,7 +4272,8 @@ window.REAL_JOBS = [
     },
     "id": 131,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "音乐教师(代课老师)",
@@ -4183,7 +4305,8 @@ window.REAL_JOBS = [
     },
     "id": 132,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中美术教师（艺考素描和速写方向）",
@@ -4215,7 +4338,8 @@ window.REAL_JOBS = [
     },
     "id": 133,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "香港DSE中文教师",
@@ -4247,7 +4371,8 @@ window.REAL_JOBS = [
     },
     "id": 134,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初高中音乐教师(青年教师)",
@@ -4279,7 +4404,8 @@ window.REAL_JOBS = [
     },
     "id": 135,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "双语地理教师(青年教师)",
@@ -4311,7 +4437,8 @@ window.REAL_JOBS = [
     },
     "id": 136,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "体育教师(排球方向)",
@@ -4343,7 +4470,8 @@ window.REAL_JOBS = [
     },
     "id": 137,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "Foreign teacher（外籍教师）",
@@ -4375,7 +4503,8 @@ window.REAL_JOBS = [
     },
     "id": 138,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学体育教师(健美操方向)",
@@ -4407,7 +4536,8 @@ window.REAL_JOBS = [
     },
     "id": 139,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE经济学教师",
@@ -4439,7 +4569,8 @@ window.REAL_JOBS = [
     },
     "id": 140,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中俄语教师(青年教师)",
@@ -4471,7 +4602,8 @@ window.REAL_JOBS = [
     },
     "id": 141,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(高三)",
@@ -4503,7 +4635,8 @@ window.REAL_JOBS = [
     },
     "id": 142,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学数学教师(需要有多年班主任经验)",
@@ -4535,7 +4668,8 @@ window.REAL_JOBS = [
     },
     "id": 143,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师",
@@ -4567,7 +4701,8 @@ window.REAL_JOBS = [
     },
     "id": 144,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE物理教师",
@@ -4599,7 +4734,8 @@ window.REAL_JOBS = [
     },
     "id": 145,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "道德与法治教师(青年教师)",
@@ -4631,7 +4767,8 @@ window.REAL_JOBS = [
     },
     "id": 146,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中历史教师(骨干教师)",
@@ -4663,7 +4800,8 @@ window.REAL_JOBS = [
     },
     "id": 147,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小初体育教师(需有中考经验 游泳专项)",
@@ -4695,7 +4833,8 @@ window.REAL_JOBS = [
     },
     "id": 148,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "DSE地理教师(青年教师)",
@@ -4727,7 +4866,8 @@ window.REAL_JOBS = [
     },
     "id": 149,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中音乐教师(有舞蹈基础)",
@@ -4759,7 +4899,8 @@ window.REAL_JOBS = [
     },
     "id": 150,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学数学教师(大沙校区)",
@@ -4791,7 +4932,8 @@ window.REAL_JOBS = [
     },
     "id": 151,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学音乐教师赤沙校区）",
@@ -4823,7 +4965,8 @@ window.REAL_JOBS = [
     },
     "id": 152,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中音乐教师(赤沙校区青年教师)",
@@ -4855,7 +4998,8 @@ window.REAL_JOBS = [
     },
     "id": 153,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学英语教师(骨干教师)",
@@ -4887,7 +5031,8 @@ window.REAL_JOBS = [
     },
     "id": 154,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中体育教师(青年教师)",
@@ -4919,7 +5064,8 @@ window.REAL_JOBS = [
     },
     "id": 155,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师(赤沙校区)(骨干教师)",
@@ -4951,7 +5097,8 @@ window.REAL_JOBS = [
     },
     "id": 156,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中心理健康教师(青年教师)",
@@ -4983,7 +5130,8 @@ window.REAL_JOBS = [
     },
     "id": 157,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中道德与法治教师(骨干教师)",
@@ -5015,7 +5163,8 @@ window.REAL_JOBS = [
     },
     "id": 158,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中地理教师(青年教师)",
@@ -5047,7 +5196,8 @@ window.REAL_JOBS = [
     },
     "id": 159,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学老师（赤沙校区）(青年教师)",
@@ -5079,7 +5229,8 @@ window.REAL_JOBS = [
     },
     "id": 160,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中体育教师(骨干教师)",
@@ -5111,7 +5262,8 @@ window.REAL_JOBS = [
     },
     "id": 161,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中化学教师(大沙校区)",
@@ -5143,7 +5295,8 @@ window.REAL_JOBS = [
     },
     "id": 162,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学语文教师(赤沙校区骨干教师)",
@@ -5175,7 +5328,8 @@ window.REAL_JOBS = [
     },
     "id": 163,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "中段语文教师（班主任）",
@@ -5207,7 +5361,8 @@ window.REAL_JOBS = [
     },
     "id": 164,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "中段小学数学教师",
@@ -5239,7 +5394,8 @@ window.REAL_JOBS = [
     },
     "id": 165,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师(学科带头人)",
@@ -5655,7 +5811,8 @@ window.REAL_JOBS = [
     },
     "id": 178,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学英语教师(实习生)",
@@ -5687,7 +5844,8 @@ window.REAL_JOBS = [
     },
     "id": 179,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学体育教师(实习生)",
@@ -5719,7 +5877,8 @@ window.REAL_JOBS = [
     },
     "id": 180,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中日语教师(青年教师)",
@@ -5751,7 +5910,8 @@ window.REAL_JOBS = [
     },
     "id": 181,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中雅思教师(青年教师)",
@@ -5783,7 +5943,8 @@ window.REAL_JOBS = [
     },
     "id": 182,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中通用技术教师(青年教师)",
@@ -5815,7 +5976,8 @@ window.REAL_JOBS = [
     },
     "id": 183,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中地理教师(青年教师)",
@@ -5847,7 +6009,8 @@ window.REAL_JOBS = [
     },
     "id": 184,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学教师(青年教师)",
@@ -5879,7 +6042,8 @@ window.REAL_JOBS = [
     },
     "id": 185,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生物教师(青年教师)",
@@ -5911,7 +6075,8 @@ window.REAL_JOBS = [
     },
     "id": 186,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师(青年教师)",
@@ -5943,7 +6108,8 @@ window.REAL_JOBS = [
     },
     "id": 187,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(青年教师)",
@@ -5975,7 +6141,8 @@ window.REAL_JOBS = [
     },
     "id": 188,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师(青年教师)",
@@ -6007,7 +6174,8 @@ window.REAL_JOBS = [
     },
     "id": 189,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师(青年教师)",
@@ -6039,7 +6207,8 @@ window.REAL_JOBS = [
     },
     "id": 190,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(青年教师)",
@@ -6071,7 +6240,8 @@ window.REAL_JOBS = [
     },
     "id": 191,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "德育专员/干事",
@@ -6103,7 +6273,8 @@ window.REAL_JOBS = [
     },
     "id": 192,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "生活老师",
@@ -6134,7 +6305,8 @@ window.REAL_JOBS = [
     },
     "id": 193,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "教务专员",
@@ -6166,7 +6338,8 @@ window.REAL_JOBS = [
     },
     "id": 194,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "教学主任",
@@ -6198,7 +6371,8 @@ window.REAL_JOBS = [
     },
     "id": 195,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学信息技术教师",
@@ -6230,7 +6404,8 @@ window.REAL_JOBS = [
     },
     "id": 196,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中通用技术教师(骨干教师)",
@@ -6262,7 +6437,8 @@ window.REAL_JOBS = [
     },
     "id": 197,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中物理教师(有中考备考经验)",
@@ -6294,7 +6470,8 @@ window.REAL_JOBS = [
     },
     "id": 198,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中生物教师(骨干教师)",
@@ -6326,7 +6503,8 @@ window.REAL_JOBS = [
     },
     "id": 199,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中信息技术教师(骨干教师)",
@@ -6358,7 +6536,8 @@ window.REAL_JOBS = [
     },
     "id": 200,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中美术教师(骨干教师)",
@@ -6390,7 +6569,8 @@ window.REAL_JOBS = [
     },
     "id": 201,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中心理健康教师(骨干教师)",
@@ -6422,7 +6602,8 @@ window.REAL_JOBS = [
     },
     "id": 202,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中信息技术教师(骨干教师)",
@@ -6454,7 +6635,8 @@ window.REAL_JOBS = [
     },
     "id": 203,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中美术教师(骨干教师)",
@@ -6486,7 +6668,8 @@ window.REAL_JOBS = [
     },
     "id": 204,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中体育教师(骨干教师)",
@@ -6518,7 +6701,8 @@ window.REAL_JOBS = [
     },
     "id": 205,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中声乐教师",
@@ -6550,7 +6734,8 @@ window.REAL_JOBS = [
     },
     "id": 206,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学书法教师(青年教师)",
@@ -6582,7 +6767,8 @@ window.REAL_JOBS = [
     },
     "id": 207,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学信息技术教师(骨干教师)",
@@ -6614,7 +6800,8 @@ window.REAL_JOBS = [
     },
     "id": 208,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师（有中考备考经验）",
@@ -6646,7 +6833,8 @@ window.REAL_JOBS = [
     },
     "id": 209,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师（有一届及以上九年级经验）",
@@ -6678,7 +6866,8 @@ window.REAL_JOBS = [
     },
     "id": 210,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学音乐教师（西洋管乐方向）",
@@ -6710,7 +6899,8 @@ window.REAL_JOBS = [
     },
     "id": 211,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "心理辅导教师",
@@ -6742,7 +6932,8 @@ window.REAL_JOBS = [
     },
     "id": 212,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "中学信息技术教师",
@@ -6774,7 +6965,8 @@ window.REAL_JOBS = [
     },
     "id": 213,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "中小学美术教师",
@@ -6806,7 +6998,8 @@ window.REAL_JOBS = [
     },
     "id": 214,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学舞蹈教师(骨干教师)",
@@ -6838,7 +7031,8 @@ window.REAL_JOBS = [
     },
     "id": 215,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学科学教师(青年教师)",
@@ -6870,7 +7064,8 @@ window.REAL_JOBS = [
     },
     "id": 216,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中音乐教师(骨干教师)",
@@ -6902,7 +7097,8 @@ window.REAL_JOBS = [
     },
     "id": 217,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学教师(学科带头人)",
@@ -6934,7 +7130,8 @@ window.REAL_JOBS = [
     },
     "id": 218,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中各科学科带头人(学科带头人)",
@@ -6966,7 +7163,8 @@ window.REAL_JOBS = [
     },
     "id": 219,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "中小学教务处主任",
@@ -6998,7 +7196,8 @@ window.REAL_JOBS = [
     },
     "id": 220,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "中小学数学学科带头人",
@@ -7030,7 +7229,8 @@ window.REAL_JOBS = [
     },
     "id": 221,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "心理健康教育教师",
@@ -7062,7 +7262,8 @@ window.REAL_JOBS = [
     },
     "id": 222,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "中小学语文教师学科带头人",
@@ -7094,7 +7295,8 @@ window.REAL_JOBS = [
     },
     "id": 223,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "德育处主任",
@@ -7126,7 +7328,8 @@ window.REAL_JOBS = [
     },
     "id": 224,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学舞蹈教师(青年教师)",
@@ -7158,7 +7361,8 @@ window.REAL_JOBS = [
     },
     "id": 225,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师(学科带头人)",
@@ -7190,7 +7394,8 @@ window.REAL_JOBS = [
     },
     "id": 226,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中道德与法治教师(青年教师)",
@@ -7222,7 +7427,8 @@ window.REAL_JOBS = [
     },
     "id": 227,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师(青年教师)",
@@ -7254,7 +7460,8 @@ window.REAL_JOBS = [
     },
     "id": 228,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学数学教师(青年教师)",
@@ -7286,7 +7493,8 @@ window.REAL_JOBS = [
     },
     "id": 229,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中生物教师",
@@ -7318,7 +7526,8 @@ window.REAL_JOBS = [
     },
     "id": 230,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中政治教师",
@@ -7350,7 +7559,8 @@ window.REAL_JOBS = [
     },
     "id": 231,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中历史教师",
@@ -7382,7 +7592,8 @@ window.REAL_JOBS = [
     },
     "id": 232,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中道德与法治教师(应届生)",
@@ -7414,7 +7625,8 @@ window.REAL_JOBS = [
     },
     "id": 233,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中音乐教师(青年教师)",
@@ -7446,7 +7658,8 @@ window.REAL_JOBS = [
     },
     "id": 234,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中美术教师(青年教师)",
@@ -7478,7 +7691,8 @@ window.REAL_JOBS = [
     },
     "id": 235,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师(应届生)",
@@ -7510,7 +7724,8 @@ window.REAL_JOBS = [
     },
     "id": 236,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中生物教师(应届生)",
@@ -7542,7 +7757,8 @@ window.REAL_JOBS = [
     },
     "id": 237,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中物理教师(应届生)",
@@ -7574,7 +7790,8 @@ window.REAL_JOBS = [
     },
     "id": 238,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中化学教师(应届生)",
@@ -7606,7 +7823,8 @@ window.REAL_JOBS = [
     },
     "id": 239,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师(应届生)",
@@ -7638,7 +7856,8 @@ window.REAL_JOBS = [
     },
     "id": 240,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学教师(应届生)",
@@ -7670,7 +7889,8 @@ window.REAL_JOBS = [
     },
     "id": 241,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(专家级名师)",
@@ -7702,7 +7922,8 @@ window.REAL_JOBS = [
     },
     "id": 242,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师(专家级名师)",
@@ -7734,7 +7955,8 @@ window.REAL_JOBS = [
     },
     "id": 243,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学教师(专家级名师)",
@@ -7766,7 +7988,8 @@ window.REAL_JOBS = [
     },
     "id": 244,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师(专家级名师)",
@@ -7798,7 +8021,8 @@ window.REAL_JOBS = [
     },
     "id": 245,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(名师)(专家级名师)",
@@ -7830,7 +8054,8 @@ window.REAL_JOBS = [
     },
     "id": 246,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中物理教师(骨干教师)",
@@ -7862,7 +8087,8 @@ window.REAL_JOBS = [
     },
     "id": 247,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中化学教师(骨干教师)",
@@ -7894,7 +8120,8 @@ window.REAL_JOBS = [
     },
     "id": 248,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中地理教师(应届生)",
@@ -7926,7 +8153,8 @@ window.REAL_JOBS = [
     },
     "id": 249,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中历史教师(应届生)",
@@ -7958,7 +8186,8 @@ window.REAL_JOBS = [
     },
     "id": 250,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(应届生)",
@@ -7990,7 +8219,8 @@ window.REAL_JOBS = [
     },
     "id": 251,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(应届生)",
@@ -8022,7 +8252,8 @@ window.REAL_JOBS = [
     },
     "id": 252,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师(应届生)",
@@ -8054,7 +8285,8 @@ window.REAL_JOBS = [
     },
     "id": 253,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学教师(应届生)",
@@ -8086,7 +8318,8 @@ window.REAL_JOBS = [
     },
     "id": 254,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师(应届生)",
@@ -8118,7 +8351,8 @@ window.REAL_JOBS = [
     },
     "id": 255,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师(应届生)",
@@ -8150,7 +8384,8 @@ window.REAL_JOBS = [
     },
     "id": 256,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生物教师(应届生)",
@@ -8182,7 +8417,8 @@ window.REAL_JOBS = [
     },
     "id": 257,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师(应届生)",
@@ -8214,7 +8450,8 @@ window.REAL_JOBS = [
     },
     "id": 258,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中地理教师(应届生)",
@@ -8246,7 +8483,8 @@ window.REAL_JOBS = [
     },
     "id": 259,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师(青年教师)",
@@ -8278,7 +8516,8 @@ window.REAL_JOBS = [
     },
     "id": 260,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中地理教师(骨干教师)",
@@ -8310,7 +8549,8 @@ window.REAL_JOBS = [
     },
     "id": 261,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师（秋季）",
@@ -8342,7 +8582,8 @@ window.REAL_JOBS = [
     },
     "id": 262,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师（硕士实习生）",
@@ -8374,7 +8615,8 @@ window.REAL_JOBS = [
     },
     "id": 263,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师(硕士实习生)",
@@ -8406,7 +8648,8 @@ window.REAL_JOBS = [
     },
     "id": 264,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(硕士实习生)",
@@ -8438,7 +8681,8 @@ window.REAL_JOBS = [
     },
     "id": 265,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(硕士实习生)",
@@ -8470,7 +8714,8 @@ window.REAL_JOBS = [
     },
     "id": 266,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师(硕士实习生)",
@@ -8502,7 +8747,8 @@ window.REAL_JOBS = [
     },
     "id": 267,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师（硕士实习生）",
@@ -8534,7 +8780,8 @@ window.REAL_JOBS = [
     },
     "id": 268,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中地理教师（秋季）",
@@ -8566,7 +8813,8 @@ window.REAL_JOBS = [
     },
     "id": 269,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师（秋季）",
@@ -8598,7 +8846,8 @@ window.REAL_JOBS = [
     },
     "id": 270,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生物教师（秋季）",
@@ -8630,7 +8879,8 @@ window.REAL_JOBS = [
     },
     "id": 271,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师（秋季）",
@@ -8662,7 +8912,8 @@ window.REAL_JOBS = [
     },
     "id": 272,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学教师（秋季）",
@@ -8694,7 +8945,8 @@ window.REAL_JOBS = [
     },
     "id": 273,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师（秋季）",
@@ -8726,7 +8978,8 @@ window.REAL_JOBS = [
     },
     "id": 274,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师（秋季）",
@@ -8758,7 +9011,8 @@ window.REAL_JOBS = [
     },
     "id": 275,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师（秋季）",
@@ -8790,7 +9044,8 @@ window.REAL_JOBS = [
     },
     "id": 276,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师（秋季）",
@@ -8822,7 +9077,8 @@ window.REAL_JOBS = [
     },
     "id": 277,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "急招初中物理教师(骨干教师)（年薪8-30万）",
@@ -8854,7 +9110,8 @@ window.REAL_JOBS = [
     },
     "id": 278,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师(骨干教师)（年薪10-30万）",
@@ -8886,7 +9143,8 @@ window.REAL_JOBS = [
     },
     "id": 279,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中数学教师(骨干教师)（年薪10-30万）",
@@ -8918,7 +9176,8 @@ window.REAL_JOBS = [
     },
     "id": 280,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中心理健康教师",
@@ -8950,7 +9209,8 @@ window.REAL_JOBS = [
     },
     "id": 281,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "急招初中数学教师（年薪8-18w）",
@@ -8982,7 +9242,8 @@ window.REAL_JOBS = [
     },
     "id": 282,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师（年薪10-25w）",
@@ -9014,7 +9275,8 @@ window.REAL_JOBS = [
     },
     "id": 283,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "急招初中地理教师（年薪8-18w）",
@@ -9046,7 +9308,8 @@ window.REAL_JOBS = [
     },
     "id": 284,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "急招初中物理教师（年薪8-18w）",
@@ -9078,7 +9341,8 @@ window.REAL_JOBS = [
     },
     "id": 285,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中化学教师（年薪8-18w）",
@@ -9110,7 +9374,8 @@ window.REAL_JOBS = [
     },
     "id": 286,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中生物教师（年薪8-18w）",
@@ -9142,7 +9407,8 @@ window.REAL_JOBS = [
     },
     "id": 287,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中道德与法治教师（年薪8-18w）",
@@ -9174,7 +9440,8 @@ window.REAL_JOBS = [
     },
     "id": 288,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中语文教师（年薪8-18w）",
@@ -9206,7 +9473,8 @@ window.REAL_JOBS = [
     },
     "id": 289,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学六年级语文教师(青年教师)",
@@ -9238,7 +9506,8 @@ window.REAL_JOBS = [
     },
     "id": 290,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "计算机专业教师(急招)",
@@ -9270,7 +9539,8 @@ window.REAL_JOBS = [
     },
     "id": 291,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "（培训部）初中英语教师",
@@ -9366,7 +9636,8 @@ window.REAL_JOBS = [
     },
     "id": 294,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中英语教师(学科带头人)",
@@ -9398,7 +9669,8 @@ window.REAL_JOBS = [
     },
     "id": 295,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师(成熟教师)",
@@ -9430,7 +9702,8 @@ window.REAL_JOBS = [
     },
     "id": 296,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师(清北名师)",
@@ -9462,7 +9735,8 @@ window.REAL_JOBS = [
     },
     "id": 297,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中体育教师(成熟教师)",
@@ -9494,7 +9768,8 @@ window.REAL_JOBS = [
     },
     "id": 298,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中音乐教师(青年教师)",
@@ -9526,7 +9801,8 @@ window.REAL_JOBS = [
     },
     "id": 299,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生活老师",
@@ -9557,7 +9833,8 @@ window.REAL_JOBS = [
     },
     "id": 300,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(成熟教师)",
@@ -9589,7 +9866,8 @@ window.REAL_JOBS = [
     },
     "id": 301,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(清北名师)",
@@ -9621,7 +9899,8 @@ window.REAL_JOBS = [
     },
     "id": 302,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师(清北名师)",
@@ -9653,7 +9932,8 @@ window.REAL_JOBS = [
     },
     "id": 303,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中数学教师(成熟教师)",
@@ -9685,7 +9965,8 @@ window.REAL_JOBS = [
     },
     "id": 304,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中语文教师(清北名师)",
@@ -9717,7 +9998,8 @@ window.REAL_JOBS = [
     },
     "id": 305,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生物教师(清北名师)",
@@ -9749,7 +10031,8 @@ window.REAL_JOBS = [
     },
     "id": 306,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中生物教师(成熟教师)",
@@ -9781,7 +10064,8 @@ window.REAL_JOBS = [
     },
     "id": 307,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学教师(清北名师)",
@@ -9813,7 +10097,8 @@ window.REAL_JOBS = [
     },
     "id": 308,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "初中物理教师(学科带头人)",
@@ -9845,7 +10130,8 @@ window.REAL_JOBS = [
     },
     "id": 309,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中地理教师(成熟教师)",
@@ -9877,7 +10163,8 @@ window.REAL_JOBS = [
     },
     "id": 310,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中地理教师(清北名师)",
@@ -9909,7 +10196,8 @@ window.REAL_JOBS = [
     },
     "id": 311,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师(成熟教师)",
@@ -9941,7 +10229,8 @@ window.REAL_JOBS = [
     },
     "id": 312,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中政治教师(清北名师)",
@@ -9973,7 +10262,8 @@ window.REAL_JOBS = [
     },
     "id": 313,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中英语教师(成熟教师)",
@@ -10005,7 +10295,8 @@ window.REAL_JOBS = [
     },
     "id": 314,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中化学教师(成熟教师)",
@@ -10037,7 +10328,8 @@ window.REAL_JOBS = [
     },
     "id": 315,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师(清北名师)",
@@ -10069,7 +10361,8 @@ window.REAL_JOBS = [
     },
     "id": 316,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中物理教师(成熟教师)",
@@ -10101,7 +10394,8 @@ window.REAL_JOBS = [
     },
     "id": 317,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "五大学科竞赛教练(竞赛教练)",
@@ -10133,7 +10427,8 @@ window.REAL_JOBS = [
     },
     "id": 318,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "物理实验员",
@@ -10165,7 +10460,8 @@ window.REAL_JOBS = [
     },
     "id": 319,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学生活教师（急聘女）",
@@ -10322,7 +10618,8 @@ window.REAL_JOBS = [
     },
     "id": 324,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "教务处副处长",
@@ -10354,7 +10651,8 @@ window.REAL_JOBS = [
     },
     "id": 325,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "教务处处长",
@@ -10386,7 +10684,8 @@ window.REAL_JOBS = [
     },
     "id": 326,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "幼儿英语教师(英语教师)",
@@ -10417,7 +10716,8 @@ window.REAL_JOBS = [
     },
     "id": 327,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "职高数学教师",
@@ -10449,7 +10749,8 @@ window.REAL_JOBS = [
     },
     "id": 328,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中历史教师(优秀教师)",
@@ -10545,7 +10846,8 @@ window.REAL_JOBS = [
     },
     "id": 331,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "小学英语骨干教师(骨干教师)",
@@ -10641,7 +10943,8 @@ window.REAL_JOBS = [
     },
     "id": 334,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "2026年广州市海珠区教育系统高校毕业生招聘公告",
@@ -10702,7 +11005,8 @@ window.REAL_JOBS = [
       "contact": "电话 020-39322792、020-39322692"
     },
     "id": 336,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "公办"
   },
   {
     "title": "广东工业大学揭阳校区2026年公开招聘聘用制职员公告",
@@ -10764,7 +11068,8 @@ window.REAL_JOBS = [
     },
     "id": 338,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "外语教师（DSE）(青年教师)",
@@ -10892,7 +11197,8 @@ window.REAL_JOBS = [
     },
     "id": 342,
     "isPrivate": true,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "高中其他教师(青年教师)",
@@ -10956,7 +11262,8 @@ window.REAL_JOBS = [
       "signup": "简历投递地址（请同时投递到二级学院及人事处邮箱）；简历投递地址；请将以上材料发送到相应的邮箱",
       "contact": "邮箱 cxxxgc@163.com"
     },
-    "id": 344
+    "id": 344,
+    "ownership": "民办"
   },
   {
     "title": "“百万英才汇南粤”行动计划清远市清新区2026年下半年公开招聘高层次教育人才公告",
@@ -11018,7 +11325,8 @@ window.REAL_JOBS = [
       "signup": "有意者请于 2026 年 11 月 12 日前将个人简历、毕业证书、学位证书及相关材料的电子版发送至邮箱 ltxgzc@scau.edu.cn",
       "contact": "邮箱 ltxgzc@scau.edu.cn"
     },
-    "id": 346
+    "id": 346,
+    "ownership": "公办"
   },
   {
     "title": "深圳中学2026年11月面向2027年应届毕业生公开招聘教师公告",
@@ -11052,7 +11360,8 @@ window.REAL_JOBS = [
       "contact": "电话 0755-29391989、0755-29391947\n\n"
     },
     "id": 347,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "公办"
   },
   {
     "title": "深圳市第七高级中学专任教师招聘公告",
@@ -11114,7 +11423,8 @@ window.REAL_JOBS = [
       "signup": "请应聘者将个人详细简历（包括教育经历、工作经历、学术成果等）有关材料发至学校各学院人才专员邮箱（见附表）并抄送至人事处高层次人才引进办公室邮箱（邮件标题请注明；请应聘者将个人详细简历（包括教育经历、工作经历、学术成果等）有关材料发至学校各学院人才专员老师邮箱（见附表）并抄送至人事处博士后管理办公室邮箱（邮件标题请注明",
       "contact": "联系人 罗老师；电话 020-39322509\n、020-39322270\n；邮箱 rcb@gdut.edu.cn"
     },
-    "id": 349
+    "id": 349,
+    "ownership": "公办"
   },
   {
     "title": "广东外语外贸大学南国商学院2026年博士招聘启事",
@@ -11175,7 +11485,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 刘老师；电话 15112511025\n；邮箱 tongxu.liu@szu.edu.cn；地址 深圳大学沧海校区致理楼"
     },
-    "id": 351
+    "id": 351,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学金融科技学院博士后招聘简章",
@@ -11204,7 +11515,8 @@ window.REAL_JOBS = [
       "signup": "导师联系邮箱；材料投递：应聘者请将；等材料打包，通过电子邮件发送至意向合作导师邮箱（邮件主题请注明：姓名",
       "contact": "联系人 王老师；邮箱 hc335@szu.edu.cn"
     },
-    "id": 352
+    "id": 352,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学高等研究院伍若楠课题组博士后招聘",
@@ -11233,7 +11545,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 伍若楠；电话 18045982395\n；邮箱 .wu@szu.edu.cn；地址 广东省深圳市南山区深圳大学沧海校区"
     },
-    "id": 353
+    "id": 353,
+    "ownership": "公办"
   },
   {
     "title": "广州应用科技学院职能部门招聘公告（2026年10月）",
@@ -11263,7 +11576,8 @@ window.REAL_JOBS = [
       "signup": "填写《广州应用科技学院应聘人员登记表》（见附件），发送至学校电子 邮 箱，邮件主题请注明：姓名+专业+学历+职称+应聘岗位，合则约见。 联系地址：广东省肇庆市鼎湖区莲花镇丰乐路20号广州应用科技学院 行政中心 309人事处 办公室",
       "contact": "电话 0758-2610555；邮箱 rsc@gzasc.edu.cn；地址 广东省肇庆市鼎湖区莲花镇丰乐路20号广州应用科技学院"
     },
-    "id": 354
+    "id": 354,
+    "ownership": "民办"
   },
   {
     "title": "肇庆学院2027届校园招聘",
@@ -11323,7 +11637,8 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "联系人 邮箱；邮箱 leiyiming2018@outlook.com"
     },
-    "id": 356
+    "id": 356,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学机电学院吴章辉招聘副研究员",
@@ -11352,7 +11667,8 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 357
+    "id": 357,
+    "ownership": "公办"
   },
   {
     "title": "广州华夏职业学院2026年秋季招聘公告",
@@ -11386,7 +11702,8 @@ window.REAL_JOBS = [
       "contact": "联系人 人事处唐老师、潘老师；电话 020-87868965\n\n；邮箱 gzhxrsc87868965@163.com"
     },
     "id": 358,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "广州华商职业学院面向海内外高薪引进高层次人才公告",
@@ -11417,7 +11734,8 @@ window.REAL_JOBS = [
       "contact": "电话 020-82666161、0750-6238967；邮箱 hszyzp@126.com"
     },
     "id": 359,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "民办"
   },
   {
     "title": "深圳大学心理学院唐苏勤课题组诚聘研究助理",
@@ -11446,7 +11764,8 @@ window.REAL_JOBS = [
       "signup": "申请人请将以上材料合并为一个PDF文件直接发送至邮箱：sqtang@szu.edu.cn，邮件标题主题为“研究助理+姓名”；注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "邮箱 sqtang@szu.edu.cn"
     },
-    "id": 360
+    "id": 360,
+    "ownership": "公办"
   },
   {
     "title": "广东外语外贸大学南国商学院  2026年辅导员招聘启事",
@@ -11567,7 +11886,8 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "联系人 黄飞；电话 18610608676\n；邮箱 huangfei@pku.edu.cn"
     },
-    "id": 364
+    "id": 364,
+    "ownership": "公办"
   },
   {
     "title": "2026年台山市部分学校招聘急需紧缺人才公告",
@@ -11626,7 +11946,8 @@ window.REAL_JOBS = [
       "signup": "（二）学校根据投递的简历进行初选，通过初选后，学校电话通知以在线试讲或线下面试等方式进行综合考核",
       "contact": "电话 0769-86211880  8621188；邮箱 gdkjxy@sina.com；地址 广东省东莞市南城区西湖路"
     },
-    "id": 366
+    "id": 366,
+    "ownership": "民办"
   },
   {
     "title": "广东科技学院公开招聘紧缺人才公告",
@@ -11655,7 +11976,8 @@ window.REAL_JOBS = [
       "signup": "符合条件的意向人员请以电子邮件等方式将个人简历和其他证明材料发我校人事处邮箱或邮寄至我校人事处",
       "contact": "电话 0769-86211880；邮箱 gdkjxy@sina.com"
     },
-    "id": 367
+    "id": 367,
+    "ownership": "民办"
   },
   {
     "title": "广东外语外贸大学南国商学院2026年文化与传播学院招聘启事（急招）",
@@ -11718,7 +12040,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "邮箱 gdcxrsc@163.com"
     },
-    "id": 369
+    "id": 369,
+    "ownership": "民办"
   },
   {
     "title": "惠州学院2026年公开招聘教学法、课程与教学论师资公告",
@@ -11747,7 +12070,8 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至；本次招聘实行邮件报名；详见各二级学院邮箱",
       "contact": "电话 0752-2529142\n、0752-2527273\n；邮箱 zhaopin@hzu.edu.cn"
     },
-    "id": 370
+    "id": 370,
+    "ownership": "公办"
   },
   {
     "title": "惠州学院2026年公开招聘学科带头人、学科骨干公告",
@@ -11776,7 +12100,8 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至；随时接受报名，招满即止；招聘单位视报名情况每",
       "contact": "电话 0752-2529142、0752-2527273；邮箱 zhaopin@hzu.edu.dn"
     },
-    "id": 371
+    "id": 371,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学传播学院“百人计划”教授虞鑫团队博士后招聘",
@@ -11805,7 +12130,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 372
+    "id": 372,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学口腔医学院向碧璐研究团队招聘研究助理一名",
@@ -11834,7 +12160,8 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "联系人 向老师；邮箱 xiangbl@szu.edu.cn"
     },
-    "id": 373
+    "id": 373,
+    "ownership": "公办"
   },
   {
     "title": "肇庆学院2026年教学科研人员招聘公告",
@@ -11864,7 +12191,8 @@ window.REAL_JOBS = [
       "signup": "发送至应聘部门联系邮箱；详见上表）和人力资源部邮箱；应聘者提交的应聘信息和相关佐证材料务必真实可信，并与个人应聘报名表及简历一致，经查证弄虚作假者，将取消录用资格，由此引起的一切后果与法律责任由应聘者本人承担",
       "contact": "联系人 及电话；电话 0758-2752890；邮箱 rsc@zqu.edu.cn"
     },
-    "id": 374
+    "id": 374,
+    "ownership": "公办"
   },
   {
     "title": "广东理工学院2027年教师招聘简章",
@@ -11895,7 +12223,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 0758-8387203\n；邮箱 rsk333@163.com；地址 广东省肇庆市高要区祈福大道广东理工学院"
     },
-    "id": 375
+    "id": 375,
+    "ownership": "民办"
   },
   {
     "title": "深圳大学化学与环境工程学院李加强课题组博士后招聘",
@@ -11924,7 +12253,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "邮箱 jiaqiang.li@szu.edu.cn"
     },
-    "id": 376
+    "id": 376,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学心理学院陈琦特聘教授-陶伍海副教授联合诚聘博士后",
@@ -11953,7 +12283,8 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 陶伍海；邮箱 taowh@szu.edu.cn；地址 深圳大学沧海校区致理楼"
     },
-    "id": 377
+    "id": 377,
+    "ownership": "公办"
   },
   {
     "title": "深圳大学管理学院博士后招聘",
@@ -11982,7 +12313,8 @@ window.REAL_JOBS = [
       "signup": "（流动站邮箱）",
       "contact": "联系人 刘老师；邮箱 szumgt_postdoc@126.com"
     },
-    "id": 378
+    "id": 378,
+    "ownership": "公办"
   },
   {
     "title": "广州理工学院2026年秋季专任教师招聘公告",
@@ -12012,7 +12344,8 @@ window.REAL_JOBS = [
       "signup": "报名采用电子邮箱投递（仅限博士）或招聘系统投递简历，每位应聘者只可应聘一个岗位；1.电子邮箱：应聘者填写人才引进报名表（可在官网中获取下载），连同个人简历以及学历、职称证明等材料发送至学校人事处电子邮箱rsc@gzist.edu.cn，邮件标题请注明：博士专任教师应聘+岗位代码+姓名；2.招聘系统：应聘者登录广州理工学院招聘系统进行报名和简历投递（招聘系统网址https://zp.gzist.edu.cn/）",
       "contact": "电话 020-87478493\n；邮箱 职称证明等材料发送至学校人事处电子邮箱rsc@gzist.edu.cn"
     },
-    "id": 379
+    "id": 379,
+    "ownership": "民办"
   },
   {
     "title": "广东理工学院2027年银龄教师招聘简章",
@@ -12041,7 +12374,8 @@ window.REAL_JOBS = [
       "signup": "请将简历以 “ 姓名 +专业+应聘岗位 ” 方式命名，发送至邮 箱 rsk333@163.com",
       "contact": "联系人 张老师；电话 0758-8387203\n；邮箱 rsk333@163.com；地址 广东省肇庆市高要区祈福大道广东理工学院"
     },
-    "id": 380
+    "id": 380,
+    "ownership": "民办"
   },
   {
     "title": "关于韶关市教育局直属学校2026年面向社会公开招聘教职员初检结论的公告",
@@ -12100,7 +12434,8 @@ window.REAL_JOBS = [
       "signup": "月招聘科研助理公告》，经公开报名、资格审核、面试、考察等工作程序，",
       "contact": "电话 0758－2752102\n；邮箱 rsk316@zqu.edu.cn"
     },
-    "id": 382
+    "id": 382,
+    "ownership": "公办"
   },
   {
     "title": "广东省财经职业技术学校招聘公告",
@@ -12133,7 +12468,8 @@ window.REAL_JOBS = [
       "contact": "联系人 李老师；电话 0757-85551534；邮箱 的形式命名并发送至邮箱gdcjxxoffice@163.com"
     },
     "id": 383,
-    "pendingReview": true
+    "pendingReview": true,
+    "ownership": "公办"
   },
   {
     "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
