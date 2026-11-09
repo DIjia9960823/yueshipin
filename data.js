@@ -505,7 +505,8 @@ window.REAL_JOBS = [
       "signup": "1.《广东省事业单位公开招聘人员报名表》（在报名系统填报后自动生成，导出签名后提交 PDF扫描件）；",
       "contact": "电话 0763-3919523、0763-3919526；邮箱 gdcvizp2022@163.com"
     },
-    "id": 17
+    "id": 17,
+    "pendingReview": true
   },
   {
     "title": "2026年清远市清城区教育系统公开招聘编外教师公告",
@@ -534,7 +535,8 @@ window.REAL_JOBS = [
       "signup": "报名首日前取得国家承认的学历学位证书及符合岗位条件的人员；本条所规定处分期限的计算截至报名首日；年龄时间点的计算截至报名首日",
       "contact": "电话 0763-3333000\n\n\n\n"
     },
-    "id": 18
+    "id": 18,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师(骨干教师)",
@@ -565,7 +567,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 19,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学骨干数学教师(骨干教师)",
@@ -596,7 +599,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 20,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师（清北骨干名师）",
@@ -627,7 +631,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 21,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学英语老师",
@@ -658,7 +663,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 22,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学心理健康教师",
@@ -689,7 +695,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 23,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师(实习、代课)",
@@ -720,7 +727,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 24,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(中青年教师)",
@@ -751,7 +759,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 25,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师(合格教师)",
@@ -782,7 +791,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 26,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "工业机器人技术应用教师",
@@ -813,7 +823,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 27,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师(年薪8-25万)",
@@ -844,7 +855,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 28,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师",
@@ -875,7 +887,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 29,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师",
@@ -906,7 +919,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 30,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师",
@@ -937,7 +951,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 31,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师",
@@ -968,7 +983,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 32,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师(名优教师)",
@@ -999,7 +1015,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 33,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(骨干教师)",
@@ -1030,7 +1047,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 34,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理青年教师",
@@ -1061,7 +1079,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 35,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师(骨干教师)",
@@ -1092,7 +1111,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 36,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中物理教师",
@@ -1123,7 +1143,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 37,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中化学教师",
@@ -1154,7 +1175,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 38,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师(青年教师)",
@@ -1185,7 +1207,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 39,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师",
@@ -1216,7 +1239,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 40,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师(骨干教师)",
@@ -1247,7 +1271,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 41,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生物教师",
@@ -1278,7 +1303,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 42,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学音乐教师(青年教师)",
@@ -1309,7 +1335,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 43,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(骨干教师)",
@@ -1340,7 +1367,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 44,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中物理教师(青年教师)",
@@ -1371,7 +1399,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 45,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中化学老师",
@@ -1402,7 +1431,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 46,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "急招 初中道德与法治教师(青年教师)",
@@ -1433,7 +1463,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 47,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "生活教师",
@@ -1463,7 +1494,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 48,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学数学教师(骨干教师)",
@@ -1494,7 +1526,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 49,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中化学教师(青年教师)",
@@ -1525,7 +1558,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 50,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(立即到岗)",
@@ -1556,7 +1590,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 51,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中体育教师",
@@ -1587,7 +1622,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 52,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师(骨干教师)",
@@ -1618,7 +1654,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 53,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "11月校招宣讲会—高中教师（语数英物化）(应届生)",
@@ -1649,7 +1686,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 54,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中历史教师(合格教师)",
@@ -1680,7 +1718,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 55,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初数学教师(合格教师)",
@@ -1711,7 +1750,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 56,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "国际部班主任",
@@ -1742,7 +1782,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 57,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "幼儿园实习教师",
@@ -1773,7 +1814,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 58,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "国际部德育主任",
@@ -1804,7 +1846,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 59,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "幼儿园班级教师",
@@ -1835,7 +1878,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 60,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "幼儿园保育老师",
@@ -1866,7 +1910,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 61,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中地理教师",
@@ -1897,7 +1942,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 62,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学美术教师",
@@ -1928,7 +1974,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 63,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学语文教师",
@@ -1959,7 +2006,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 64,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学数学教师",
@@ -1990,7 +2038,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 65,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学英语教师",
@@ -2021,7 +2070,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 66,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学书法教师",
@@ -2052,7 +2102,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 67,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学科学教师",
@@ -2083,7 +2134,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 68,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学体育教师",
@@ -2114,7 +2166,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 69,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学音乐教师",
@@ -2145,7 +2198,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 70,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师(青年教师)",
@@ -2176,7 +2230,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 71,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学数学教师及班主任（ 线下面试）",
@@ -2207,7 +2262,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 72,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语科任教师（线下面试）",
@@ -2238,7 +2294,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 73,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "心理健康教师（专职）",
@@ -2269,7 +2326,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 74,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "八语文教师兼班主任（需要线下面试）",
@@ -2300,7 +2358,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 75,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师(8月份上岗)",
@@ -2331,7 +2390,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 76,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学心理健康教师(青年教师)",
@@ -2362,7 +2422,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 77,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学语文骨干教师(青年教师)",
@@ -2393,7 +2454,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 78,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学英语骨干教师",
@@ -2424,7 +2486,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 79,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学体育教师(青年教师)",
@@ -2455,7 +2518,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 80,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学美术教师(青年教师)",
@@ -2486,7 +2550,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 81,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "信息技术(青年教师)",
@@ -2517,7 +2582,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 82,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学科学老师(青年教师)",
@@ -2548,7 +2614,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 83,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中心理健康教师(青年教师)",
@@ -2579,7 +2646,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 84,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师(骨干教师)",
@@ -2610,7 +2678,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 85,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生物教师(骨干教师)",
@@ -2641,7 +2710,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 86,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中体育教师(青年教师)",
@@ -2672,7 +2742,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 87,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中信息技术教师(青年教师)",
@@ -2703,7 +2774,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 88,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "德育主任",
@@ -2734,7 +2806,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 89,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中舞蹈教师(青年教师)",
@@ -2765,7 +2838,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 90,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(骨干教师)",
@@ -2796,7 +2870,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 91,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师(骨干教师)",
@@ -2827,7 +2902,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 92,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师(骨干教师)",
@@ -2858,7 +2934,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 93,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学语文教师（年薪10万-20万）",
@@ -2889,7 +2966,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 94,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "A-Level 教学主管",
@@ -2920,7 +2998,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 95,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE数学教师（高中）",
@@ -2951,7 +3030,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 96,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中政治教师（年薪12-24万）",
@@ -2982,7 +3062,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 97,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE公社教师（高中）",
@@ -3013,7 +3094,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 98,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小初高各科教师(2027应届生)",
@@ -3044,7 +3126,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 99,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "教务主任",
@@ -3075,7 +3158,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 100,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE物理教师（高中）",
@@ -3106,7 +3190,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 101,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE历史教师（高中）",
@@ -3137,7 +3222,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 102,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE经济老师",
@@ -3168,7 +3254,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 103,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE化学教师（高中）",
@@ -3199,7 +3286,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 104,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE生物教师（高中）",
@@ -3230,7 +3318,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 105,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE英语教师（高中）",
@@ -3261,7 +3350,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 106,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE语文教师（高中）",
@@ -3292,7 +3382,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 107,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中日语教师(骨干教师)",
@@ -3323,7 +3414,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 108,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "德育干事",
@@ -3354,7 +3446,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 109,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文老师",
@@ -3385,7 +3478,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 110,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中信息技术教师(青年教师)",
@@ -3416,7 +3510,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 111,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE英语教师(青年教师)",
@@ -3447,7 +3542,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 112,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "双语化学教师(青年教师)",
@@ -3478,7 +3574,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 113,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "日语教师（有高三教学经验的）",
@@ -3509,7 +3606,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 114,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中道德与法治教师",
@@ -3540,7 +3638,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 115,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学体育教师（羽毛球或乒乓球）(青年教师)",
@@ -3571,7 +3670,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 116,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "双语物理教师",
@@ -3602,7 +3702,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 117,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "双语化学生物教师",
@@ -3633,7 +3734,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 118,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE公民与社会(道德与法治)(青年教师)",
@@ -3664,7 +3766,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 119,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师（辅修西班牙语/阿拉伯语））(青年教师)",
@@ -3695,7 +3798,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 120,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师",
@@ -3726,7 +3830,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 121,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师（清北班）",
@@ -3757,7 +3862,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 122,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学道德与法治教师(青年教师)",
@@ -3788,7 +3894,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 123,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(需要高三经验)",
@@ -3819,7 +3926,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 124,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学英语教师（需要班主任经验）",
@@ -3850,7 +3958,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 125,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师",
@@ -3881,7 +3990,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 126,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中生物教师(青年教师)",
@@ -3912,7 +4022,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 127,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师",
@@ -3943,7 +4054,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 128,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "香港DSE数学教师(青年教师)",
@@ -3974,7 +4086,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 129,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高一物理老师",
@@ -4005,7 +4118,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 130,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学老师",
@@ -4036,7 +4150,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 131,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "音乐教师(代课老师)",
@@ -4067,7 +4182,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 132,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中美术教师（艺考素描和速写方向）",
@@ -4098,7 +4214,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 133,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "香港DSE中文教师",
@@ -4129,7 +4246,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 134,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初高中音乐教师(青年教师)",
@@ -4160,7 +4278,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 135,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "双语地理教师(青年教师)",
@@ -4191,7 +4310,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 136,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "体育教师(排球方向)",
@@ -4222,7 +4342,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 137,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "Foreign teacher（外籍教师）",
@@ -4253,7 +4374,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 138,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学体育教师(健美操方向)",
@@ -4284,7 +4406,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 139,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE经济学教师",
@@ -4315,7 +4438,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 140,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中俄语教师(青年教师)",
@@ -4346,7 +4470,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 141,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(高三)",
@@ -4377,7 +4502,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 142,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学数学教师(需要有多年班主任经验)",
@@ -4408,7 +4534,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 143,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师",
@@ -4439,7 +4566,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 144,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE物理教师",
@@ -4470,7 +4598,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 145,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "道德与法治教师(青年教师)",
@@ -4501,7 +4630,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 146,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中历史教师(骨干教师)",
@@ -4532,7 +4662,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 147,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小初体育教师(需有中考经验 游泳专项)",
@@ -4563,7 +4694,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 148,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "DSE地理教师(青年教师)",
@@ -4594,7 +4726,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 149,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中音乐教师(有舞蹈基础)",
@@ -4625,7 +4758,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 150,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学数学教师(大沙校区)",
@@ -4656,7 +4790,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 151,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学音乐教师赤沙校区）",
@@ -4687,7 +4822,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 152,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中音乐教师(赤沙校区青年教师)",
@@ -4718,7 +4854,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 153,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学英语教师(骨干教师)",
@@ -4749,7 +4886,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 154,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中体育教师(青年教师)",
@@ -4780,7 +4918,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 155,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师(赤沙校区)(骨干教师)",
@@ -4811,7 +4950,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 156,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中心理健康教师(青年教师)",
@@ -4842,7 +4982,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 157,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中道德与法治教师(骨干教师)",
@@ -4873,7 +5014,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 158,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中地理教师(青年教师)",
@@ -4904,7 +5046,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 159,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学老师（赤沙校区）(青年教师)",
@@ -4935,7 +5078,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 160,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中体育教师(骨干教师)",
@@ -4966,7 +5110,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 161,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中化学教师(大沙校区)",
@@ -4997,7 +5142,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 162,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学语文教师(赤沙校区骨干教师)",
@@ -5028,7 +5174,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 163,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "中段语文教师（班主任）",
@@ -5059,7 +5206,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 164,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "中段小学数学教师",
@@ -5090,7 +5238,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 165,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(学科带头人)",
@@ -5121,7 +5270,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 166,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中历史教师(青年教师)",
@@ -5152,7 +5302,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 167,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师骨干教师贯通",
@@ -5183,7 +5334,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 168,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师（清北骨干名师）",
@@ -5214,7 +5366,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 169,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师",
@@ -5245,7 +5398,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 170,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师（清北骨干名师）",
@@ -5276,7 +5430,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 171,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师（清北骨干名师）",
@@ -5307,7 +5462,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 172,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师（清北骨干名师）",
@@ -5338,7 +5494,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 173,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师（清北骨干名师）",
@@ -5369,7 +5526,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 174,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师（清北骨干名师）",
@@ -5400,7 +5558,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 175,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师（清北骨干名师）",
@@ -5431,7 +5590,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 176,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "STEM科技创新教师",
@@ -5462,7 +5622,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 177,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中心理健康教师",
@@ -5493,7 +5654,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 178,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学英语教师(实习生)",
@@ -5524,7 +5686,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 179,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学体育教师(实习生)",
@@ -5555,7 +5718,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 180,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中日语教师(青年教师)",
@@ -5586,7 +5750,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 181,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中雅思教师(青年教师)",
@@ -5617,7 +5782,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 182,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中通用技术教师(青年教师)",
@@ -5648,7 +5814,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 183,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师(青年教师)",
@@ -5679,7 +5846,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 184,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师(青年教师)",
@@ -5710,7 +5878,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 185,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生物教师(青年教师)",
@@ -5741,7 +5910,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 186,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师(青年教师)",
@@ -5772,7 +5942,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 187,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(青年教师)",
@@ -5803,7 +5974,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 188,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师(青年教师)",
@@ -5834,7 +6006,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 189,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(青年教师)",
@@ -5865,7 +6038,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 190,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(青年教师)",
@@ -5896,7 +6070,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 191,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "德育专员/干事",
@@ -5927,7 +6102,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 192,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "生活老师",
@@ -5957,7 +6133,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 193,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "教务专员",
@@ -5988,7 +6165,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 194,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "教学主任",
@@ -6019,7 +6197,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 195,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学信息技术教师",
@@ -6050,7 +6229,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 196,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中通用技术教师(骨干教师)",
@@ -6081,7 +6261,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 197,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中物理教师(有中考备考经验)",
@@ -6112,7 +6293,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 198,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中生物教师(骨干教师)",
@@ -6143,7 +6325,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 199,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中信息技术教师(骨干教师)",
@@ -6174,7 +6357,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 200,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中美术教师(骨干教师)",
@@ -6205,7 +6389,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 201,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中心理健康教师(骨干教师)",
@@ -6236,7 +6421,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 202,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中信息技术教师(骨干教师)",
@@ -6267,7 +6453,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 203,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中美术教师(骨干教师)",
@@ -6298,7 +6485,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 204,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中体育教师(骨干教师)",
@@ -6329,7 +6517,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 205,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中声乐教师",
@@ -6360,7 +6549,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 206,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学书法教师(青年教师)",
@@ -6391,7 +6581,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 207,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学信息技术教师(骨干教师)",
@@ -6422,7 +6613,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 208,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师（有中考备考经验）",
@@ -6453,7 +6645,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 209,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师（有一届及以上九年级经验）",
@@ -6484,7 +6677,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 210,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学音乐教师（西洋管乐方向）",
@@ -6515,7 +6709,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 211,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "心理辅导教师",
@@ -6546,7 +6741,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 212,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "中学信息技术教师",
@@ -6577,7 +6773,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 213,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "中小学美术教师",
@@ -6608,7 +6805,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 214,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学舞蹈教师(骨干教师)",
@@ -6639,7 +6837,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 215,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学科学教师(青年教师)",
@@ -6670,7 +6869,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 216,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中音乐教师(骨干教师)",
@@ -6701,7 +6901,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 217,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师(学科带头人)",
@@ -6732,7 +6933,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 218,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中各科学科带头人(学科带头人)",
@@ -6763,7 +6965,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 219,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "中小学教务处主任",
@@ -6794,7 +6997,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 220,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "中小学数学学科带头人",
@@ -6825,7 +7029,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 221,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "心理健康教育教师",
@@ -6856,7 +7061,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 222,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "中小学语文教师学科带头人",
@@ -6887,7 +7093,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 223,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "德育处主任",
@@ -6918,7 +7125,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 224,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学舞蹈教师(青年教师)",
@@ -6949,7 +7157,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 225,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师(学科带头人)",
@@ -6980,7 +7189,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 226,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中道德与法治教师(青年教师)",
@@ -7011,7 +7221,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 227,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师(青年教师)",
@@ -7042,7 +7253,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 228,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学数学教师(青年教师)",
@@ -7073,7 +7285,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 229,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中生物教师",
@@ -7104,7 +7317,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 230,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中政治教师",
@@ -7135,7 +7349,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 231,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中历史教师",
@@ -7166,7 +7381,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 232,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中道德与法治教师(应届生)",
@@ -7197,7 +7413,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 233,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中音乐教师(青年教师)",
@@ -7228,7 +7445,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 234,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中美术教师(青年教师)",
@@ -7259,7 +7477,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 235,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师(应届生)",
@@ -7290,7 +7509,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 236,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中生物教师(应届生)",
@@ -7321,7 +7541,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 237,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中物理教师(应届生)",
@@ -7352,7 +7573,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 238,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中化学教师(应届生)",
@@ -7383,7 +7605,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 239,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师(应届生)",
@@ -7414,7 +7637,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 240,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师(应届生)",
@@ -7445,7 +7669,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 241,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(专家级名师)",
@@ -7476,7 +7701,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 242,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师(专家级名师)",
@@ -7507,7 +7733,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 243,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师(专家级名师)",
@@ -7538,7 +7765,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 244,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(专家级名师)",
@@ -7569,7 +7797,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 245,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(名师)(专家级名师)",
@@ -7600,7 +7829,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 246,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中物理教师(骨干教师)",
@@ -7631,7 +7861,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 247,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中化学教师(骨干教师)",
@@ -7662,7 +7893,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 248,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中地理教师(应届生)",
@@ -7693,7 +7925,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 249,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中历史教师(应届生)",
@@ -7724,7 +7957,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 250,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(应届生)",
@@ -7755,7 +7989,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 251,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(应届生)",
@@ -7786,7 +8021,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 252,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师(应届生)",
@@ -7817,7 +8053,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 253,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师(应届生)",
@@ -7848,7 +8085,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 254,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(应届生)",
@@ -7879,7 +8117,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 255,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师(应届生)",
@@ -7910,7 +8149,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 256,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生物教师(应届生)",
@@ -7941,7 +8181,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 257,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师(应届生)",
@@ -7972,7 +8213,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 258,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师(应届生)",
@@ -8003,7 +8245,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 259,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师(青年教师)",
@@ -8034,7 +8277,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 260,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中地理教师(骨干教师)",
@@ -8065,7 +8309,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 261,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师（秋季）",
@@ -8096,7 +8341,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 262,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师（硕士实习生）",
@@ -8127,7 +8373,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 263,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(硕士实习生)",
@@ -8158,7 +8405,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 264,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(硕士实习生)",
@@ -8189,7 +8437,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 265,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(硕士实习生)",
@@ -8220,7 +8469,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 266,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师(硕士实习生)",
@@ -8251,7 +8501,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 267,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师（硕士实习生）",
@@ -8282,7 +8533,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 268,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师（秋季）",
@@ -8313,7 +8565,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 269,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师（秋季）",
@@ -8344,7 +8597,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 270,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生物教师（秋季）",
@@ -8375,7 +8629,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 271,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师（秋季）",
@@ -8406,7 +8661,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 272,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师（秋季）",
@@ -8437,7 +8693,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 273,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师（秋季）",
@@ -8468,7 +8725,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 274,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师（秋季）",
@@ -8499,7 +8757,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 275,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师（秋季）",
@@ -8530,7 +8789,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 276,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师（秋季）",
@@ -8561,7 +8821,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 277,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "急招初中物理教师(骨干教师)（年薪8-30万）",
@@ -8592,7 +8853,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 278,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师(骨干教师)（年薪10-30万）",
@@ -8623,7 +8885,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 279,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师(骨干教师)（年薪10-30万）",
@@ -8654,7 +8917,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 280,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中心理健康教师",
@@ -8685,7 +8949,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 281,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "急招初中数学教师（年薪8-18w）",
@@ -8716,7 +8981,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 282,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师（年薪10-25w）",
@@ -8747,7 +9013,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 283,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "急招初中地理教师（年薪8-18w）",
@@ -8778,7 +9045,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 284,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "急招初中物理教师（年薪8-18w）",
@@ -8809,7 +9077,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 285,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中化学教师（年薪8-18w）",
@@ -8840,7 +9109,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 286,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中生物教师（年薪8-18w）",
@@ -8871,7 +9141,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 287,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中道德与法治教师（年薪8-18w）",
@@ -8902,7 +9173,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 288,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师（年薪8-18w）",
@@ -8933,7 +9205,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 289,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学六年级语文教师(青年教师)",
@@ -8964,7 +9237,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 290,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "计算机专业教师(急招)",
@@ -8995,7 +9269,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 291,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "（培训部）初中英语教师",
@@ -9026,7 +9301,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 292,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "（培训部）初中数学教师",
@@ -9057,7 +9333,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 293,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中政治教师(青年教师)",
@@ -9088,7 +9365,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 294,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中英语教师(学科带头人)",
@@ -9119,7 +9397,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 295,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师(成熟教师)",
@@ -9150,7 +9429,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 296,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师(清北名师)",
@@ -9181,7 +9461,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 297,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中体育教师(成熟教师)",
@@ -9212,7 +9493,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 298,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中音乐教师(青年教师)",
@@ -9243,7 +9525,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 299,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生活老师",
@@ -9273,7 +9556,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 300,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(成熟教师)",
@@ -9304,7 +9588,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 301,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(清北名师)",
@@ -9335,7 +9620,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 302,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师(清北名师)",
@@ -9366,7 +9652,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 303,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师(成熟教师)",
@@ -9397,7 +9684,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 304,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(清北名师)",
@@ -9428,7 +9716,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 305,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生物教师(清北名师)",
@@ -9459,7 +9748,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 306,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中生物教师(成熟教师)",
@@ -9490,7 +9780,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 307,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师(清北名师)",
@@ -9521,7 +9812,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 308,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中物理教师(学科带头人)",
@@ -9552,7 +9844,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 309,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师(成熟教师)",
@@ -9583,7 +9876,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 310,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中地理教师(清北名师)",
@@ -9614,7 +9908,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 311,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师(成熟教师)",
@@ -9645,7 +9940,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 312,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中政治教师(清北名师)",
@@ -9676,7 +9972,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 313,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师(成熟教师)",
@@ -9707,7 +10004,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 314,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中化学教师(成熟教师)",
@@ -9738,7 +10036,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 315,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(清北名师)",
@@ -9769,7 +10068,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 316,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中物理教师(成熟教师)",
@@ -9800,7 +10100,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 317,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "五大学科竞赛教练(竞赛教练)",
@@ -9831,7 +10132,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 318,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "物理实验员",
@@ -9862,7 +10164,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 319,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学生活教师（急聘女）",
@@ -9892,7 +10195,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 320,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中数学教师（转正后综合月薪5000-12000元）",
@@ -9923,7 +10227,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 321,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中英语教师（转正后综合月薪5000-12000元）",
@@ -9954,7 +10259,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 322,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "教务员（熟悉使用校宝系统）",
@@ -9984,7 +10290,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 323,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "书法教师(青年教师)",
@@ -10014,7 +10321,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 324,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "教务处副处长",
@@ -10045,7 +10353,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 325,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "教务处处长",
@@ -10076,7 +10385,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 326,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "幼儿英语教师(英语教师)",
@@ -10106,7 +10416,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 327,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "职高数学教师",
@@ -10137,7 +10448,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 328,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中历史教师(优秀教师)",
@@ -10168,7 +10480,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 329,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中语文教师(优秀教师)",
@@ -10199,7 +10512,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 330,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中语文教师",
@@ -10230,7 +10544,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 331,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学英语骨干教师(骨干教师)",
@@ -10263,7 +10578,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 332,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "兼职初中化学教师(青年教师)",
@@ -10293,7 +10609,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 333,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "初中科学教师",
@@ -10323,7 +10640,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 334,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "2026年广州市海珠区教育系统高校毕业生招聘公告",
@@ -10352,7 +10670,8 @@ window.REAL_JOBS = [
       "signup": "本次公开招聘工作按照报名（资格初审）、考试网上确认、打印准考证、笔试、现场资格复审、面试、体检、组织考察、公示、办理聘用等程序进行；报名采取本人网络报名、现场宣讲会报名的方法进行；（1）时间：2026年11月10日（星期二）9:00至11月16日（星期一）17:00，逾期不接受报名",
       "contact": "电话 020）89185372、020）89185385"
     },
-    "id": 335
+    "id": 335,
+    "pendingReview": true
   },
   {
     "title": "广东工业大学2026年公开招聘聘用制职员公告",
@@ -10382,7 +10701,8 @@ window.REAL_JOBS = [
       "signup": "本次招聘实行网络报名。应聘人员请于报名时间内登录招聘系统（https://www.qgsydw.com/xxywzlzt/bmzl/ggdx）报名，按网上提示填写个人信息及上传岗位要求提供的佐证材料，材料清单如下：",
       "contact": "电话 020-39322792、020-39322692"
     },
-    "id": 336
+    "id": 336,
+    "pendingReview": true
   },
   {
     "title": "广东工业大学揭阳校区2026年公开招聘聘用制职员公告",
@@ -10411,7 +10731,8 @@ window.REAL_JOBS = [
       "signup": "本次招聘实行网络报名。应聘人员请于报名时间内登录报名系统（https://www.qgsydw.com/xxywzlzt/bmzl/ggdx）报名，按网上提示填写个人信息及上传岗位要求提供的佐证材料，材料清单如下：",
       "contact": "电话 0663-6603123、020-39322692"
     },
-    "id": 337
+    "id": 337,
+    "pendingReview": true
   },
   {
     "title": "初中数学教师(骨干教师)",
@@ -10442,7 +10763,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 338,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "外语教师（DSE）(青年教师)",
@@ -10473,7 +10795,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 339,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "化学教师",
@@ -10504,7 +10827,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 340,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "英语教师（DSE）",
@@ -10535,7 +10859,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 341,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "小学语文教师(青年教师)",
@@ -10566,7 +10891,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 342,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "高中其他教师(青年教师)",
@@ -10596,7 +10922,8 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 343,
-    "isPrivate": true
+    "isPrivate": true,
+    "pendingReview": true
   },
   {
     "title": "广东创新科技职业学院2026年招聘公告",
@@ -10661,7 +10988,8 @@ window.REAL_JOBS = [
       "signup": "国家优秀中小学教师培养计划（“国优计划”）毕业生按照取得的中小学教师资格证任教学科报名应聘相应学科教师岗位，研究生所学专业与岗位需求表中“专业及代码”“其它要求”中专业要求不一致的，不影响报名应聘；报考年龄为18至38周岁（即1987年11月10日至2008年11月9日期间出生）,报考人员所涉及年龄的时间点计算截至报名首日；公开招聘工作按照网上公告、网上报名、笔试确认、笔试、面试现场资格审查、面试、体检、选岗、考察、公示、递补、聘用等程",
       "contact": "电话 0763-5820802"
     },
-    "id": 345
+    "id": 345,
+    "pendingReview": true
   },
   {
     "title": "华南农业大学离退休工作处招聘公告",
@@ -10723,7 +11051,8 @@ window.REAL_JOBS = [
       "signup": "（3）国家优秀中小学教师培养计划（“国优计划”）毕业生按照取得的中小学教师资格证任教学科报名应聘相应学科教师岗位，所学专业与岗位要求专业不一致、本科与研究生专业不一致的不影响报名应聘；（4）应聘人员所学专业未列入《公务员专业目录》（无专业代码）的，可选择《公务员专业目录》中的相近专业报考，所学专业必修课程须与招聘岗位要求专业的主要课程基本一致，并在报名时提供毕业证书（已毕业的）、所学专业课程成绩单、课程对比情况说明及毕业院校设置专业的依",
       "contact": "电话 0755-29391989、0755-29391947\n\n"
     },
-    "id": 347
+    "id": 347,
+    "pendingReview": true
   },
   {
     "title": "深圳市第七高级中学专任教师招聘公告",
@@ -10752,7 +11081,8 @@ window.REAL_JOBS = [
       "signup": "报名截止时间：2026年11月16日18：00 扫描下方二维码（见附件），填写信息、上传简历（简历命名“岗位-姓名-联系方式”）",
       "contact": "联系人 严老师；电话 0755-85259660\n\n"
     },
-    "id": 348
+    "id": 348,
+    "pendingReview": true
   },
   {
     "title": "百万英才汇南粤--广东工业大学高层次人才招聘简章 2026-11-03",
@@ -10963,7 +11293,8 @@ window.REAL_JOBS = [
       "signup": "应聘材料发送至肇庆学院人力资源部邮箱：rsc@zqu.edu.cn抄送gccrcw@163.com，邮件请以“姓名+院校+学历程度+专业+毕业年月+高层次人才网”命名，例如：某某+校名+博士+软件工程+202307+高层次人才网；2.应聘者提交的应聘信息和相关佐证材料务必真实可信，并与个人应聘报名表及简历一致，经查证弄虚作假者，将取消录用资格，由此引起的一切后果与法律责任由应聘者本人承担",
       "contact": "电话 0758-2752890；邮箱 rsc@zqu.edu.cn抄送gccrcw"
     },
-    "id": 355
+    "id": 355,
+    "pendingReview": true
   },
   {
     "title": "深圳大学传播学院杨洸教授团队招聘专职副研究员",
@@ -11054,7 +11385,8 @@ window.REAL_JOBS = [
       "signup": "1.应聘人员下载《广州华夏职业学院应聘申请表》，填写应聘信息，将有关材料至招聘邮箱：gzhxrsc87868965@163.com(邮件标题及附件格式：姓名+学历+本人专业+应聘岗位+高层次人才网)",
       "contact": "联系人 人事处唐老师、潘老师；电话 020-87868965\n\n；邮箱 gzhxrsc87868965@163.com"
     },
-    "id": 358
+    "id": 358,
+    "pendingReview": true
   },
   {
     "title": "广州华商职业学院面向海内外高薪引进高层次人才公告",
@@ -11084,7 +11416,8 @@ window.REAL_JOBS = [
       "signup": "3.应聘人员填写《广州华商职业学院职位申请表》(见附件1)，连同本人身份证、学历、学位和职称证书、业绩材料扫描件压缩打包后发送到以下邮箱：hszyzp@126.com(邮件主题格式为：应聘者姓名-应聘专业领域-学历(学位)-职称-高层次人才网。附件大小请勿超过5M，尽量不要用邮箱的文件中转站发送附件，以免过期。)",
       "contact": "电话 020-82666161、0750-6238967；邮箱 hszyzp@126.com"
     },
-    "id": 359
+    "id": 359,
+    "pendingReview": true
   },
   {
     "title": "深圳大学心理学院唐苏勤课题组诚聘研究助理",
@@ -11204,7 +11537,8 @@ window.REAL_JOBS = [
       "signup": "本条所规定处分期限的计算截至报名截止日；报考应聘人员所涉及年龄的时间点计算截至报名首日；本次招聘实行网络报名",
       "contact": "电话 0763-3363113、0763-3361196"
     },
-    "id": 363
+    "id": 363,
+    "pendingReview": true
   },
   {
     "title": "深圳大学黄飞课题组（植物代谢表观方向）招聘副研究员",
@@ -11262,7 +11596,8 @@ window.REAL_JOBS = [
       "signup": "1.应聘人员只可报考一个符合招聘条件的岗位，且必须使用有效期内的二代居民身份证或港澳居民身份证报名。如对所报岗位要求不清楚的，在报名前应向招聘单位咨询。应聘人员要诚信报名、诚信考试，必须在规定的时间内向招聘单位提交报名资料，并确保报名材料真实、全面、准确。 2.对学习和工作经历栏目，应按时间先后顺序，从高中开始，填写何年何月至何年何月在何地、何单位工作或学习、任何职（在党政机关、事业单位、国有企业工作的，还须注明在职在编或临聘人员）。对",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 365
+    "id": 365,
+    "pendingReview": true
   },
   {
     "title": "广东科技学院公开招聘心理咨询中心干事公告",
@@ -11797,7 +12132,8 @@ window.REAL_JOBS = [
       "signup": "有意者请扫描以下二维码填写报名表，并把个人简历及相关证件（身份证、教师资格证、学历、学位证、职称证（如有）、获奖证书或其他岗位所需证件等）应聘材料电子文件压缩整理，以“姓名+应聘岗位”的形式命名并发送至邮箱gdcjxxoffice@163.com；收到应聘者报名表、应聘资料后，学校人事部门将组织有关部门进行资格初审，符合条件的，资格审核结果将通过电话、短信和邮件等形式通知应聘人员",
       "contact": "联系人 李老师；电话 0757-85551534；邮箱 的形式命名并发送至邮箱gdcjxxoffice@163.com"
     },
-    "id": 383
+    "id": 383,
+    "pendingReview": true
   },
   {
     "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
