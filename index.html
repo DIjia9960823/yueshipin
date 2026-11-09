@@ -32,6 +32,7 @@
         <button class="quick-btn active" data-filter="all" onclick="setQuickFilter(this)">全部公告</button>
         <button class="quick-btn" data-filter="formal" onclick="setQuickFilter(this)">正式编</button>
         <button class="quick-btn" data-filter="soon" onclick="setQuickFilter(this)">即将截止</button>
+        <button class="quick-btn" data-filter="private" onclick="setQuickFilter(this)">民办</button>
         <button class="quick-btn" data-filter="hideExpired" onclick="setQuickFilter(this)">隐藏已截止</button>
       </div>
 
@@ -107,6 +108,7 @@
     education: "全部",
     onlyFormal: false,
     onlySoon: false,
+    onlyPrivate: false,
     hideExpired: false,
     page: 1,
     pageSize: 10
@@ -173,22 +175,31 @@
     if (f === 'all') {
       state.onlyFormal = false;
       state.onlySoon = false;
+      state.onlyPrivate = false;
       state.hideExpired = false;
     } else if (f === 'formal') {
       state.onlyFormal = !state.onlyFormal;
       state.onlySoon = false;
+      state.onlyPrivate = false;
       state.hideExpired = false;
     } else if (f === 'soon') {
       state.onlySoon = !state.onlySoon;
       state.onlyFormal = false;
+      state.onlyPrivate = false;
+      state.hideExpired = false;
+    } else if (f === 'private') {
+      state.onlyPrivate = !state.onlyPrivate;
+      state.onlyFormal = false;
+      state.onlySoon = false;
       state.hideExpired = false;
     } else if (f === 'hideExpired') {
       state.hideExpired = !state.hideExpired;
       state.onlyFormal = false;
       state.onlySoon = false;
+      state.onlyPrivate = false;
     }
 
-    if (state.onlyFormal || state.hideExpired || state.onlySoon) {
+    if (state.onlyFormal || state.onlySoon || state.onlyPrivate || state.hideExpired) {
       btn.classList.add('active');
     } else {
       document.querySelector('.quick-btn[data-filter="all"]').classList.add('active');
@@ -237,6 +248,15 @@
     return `<span class="badge badge-contract">${est}</span>`;
   }
 
+  // 一眼区分：正式编 / 即将截止 / 民办
+  function getJobTags(j) {
+    const tags = [];
+    if (isFormalJob(j)) tags.push('<span class="tag tag-formal">正式编</span>');
+    if (isSoonJob(j)) tags.push('<span class="tag tag-soon">即将截止</span>');
+    if (isPrivateJob(j)) tags.push('<span class="tag tag-private">民办</span>');
+    return tags.length ? `<div class="job-tags">${tags.join('')}</div>` : '';
+  }
+
   function renderList(jobs) {
     const container = document.getElementById('jobList');
     if (jobs.length === 0) {
@@ -249,6 +269,7 @@
         <div class="table-row ${viewedIds.has(j.id) ? 'viewed' : ''}" onclick="goDetail(${j.id})">
           <div class="c-title">
             <div class="job-title">${j.title}</div>
+            ${getJobTags(j)}
             <div class="job-meta">${j.city} · ${j.source} · 录入 ${j.recordedAt}</div>
           </div>
           <div class="c-school">${j.school}</div>
