@@ -1,6 +1,6 @@
 // 本文件由 crawler/crawler.py 自动生成，请勿手工修改
-// 生成时间：2026-11-09 08:59:55   共 83 条
-window.DATA_UPDATED = "2026-11-09 08:59";
+// 生成时间：2026-11-09 10:26:23   共 71 条
+window.DATA_UPDATED = "2026-11-09 10:26";
 window.REAL_JOBS = [
   {
     "title": "2026年广州市教育系统校园招聘“优才计划”公告",
@@ -322,6 +322,35 @@ window.REAL_JOBS = [
     "id": 11
   },
   {
+    "title": "教学科研系列招聘公告",
+    "city": "高校",
+    "school": "广州大学",
+    "level": "直属学校",
+    "stage": "中小学",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "广州大学官网",
+    "sourceUrl": "https://rsc.gzhu.edu.cn/rczp/jxkyxlzpgg.htm",
+    "content": {
+      "intro": "首页 关于我们 人事处简介 各科职责 师资概况 杰出人才 培养发展 通知公告 师德师风 工作动态 制度建设 理论学习 师德榜样 警示教育 人才招聘 高层次人才招聘公告 教学科研系列招聘公告 其他系列招聘公告 博士后管理 通知公告 应聘申请 报到事宜 在站管理 出站事宜 其他事宜 人事政策 人事人才 薪酬管理 职称评聘 ",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见官方公告原文"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "详见官方公告原文",
+      "contact": "详见官方公告原文（具体信息以官方发布为准）"
+    },
+    "id": 12
+  },
+  {
     "title": "华南农业大学-韶关学院博士后创新实践基地2026年全职博士后招聘公告",
     "city": "高校",
     "school": "韶关学院",
@@ -348,7 +377,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 12
+    "id": 13
   },
   {
     "title": "韶关学院2026年教学科研人员招聘公告",
@@ -377,24 +406,24 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 13
+    "id": 14
   },
   {
-    "title": "教学科研系列招聘公告",
+    "title": "肇庆学院2026年11月招聘科研助理公告",
     "city": "高校",
-    "school": "广州大学",
+    "school": "肇庆学院",
     "level": "直属学校",
-    "stage": "中小学",
+    "stage": "高校",
     "category": "其他",
     "establishment": "详见原文",
-    "headcount": 0,
+    "headcount": 1,
     "education": "详见原文",
     "deadline": "",
     "recordedAt": "2026-11-09",
-    "source": "广州大学官网",
-    "sourceUrl": "https://rsc.gzhu.edu.cn/rczp/jxkyxlzpgg.htm",
+    "source": "肇庆学院官网",
+    "sourceUrl": "https://rsc.zqu.edu.cn/info/2612/3741.htm",
     "content": {
-      "intro": "首页 关于我们 人事处简介 各科职责 师资概况 杰出人才 培养发展 通知公告 师德师风 工作动态 制度建设 理论学习 师德榜样 警示教育 人才招聘 高层次人才招聘公告 教学科研系列招聘公告 其他系列招聘公告 博士后管理 通知公告 应聘申请 报到事宜 在站管理 出站事宜 其他事宜 人事政策 人事人才 薪酬管理 职称评聘 ",
+      "intro": "当前位置：非专任教师招聘 2026-11-09 肇庆学院2026年11月招聘科研助理公告 因科研工作需要，秉着公开、平等、择优的原则，我校决定 面向社会 公开 招聘 科研助理 1名 。 一、招聘对象 报考 具体 要求详见《 科研助理需求表》（附件 1 ）。境内毕业生 须 于 202 6 年 12 月 31 日前取得相应",
       "targets": [
         "详见原文"
       ],
@@ -406,7 +435,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 14
+    "id": 15
   },
   {
     "title": "广东文理职业学院2026年银龄教师招聘启事",
@@ -435,7 +464,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 15
+    "id": 16
   },
   {
     "title": "【教师招聘】广州软件学院师资人才招聘启事",
@@ -452,7 +481,7 @@ window.REAL_JOBS = [
     "source": "广州软件学院（民办）官网",
     "sourceUrl": "https://www.gzus.edu.cn/info/1068/5873.htm",
     "content": {
-      "intro": "详情请点击以下链接： 百万英才汇南粤 | 广州软件学院2026年专任教师招聘启事 广软招聘丨广州软件学院招生就业处就业指导教师招聘启事 广软招聘 | 广州软件学院辅导员招聘启事 广软招聘 | 广州软件学院2026年马克思主义学院专任教师招聘启事 广软招聘 | 广州软件学院创新创业学院管理人员招聘启事 广软招聘 | 广州",
+      "intro": "详情请点击以下链接： 广软招聘 | 广州软件学院行政教辅招聘启事 百万英才汇南粤 | 广州软件学院2026年专任教师招聘启事 广软招聘丨广州软件学院招生就业处就业指导教师招聘启事 广软招聘 | 广州软件学院辅导员招聘启事 广软招聘 | 广州软件学院2026年马克思主义学院专任教师招聘启事 广软招聘 | 广州软件学院创新",
       "targets": [
         "详见原文"
       ],
@@ -464,14 +493,14 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 16
+    "id": 17
   },
   {
-    "title": "教务员（熟悉使用校宝系统）招聘-全科优课(广州)文化投资有限公司招聘-万行教师人才网",
-    "city": "广州",
-    "school": "全科优课(广州)文化投资有限公司",
+    "title": "教务处处长招聘-东莞市南华职业技术学校招聘-万行教师人才网",
+    "city": "东莞",
+    "school": "东莞市南华职业技术学校",
     "level": "万行职位",
-    "stage": "中小学",
+    "stage": "高职",
     "category": "万行职位",
     "establishment": "详见原文",
     "headcount": 0,
@@ -479,36 +508,7 @@ window.REAL_JOBS = [
     "deadline": "",
     "recordedAt": "2026-11-09",
     "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925034.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 17
-  },
-  {
-    "title": "小学英语骨干教师(骨干教师)招聘-惠阳水围实验学校招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "惠阳水围实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-08",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925032.html",
+    "sourceUrl": "https://www.job910.com/jobs_view_925103.html",
     "content": {
       "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
       "targets": [
@@ -525,9 +525,9 @@ window.REAL_JOBS = [
     "id": 18
   },
   {
-    "title": "人力资源招聘-惠州市榕城职业技术学校招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "惠州市榕城职业技术学校",
+    "title": "教务处副处长招聘-东莞市南华职业技术学校招聘-万行教师人才网",
+    "city": "东莞",
+    "school": "东莞市南华职业技术学校",
     "level": "万行职位",
     "stage": "高职",
     "category": "万行职位",
@@ -535,9 +535,9 @@ window.REAL_JOBS = [
     "headcount": 0,
     "education": "详见原文",
     "deadline": "",
-    "recordedAt": "2026-11-08",
+    "recordedAt": "2026-11-09",
     "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925087.html",
+    "sourceUrl": "https://www.job910.com/jobs_view_925101.html",
     "content": {
       "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
       "targets": [
@@ -554,19 +554,19 @@ window.REAL_JOBS = [
     "id": 19
   },
   {
-    "title": "初中化学教师(青年教师)招聘-深圳市大朋友教育科技有限公司招聘-万行教师人才网",
-    "city": "深圳",
-    "school": "深圳市大朋友教育科技有限公司",
+    "title": "书法教师(青年教师)招聘-惠州大亚湾区博雅培文实验学校招聘-万行教师人才网",
+    "city": "惠州",
+    "school": "惠州大亚湾区博雅培文实验学校",
     "level": "万行职位",
-    "stage": "中学",
+    "stage": "中小学",
     "category": "万行职位",
     "establishment": "详见原文",
     "headcount": 0,
     "education": "详见原文",
     "deadline": "",
-    "recordedAt": "2026-11-07",
+    "recordedAt": "2026-11-09",
     "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925072.html",
+    "sourceUrl": "https://www.job910.com/jobs_view_925100.html",
     "content": {
       "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
       "targets": [
@@ -583,9 +583,9 @@ window.REAL_JOBS = [
     "id": 20
   },
   {
-    "title": "兼职初中化学教师(青年教师)招聘-深圳市大朋友教育科技有限公司招聘-万行教师人才网",
-    "city": "深圳",
-    "school": "深圳市大朋友教育科技有限公司",
+    "title": "初中语文教师(青年教师)招聘-揭阳市榕城区华粤学校招聘-万行教师人才网",
+    "city": "揭阳",
+    "school": "揭阳市榕城区华粤学校",
     "level": "万行职位",
     "stage": "中学",
     "category": "万行职位",
@@ -593,9 +593,9 @@ window.REAL_JOBS = [
     "headcount": 0,
     "education": "详见原文",
     "deadline": "",
-    "recordedAt": "2026-11-07",
+    "recordedAt": "2026-11-09",
     "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925071.html",
+    "sourceUrl": "https://www.job910.com/jobs_view_925108.html",
     "content": {
       "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
       "targets": [
@@ -612,9 +612,9 @@ window.REAL_JOBS = [
     "id": 21
   },
   {
-    "title": "初中科学教师招聘-博罗县育英学校招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "博罗县育英学校",
+    "title": "初中数学教师(青年教师)招聘-揭阳市榕城区华粤学校招聘-万行教师人才网",
+    "city": "揭阳",
+    "school": "揭阳市榕城区华粤学校",
     "level": "万行职位",
     "stage": "中学",
     "category": "万行职位",
@@ -622,9 +622,9 @@ window.REAL_JOBS = [
     "headcount": 0,
     "education": "详见原文",
     "deadline": "",
-    "recordedAt": "2026-11-07",
+    "recordedAt": "2026-11-09",
     "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925075.html",
+    "sourceUrl": "https://www.job910.com/jobs_view_925109.html",
     "content": {
       "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
       "targets": [
@@ -641,9 +641,9 @@ window.REAL_JOBS = [
     "id": 22
   },
   {
-    "title": "初中英语教师(骨干教师)招聘-汕头市潮南区峡山兴华学校招聘-万行教师人才网",
-    "city": "汕头",
-    "school": "汕头市潮南区峡山兴华学校",
+    "title": "初中英语教师(青年教师)招聘-揭阳市榕城区华粤学校招聘-万行教师人才网",
+    "city": "揭阳",
+    "school": "揭阳市榕城区华粤学校",
     "level": "万行职位",
     "stage": "中学",
     "category": "万行职位",
@@ -651,9 +651,9 @@ window.REAL_JOBS = [
     "headcount": 0,
     "education": "详见原文",
     "deadline": "",
-    "recordedAt": "2026-11-07",
+    "recordedAt": "2026-11-09",
     "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925076.html",
+    "sourceUrl": "https://www.job910.com/jobs_view_925110.html",
     "content": {
       "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
       "targets": [
@@ -668,325 +668,6 @@ window.REAL_JOBS = [
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
     "id": 23
-  },
-  {
-    "title": "初中数学教师(骨干教师)招聘-汕头市潮南区峡山兴华学校招聘-万行教师人才网",
-    "city": "汕头",
-    "school": "汕头市潮南区峡山兴华学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-07",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925077.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 24
-  },
-  {
-    "title": "11月校招宣讲会—高中教师（语数英物化）(应届生)招聘-广州理工实验学校招聘-万行教师人才网",
-    "city": "广州",
-    "school": "广州理工实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925005.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 25
-  },
-  {
-    "title": "Secondary Math Teacher(J10139)招聘-广州诺德安达学校招聘-万行教师人才网",
-    "city": "广州",
-    "school": "广州诺德安达学校",
-    "level": "万行职位",
-    "stage": "中小学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925027.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 26
-  },
-  {
-    "title": "Learning Support Teacher(J10140)招聘-广州诺德安达学校招聘-万行教师人才网",
-    "city": "广州",
-    "school": "广州诺德安达学校",
-    "level": "万行职位",
-    "stage": "中小学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925026.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 27
-  },
-  {
-    "title": "高中语文教师(青年教师)招聘-广东腾智园科技教育有限公司招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "广东腾智园科技教育有限公司",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925036.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 28
-  },
-  {
-    "title": "高中其他教师(青年教师)招聘-广东腾智园科技教育有限公司招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "广东腾智园科技教育有限公司",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925035.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 29
-  },
-  {
-    "title": "高中英语教师(青年教师)招聘-广东腾智园科技教育有限公司招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "广东腾智园科技教育有限公司",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925038.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 30
-  },
-  {
-    "title": "高中生物教师(青年教师)招聘-广东腾智园科技教育有限公司招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "广东腾智园科技教育有限公司",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925041.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 31
-  },
-  {
-    "title": "高中数学教师(青年教师)招聘-广东腾智园科技教育有限公司招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "广东腾智园科技教育有限公司",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925037.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 32
-  },
-  {
-    "title": "高中化学教师(青年教师)招聘-广东腾智园科技教育有限公司招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "广东腾智园科技教育有限公司",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925040.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 33
-  },
-  {
-    "title": "高中物理教师(青年教师)招聘-广东腾智园科技教育有限公司招聘-万行教师人才网",
-    "city": "惠州",
-    "school": "广东腾智园科技教育有限公司",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-06",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925039.html",
-    "content": {
-      "intro": "万行教师网发布的教师招聘职位，详情请点击「查看原文」。",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "详见原文",
-      "signup": "详见原文",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 34
   },
   {
     "title": "广东创新科技职业学院2026年招聘公告",
@@ -1015,7 +696,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 35
+    "id": 24
   },
   {
     "title": "华南农业大学离退休工作处招聘公告",
@@ -1044,7 +725,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 36
+    "id": 25
   },
   {
     "title": "百万英才汇南粤--广东工业大学高层次人才招聘简章 2026-11-03",
@@ -1073,7 +754,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 37
+    "id": 26
   },
   {
     "title": "广东外语外贸大学南国商学院2026年博士招聘启事",
@@ -1102,7 +783,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 38
+    "id": 27
   },
   {
     "title": "深圳大学土木与交通工程学院刘桐旭教授团队博士后招聘",
@@ -1131,7 +812,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 39
+    "id": 28
   },
   {
     "title": "深圳大学金融科技学院博士后招聘简章",
@@ -1160,7 +841,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 40
+    "id": 29
   },
   {
     "title": "深圳大学高等研究院伍若楠课题组博士后招聘",
@@ -1189,7 +870,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 41
+    "id": 30
   },
   {
     "title": "广州应用科技学院职能部门招聘公告（2026年10月）",
@@ -1218,7 +899,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 42
+    "id": 31
   },
   {
     "title": "深圳大学传播学院杨洸教授团队招聘专职副研究员",
@@ -1247,7 +928,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 43
+    "id": 32
   },
   {
     "title": "深圳大学机电学院吴章辉招聘副研究员",
@@ -1276,7 +957,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 44
+    "id": 33
   },
   {
     "title": "珠海市教育局2026年10月面向社会公开招聘直属学校事业编制教师公告",
@@ -1305,7 +986,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 45
+    "id": 34
   },
   {
     "title": "深圳大学心理学院唐苏勤课题组诚聘研究助理",
@@ -1334,7 +1015,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 46
+    "id": 35
   },
   {
     "title": "广东外语外贸大学南国商学院  2026年辅导员招聘启事",
@@ -1363,7 +1044,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 47
+    "id": 36
   },
   {
     "title": "广东外语外贸大学南国商学院 2026年网络与信息中心招聘启事",
@@ -1392,65 +1073,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 48
-  },
-  {
-    "title": "湛江幼儿师范专科学校2026年下半年公开招聘教职员公告",
-    "city": "湛江",
-    "school": "湛江市教育局",
-    "level": "直属学校",
-    "stage": "幼儿园",
-    "category": "公办编制",
-    "establishment": "正式编",
-    "headcount": 22,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-10-21",
-    "source": "湛江市教育局官网",
-    "sourceUrl": "https://www.zhanjiang.gov.cn/zjsfw/bmdh/jyj/zwgk/tzgg/content/post_2239726.html",
-    "content": {
-      "intro": "湛江幼儿师范专科学校2026年下半年公开招聘教职员公告 时间：2026-10-21 19:38:55 来源：湛江市教育局 【打印】 【字体： 大 中 小 】 分享到： 湛江幼儿师范专科学校坐落在美丽的海滨城市广东湛江，是广东省第一批幼儿师范专科学校，具有近百年的师范教育办学历史。学校现为广东省博士工作站设站单位、粤西乡",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见官方公告原文"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "详见官方公告原文",
-      "contact": "详见官方公告原文（具体信息以官方发布为准）"
-    },
-    "id": 49
-  },
-  {
-    "title": "2026年秋季湛江市教育局直属事业单位公开招聘工作人员公告",
-    "city": "湛江",
-    "school": "湛江市教育局",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "公办编制",
-    "establishment": "正式编",
-    "headcount": 87,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-10-21",
-    "source": "湛江市教育局官网",
-    "sourceUrl": "https://www.zhanjiang.gov.cn/zjsfw/bmdh/jyj/zwgk/tzgg/content/post_2239630.html",
-    "content": {
-      "intro": "2026年秋季湛江市教育局直属事业单位公开招聘工作人员公告 时间：2026-10-21 17:37:31 来源：湛江市教育局 【打印】 【字体： 大 中 小 】 分享到： 为适应湛江教育事业发展，按照《广东省事业单位公开招聘人员办法》（粤府令第301号）规定，我局决定组织市直学校在湛江市面向全国毕业生和社会人员公开招聘",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见官方公告原文"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "详见官方公告原文",
-      "contact": "详见官方公告原文（具体信息以官方发布为准）"
-    },
-    "id": 50
+    "id": 37
   },
   {
     "title": "2026年广东省云浮市“粤聚英才·粤见未来”招聘教育人才公告（河南专场）",
@@ -1479,7 +1102,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 51
+    "id": 38
   },
   {
     "title": "深圳大学黄飞课题组（植物代谢表观方向）招聘副研究员",
@@ -1508,7 +1131,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 52
+    "id": 39
   },
   {
     "title": "深圳大学金融科技学院招聘副研究员",
@@ -1537,7 +1160,36 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 53
+    "id": 40
+  },
+  {
+    "title": "广东科技学院公开招聘心理咨询中心干事公告",
+    "city": "东莞",
+    "school": "广东科技学院（民办）",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-10-09",
+    "source": "广东科技学院（民办）官网",
+    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20261009/6989.html",
+    "content": {
+      "intro": "网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘心理咨询中心干事公告 发布日期：2026-10-09 字号：[ 大 中 小 ] 一、学校简介 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见官方公告原文"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "详见官方公告原文",
+      "contact": "详见官方公告原文（具体信息以官方发布为准）"
+    },
+    "id": 41
   },
   {
     "title": "关于岭南师范学院2026年公开招聘博士第二轮滚动招聘有关事项的公告",
@@ -1566,7 +1218,36 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 54
+    "id": 42
+  },
+  {
+    "title": "广东科技学院公开招聘紧缺人才公告",
+    "city": "东莞",
+    "school": "广东科技学院（民办）",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-10-08",
+    "source": "广东科技学院（民办）官网",
+    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260725/6983.html",
+    "content": {
+      "intro": "网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘紧缺人才公告 发布日期：2026-10-08 字号：[ 大 中 小 ] 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理学、经济学、文学、艺术",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见官方公告原文"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "详见官方公告原文",
+      "contact": "详见官方公告原文（具体信息以官方发布为准）"
+    },
+    "id": 43
   },
   {
     "title": "广东外语外贸大学南国商学院2026年文化与传播学院招聘启事（急招）",
@@ -1595,7 +1276,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 55
+    "id": 44
   },
   {
     "title": "广东创新科技职业学院高层次人才招聘启事",
@@ -1624,7 +1305,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 56
+    "id": 45
   },
   {
     "title": "​先进材料与技术研究院诚聘“青年百人计划”教师与博士后研究人员",
@@ -1653,7 +1334,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 57
+    "id": 46
   },
   {
     "title": "惠州学院2026年公开招聘教学法、课程与教学论师资公告",
@@ -1682,7 +1363,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 58
+    "id": 47
   },
   {
     "title": "惠州学院2026年公开招聘学科带头人、学科骨干公告",
@@ -1711,7 +1392,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 59
+    "id": 48
   },
   {
     "title": "深圳大学材料学院黄妍斐团队诚聘专职副研究员",
@@ -1740,7 +1421,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 60
+    "id": 49
   },
   {
     "title": "深圳大学传播学院“百人计划”教授虞鑫团队博士后招聘",
@@ -1769,7 +1450,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 61
+    "id": 50
   },
   {
     "title": "深圳大学口腔医学院向碧璐研究团队招聘研究助理一名",
@@ -1798,7 +1479,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 62
+    "id": 51
   },
   {
     "title": "肇庆学院2026年教学科研人员招聘公告",
@@ -1827,7 +1508,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 63
+    "id": 52
   },
   {
     "title": "广东理工学院2027年教师招聘简章",
@@ -1856,7 +1537,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 64
+    "id": 53
   },
   {
     "title": "深圳大学化学与环境工程学院李加强课题组博士后招聘",
@@ -1885,7 +1566,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 65
+    "id": 54
   },
   {
     "title": "深圳大学心理学院陈琦特聘教授-陶伍海副教授联合诚聘博士后",
@@ -1914,7 +1595,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 66
+    "id": 55
   },
   {
     "title": "深圳大学管理学院博士后招聘",
@@ -1943,7 +1624,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 67
+    "id": 56
   },
   {
     "title": "广东理工学院2027年银龄教师招聘简章",
@@ -1972,7 +1653,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 68
+    "id": 57
   },
   {
     "title": "广州理工学院2026年秋季专任教师招聘公告",
@@ -2001,7 +1682,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 69
+    "id": 58
   },
   {
     "title": "珠海市教育局2026年秋季面向社会公开招聘直属学校事业编制教师公告",
@@ -2030,7 +1711,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 70
+    "id": 59
   },
   {
     "title": "关于韶关市教育局直属学校2026年面向社会公开招聘教职员初检结论的公告",
@@ -2059,7 +1740,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 71
+    "id": 60
   },
   {
     "title": "肇庆学院2026年7月招聘科研助理公示",
@@ -2088,7 +1769,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 72
+    "id": 61
   },
   {
     "title": "广东石油化工学院2026年公开招聘辅导员（第二批）公告",
@@ -2117,36 +1798,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 73
-  },
-  {
-    "title": "2026年湛江市教育局直属学校岭南师范学院附属中学公开招聘工作人员公告",
-    "city": "湛江",
-    "school": "湛江市教育局",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "公办编制",
-    "establishment": "正式编",
-    "headcount": 17,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-08-27",
-    "source": "湛江市教育局官网",
-    "sourceUrl": "https://www.zhanjiang.gov.cn/zjsfw/bmdh/jyj/zwgk/tzgg/content/post_2215988.html",
-    "content": {
-      "intro": "2026年湛江市教育局直属学校岭南师范学院附属中学公开招聘工作人员公告 时间：2026-08-27 11:23:13 来源：湛江市教育局 【打印】 【字体： 大 中 小 】 分享到： 为适应湛江教育事业发展，根据《广东省事业单位公开招聘人员办法》（粤府令第301号）文件精神，我局直属学校岭南师范学院附属中学决定面向全国",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见官方公告原文"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "详见官方公告原文",
-      "contact": "详见官方公告原文（具体信息以官方发布为准）"
-    },
-    "id": 74
+    "id": 62
   },
   {
     "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
@@ -2175,7 +1827,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 75
+    "id": 63
   },
   {
     "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第四批）",
@@ -2204,7 +1856,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 76
+    "id": 64
   },
   {
     "title": "广东建设职业技术学院2026年公开招聘博士研究生公告",
@@ -2233,7 +1885,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 77
+    "id": 65
   },
   {
     "title": "广东交通职业技术学院2026年第二批公开招聘事业单位工作人员公告",
@@ -2262,7 +1914,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 78
+    "id": 66
   },
   {
     "title": "江门市艺术中学公开选聘教师公告",
@@ -2291,7 +1943,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 79
+    "id": 67
   },
   {
     "title": "广州中医药大学2026年第二批公开招聘工作人员公告",
@@ -2320,7 +1972,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 80
+    "id": 68
   },
   {
     "title": "广东药科大学2026年公开招聘专业技术人员公告",
@@ -2349,7 +2001,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 81
+    "id": 69
   },
   {
     "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第三批）",
@@ -2378,7 +2030,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 82
+    "id": 70
   },
   {
     "title": "2026年8月培训学院公开招聘合同制工作人员公告",
@@ -2407,7 +2059,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 83
+    "id": 71
   }
 ];
 if (window.REAL_JOBS && window.REAL_JOBS.length) { MOCK_JOBS = window.REAL_JOBS; }
