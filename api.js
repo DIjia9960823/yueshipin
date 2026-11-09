@@ -12,7 +12,9 @@ function isSoonJob(j) {
   return days >= 0 && days <= 7;
 }
 function isPrivateJob(j) {
-  // 万行民办列表抓来的职位自带 isPrivate 标记，比猜名字可靠
+  // 优先用省教育厅名单判定的 ownership，其次用抓取时的 isPrivate 标记，最后才猜名字
+  if (j.ownership === "民办") return true;
+  if (j.ownership === "公办") return false;
   if (j.isPrivate === true) return true;
   return ((j.school || "") + (j.source || "") + (j.title || "")).includes("民办");
 }
