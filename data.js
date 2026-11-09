@@ -564,7 +564,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 19
+    "id": 19,
+    "isPrivate": true
   },
   {
     "title": "小学骨干数学教师(骨干教师)",
@@ -594,7 +595,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 20
+    "id": 20,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师（清北骨干名师）",
@@ -624,7 +626,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 21
+    "id": 21,
+    "isPrivate": true
   },
   {
     "title": "小学英语老师",
@@ -654,7 +657,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 22
+    "id": 22,
+    "isPrivate": true
   },
   {
     "title": "小学心理健康教师",
@@ -684,7 +688,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 23
+    "id": 23,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师(实习、代课)",
@@ -714,7 +719,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 24
+    "id": 24,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(中青年教师)",
@@ -744,7 +750,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 25
+    "id": 25,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师(合格教师)",
@@ -774,7 +781,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 26
+    "id": 26,
+    "isPrivate": true
   },
   {
     "title": "工业机器人技术应用教师",
@@ -804,7 +812,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 27
+    "id": 27,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师(年薪8-25万)",
@@ -834,7 +843,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 28
+    "id": 28,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师",
@@ -864,7 +874,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 29
+    "id": 29,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师",
@@ -894,7 +905,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 30
+    "id": 30,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师",
@@ -924,7 +936,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 31
+    "id": 31,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师",
@@ -954,7 +967,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 32
+    "id": 32,
+    "isPrivate": true
   },
   {
     "title": "初中数学教师(名优教师)",
@@ -984,7 +998,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 33
+    "id": 33,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(骨干教师)",
@@ -1014,7 +1029,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 34
+    "id": 34,
+    "isPrivate": true
   },
   {
     "title": "高中物理青年教师",
@@ -1044,7 +1060,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 35
+    "id": 35,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师(骨干教师)",
@@ -1074,7 +1091,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 36
+    "id": 36,
+    "isPrivate": true
   },
   {
     "title": "初中物理教师",
@@ -1104,7 +1122,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 37
+    "id": 37,
+    "isPrivate": true
   },
   {
     "title": "初中化学教师",
@@ -1134,7 +1153,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 38
+    "id": 38,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师(青年教师)",
@@ -1164,7 +1184,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 39
+    "id": 39,
+    "isPrivate": true
   },
   {
     "title": "初中数学教师",
@@ -1194,7 +1215,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 40
+    "id": 40,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师(骨干教师)",
@@ -1224,7 +1246,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 41
+    "id": 41,
+    "isPrivate": true
   },
   {
     "title": "高中生物教师",
@@ -1254,7 +1277,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 42
+    "id": 42,
+    "isPrivate": true
   },
   {
     "title": "小学音乐教师(青年教师)",
@@ -1284,7 +1308,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 43
+    "id": 43,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(骨干教师)",
@@ -1314,7 +1339,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 44
+    "id": 44,
+    "isPrivate": true
   },
   {
     "title": "初中物理教师(青年教师)",
@@ -1344,7 +1370,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 45
+    "id": 45,
+    "isPrivate": true
   },
   {
     "title": "初中化学老师",
@@ -1374,7 +1401,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 46
+    "id": 46,
+    "isPrivate": true
   },
   {
     "title": "急招 初中道德与法治教师(青年教师)",
@@ -1404,7 +1432,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 47
+    "id": 47,
+    "isPrivate": true
   },
   {
     "title": "生活教师",
@@ -1433,7 +1462,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 48
+    "id": 48,
+    "isPrivate": true
   },
   {
     "title": "小学数学教师(骨干教师)",
@@ -1463,7 +1493,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 49
+    "id": 49,
+    "isPrivate": true
   },
   {
     "title": "初中化学教师(青年教师)",
@@ -1493,7 +1524,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 50
+    "id": 50,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(立即到岗)",
@@ -1523,7 +1555,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 51
+    "id": 51,
+    "isPrivate": true
   },
   {
     "title": "初中体育教师",
@@ -1553,7 +1586,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 52
+    "id": 52,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师(骨干教师)",
@@ -1583,7 +1617,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 53
+    "id": 53,
+    "isPrivate": true
   },
   {
     "title": "11月校招宣讲会—高中教师（语数英物化）(应届生)",
@@ -1613,7 +1648,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 54
+    "id": 54,
+    "isPrivate": true
   },
   {
     "title": "初中历史教师(合格教师)",
@@ -1643,7 +1679,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 55
+    "id": 55,
+    "isPrivate": true
   },
   {
     "title": "初数学教师(合格教师)",
@@ -1673,7 +1710,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 56
+    "id": 56,
+    "isPrivate": true
   },
   {
     "title": "国际部班主任",
@@ -1703,7 +1741,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 57
+    "id": 57,
+    "isPrivate": true
   },
   {
     "title": "幼儿园实习教师",
@@ -1733,7 +1772,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 58
+    "id": 58,
+    "isPrivate": true
   },
   {
     "title": "国际部德育主任",
@@ -1763,7 +1803,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 59
+    "id": 59,
+    "isPrivate": true
   },
   {
     "title": "幼儿园班级教师",
@@ -1793,7 +1834,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 60
+    "id": 60,
+    "isPrivate": true
   },
   {
     "title": "幼儿园保育老师",
@@ -1823,7 +1865,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 61
+    "id": 61,
+    "isPrivate": true
   },
   {
     "title": "初中地理教师",
@@ -1853,7 +1896,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 62
+    "id": 62,
+    "isPrivate": true
   },
   {
     "title": "小学美术教师",
@@ -1883,7 +1927,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 63
+    "id": 63,
+    "isPrivate": true
   },
   {
     "title": "小学语文教师",
@@ -1913,7 +1958,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 64
+    "id": 64,
+    "isPrivate": true
   },
   {
     "title": "小学数学教师",
@@ -1943,7 +1989,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 65
+    "id": 65,
+    "isPrivate": true
   },
   {
     "title": "小学英语教师",
@@ -1973,7 +2020,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 66
+    "id": 66,
+    "isPrivate": true
   },
   {
     "title": "小学书法教师",
@@ -2003,7 +2051,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 67
+    "id": 67,
+    "isPrivate": true
   },
   {
     "title": "小学科学教师",
@@ -2033,7 +2082,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 68
+    "id": 68,
+    "isPrivate": true
   },
   {
     "title": "小学体育教师",
@@ -2063,7 +2113,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 69
+    "id": 69,
+    "isPrivate": true
   },
   {
     "title": "小学音乐教师",
@@ -2093,7 +2144,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 70
+    "id": 70,
+    "isPrivate": true
   },
   {
     "title": "初中数学教师(青年教师)",
@@ -2123,7 +2175,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 71
+    "id": 71,
+    "isPrivate": true
   },
   {
     "title": "小学数学教师及班主任（ 线下面试）",
@@ -2153,7 +2206,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 72
+    "id": 72,
+    "isPrivate": true
   },
   {
     "title": "初中英语科任教师（线下面试）",
@@ -2183,7 +2237,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 73
+    "id": 73,
+    "isPrivate": true
   },
   {
     "title": "心理健康教师（专职）",
@@ -2213,7 +2268,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 74
+    "id": 74,
+    "isPrivate": true
   },
   {
     "title": "八语文教师兼班主任（需要线下面试）",
@@ -2243,7 +2299,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 75
+    "id": 75,
+    "isPrivate": true
   },
   {
     "title": "初中数学教师(8月份上岗)",
@@ -2273,7 +2330,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 76
+    "id": 76,
+    "isPrivate": true
   },
   {
     "title": "小学心理健康教师(青年教师)",
@@ -2303,7 +2361,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 77
+    "id": 77,
+    "isPrivate": true
   },
   {
     "title": "小学语文骨干教师(青年教师)",
@@ -2333,7 +2392,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 78
+    "id": 78,
+    "isPrivate": true
   },
   {
     "title": "小学英语骨干教师",
@@ -2363,7 +2423,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 79
+    "id": 79,
+    "isPrivate": true
   },
   {
     "title": "小学体育教师(青年教师)",
@@ -2393,7 +2454,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 80
+    "id": 80,
+    "isPrivate": true
   },
   {
     "title": "小学美术教师(青年教师)",
@@ -2423,7 +2485,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 81
+    "id": 81,
+    "isPrivate": true
   },
   {
     "title": "信息技术(青年教师)",
@@ -2453,7 +2516,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 82
+    "id": 82,
+    "isPrivate": true
   },
   {
     "title": "小学科学老师(青年教师)",
@@ -2483,7 +2547,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 83
+    "id": 83,
+    "isPrivate": true
   },
   {
     "title": "高中心理健康教师(青年教师)",
@@ -2513,7 +2578,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 84
+    "id": 84,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师(骨干教师)",
@@ -2543,7 +2609,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 85
+    "id": 85,
+    "isPrivate": true
   },
   {
     "title": "高中生物教师(骨干教师)",
@@ -2573,7 +2640,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 86
+    "id": 86,
+    "isPrivate": true
   },
   {
     "title": "高中体育教师(青年教师)",
@@ -2603,7 +2671,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 87
+    "id": 87,
+    "isPrivate": true
   },
   {
     "title": "高中信息技术教师(青年教师)",
@@ -2633,7 +2702,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 88
+    "id": 88,
+    "isPrivate": true
   },
   {
     "title": "德育主任",
@@ -2663,7 +2733,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 89
+    "id": 89,
+    "isPrivate": true
   },
   {
     "title": "高中舞蹈教师(青年教师)",
@@ -2693,7 +2764,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 90
+    "id": 90,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(骨干教师)",
@@ -2723,7 +2795,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 91
+    "id": 91,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师(骨干教师)",
@@ -2753,7 +2826,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 92
+    "id": 92,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师(骨干教师)",
@@ -2783,7 +2857,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 93
+    "id": 93,
+    "isPrivate": true
   },
   {
     "title": "小学语文教师（年薪10万-20万）",
@@ -2813,7 +2888,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 94
+    "id": 94,
+    "isPrivate": true
   },
   {
     "title": "A-Level 教学主管",
@@ -2843,7 +2919,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 95
+    "id": 95,
+    "isPrivate": true
   },
   {
     "title": "DSE数学教师（高中）",
@@ -2873,7 +2950,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 96
+    "id": 96,
+    "isPrivate": true
   },
   {
     "title": "初中政治教师（年薪12-24万）",
@@ -2903,7 +2981,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 97
+    "id": 97,
+    "isPrivate": true
   },
   {
     "title": "DSE公社教师（高中）",
@@ -2933,7 +3012,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 98
+    "id": 98,
+    "isPrivate": true
   },
   {
     "title": "小初高各科教师(2027应届生)",
@@ -2963,7 +3043,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 99
+    "id": 99,
+    "isPrivate": true
   },
   {
     "title": "教务主任",
@@ -2993,7 +3074,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 100
+    "id": 100,
+    "isPrivate": true
   },
   {
     "title": "DSE物理教师（高中）",
@@ -3023,7 +3105,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 101
+    "id": 101,
+    "isPrivate": true
   },
   {
     "title": "DSE历史教师（高中）",
@@ -3053,7 +3136,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 102
+    "id": 102,
+    "isPrivate": true
   },
   {
     "title": "DSE经济老师",
@@ -3083,7 +3167,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 103
+    "id": 103,
+    "isPrivate": true
   },
   {
     "title": "DSE化学教师（高中）",
@@ -3113,7 +3198,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 104
+    "id": 104,
+    "isPrivate": true
   },
   {
     "title": "DSE生物教师（高中）",
@@ -3143,7 +3229,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 105
+    "id": 105,
+    "isPrivate": true
   },
   {
     "title": "DSE英语教师（高中）",
@@ -3173,7 +3260,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 106
+    "id": 106,
+    "isPrivate": true
   },
   {
     "title": "DSE语文教师（高中）",
@@ -3203,7 +3291,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 107
+    "id": 107,
+    "isPrivate": true
   },
   {
     "title": "高中日语教师(骨干教师)",
@@ -3233,7 +3322,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 108
+    "id": 108,
+    "isPrivate": true
   },
   {
     "title": "德育干事",
@@ -3263,7 +3353,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 109
+    "id": 109,
+    "isPrivate": true
   },
   {
     "title": "初中语文老师",
@@ -3293,7 +3384,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 110
+    "id": 110,
+    "isPrivate": true
   },
   {
     "title": "初中信息技术教师(青年教师)",
@@ -3323,7 +3415,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 111
+    "id": 111,
+    "isPrivate": true
   },
   {
     "title": "DSE英语教师(青年教师)",
@@ -3353,7 +3446,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 112
+    "id": 112,
+    "isPrivate": true
   },
   {
     "title": "双语化学教师(青年教师)",
@@ -3383,7 +3477,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 113
+    "id": 113,
+    "isPrivate": true
   },
   {
     "title": "日语教师（有高三教学经验的）",
@@ -3413,7 +3508,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 114
+    "id": 114,
+    "isPrivate": true
   },
   {
     "title": "初中道德与法治教师",
@@ -3443,7 +3539,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 115
+    "id": 115,
+    "isPrivate": true
   },
   {
     "title": "小学体育教师（羽毛球或乒乓球）(青年教师)",
@@ -3473,7 +3570,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 116
+    "id": 116,
+    "isPrivate": true
   },
   {
     "title": "双语物理教师",
@@ -3503,7 +3601,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 117
+    "id": 117,
+    "isPrivate": true
   },
   {
     "title": "双语化学生物教师",
@@ -3533,7 +3632,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 118
+    "id": 118,
+    "isPrivate": true
   },
   {
     "title": "DSE公民与社会(道德与法治)(青年教师)",
@@ -3563,7 +3663,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 119
+    "id": 119,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师（辅修西班牙语/阿拉伯语））(青年教师)",
@@ -3593,7 +3694,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 120
+    "id": 120,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师",
@@ -3623,7 +3725,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 121
+    "id": 121,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师（清北班）",
@@ -3653,7 +3756,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 122
+    "id": 122,
+    "isPrivate": true
   },
   {
     "title": "小学道德与法治教师(青年教师)",
@@ -3683,7 +3787,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 123
+    "id": 123,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(需要高三经验)",
@@ -3713,7 +3818,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 124
+    "id": 124,
+    "isPrivate": true
   },
   {
     "title": "小学英语教师（需要班主任经验）",
@@ -3743,7 +3849,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 125
+    "id": 125,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师",
@@ -3773,7 +3880,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 126
+    "id": 126,
+    "isPrivate": true
   },
   {
     "title": "初中生物教师(青年教师)",
@@ -3803,7 +3911,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 127
+    "id": 127,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师",
@@ -3833,7 +3942,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 128
+    "id": 128,
+    "isPrivate": true
   },
   {
     "title": "香港DSE数学教师(青年教师)",
@@ -3863,7 +3973,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 129
+    "id": 129,
+    "isPrivate": true
   },
   {
     "title": "高一物理老师",
@@ -3893,7 +4004,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 130
+    "id": 130,
+    "isPrivate": true
   },
   {
     "title": "高中化学老师",
@@ -3923,7 +4035,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 131
+    "id": 131,
+    "isPrivate": true
   },
   {
     "title": "音乐教师(代课老师)",
@@ -3953,7 +4066,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 132
+    "id": 132,
+    "isPrivate": true
   },
   {
     "title": "高中美术教师（艺考素描和速写方向）",
@@ -3983,7 +4097,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 133
+    "id": 133,
+    "isPrivate": true
   },
   {
     "title": "香港DSE中文教师",
@@ -4013,7 +4128,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 134
+    "id": 134,
+    "isPrivate": true
   },
   {
     "title": "初高中音乐教师(青年教师)",
@@ -4043,7 +4159,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 135
+    "id": 135,
+    "isPrivate": true
   },
   {
     "title": "双语地理教师(青年教师)",
@@ -4073,7 +4190,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 136
+    "id": 136,
+    "isPrivate": true
   },
   {
     "title": "体育教师(排球方向)",
@@ -4103,7 +4221,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 137
+    "id": 137,
+    "isPrivate": true
   },
   {
     "title": "Foreign teacher（外籍教师）",
@@ -4133,7 +4252,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 138
+    "id": 138,
+    "isPrivate": true
   },
   {
     "title": "小学体育教师(健美操方向)",
@@ -4163,7 +4283,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 139
+    "id": 139,
+    "isPrivate": true
   },
   {
     "title": "DSE经济学教师",
@@ -4193,7 +4314,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 140
+    "id": 140,
+    "isPrivate": true
   },
   {
     "title": "高中俄语教师(青年教师)",
@@ -4223,7 +4345,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 141
+    "id": 141,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(高三)",
@@ -4253,7 +4376,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 142
+    "id": 142,
+    "isPrivate": true
   },
   {
     "title": "小学数学教师(需要有多年班主任经验)",
@@ -4283,7 +4407,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 143
+    "id": 143,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师",
@@ -4313,7 +4438,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 144
+    "id": 144,
+    "isPrivate": true
   },
   {
     "title": "DSE物理教师",
@@ -4343,7 +4469,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 145
+    "id": 145,
+    "isPrivate": true
   },
   {
     "title": "道德与法治教师(青年教师)",
@@ -4373,7 +4500,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 146
+    "id": 146,
+    "isPrivate": true
   },
   {
     "title": "初中历史教师(骨干教师)",
@@ -4403,7 +4531,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 147
+    "id": 147,
+    "isPrivate": true
   },
   {
     "title": "小初体育教师(需有中考经验 游泳专项)",
@@ -4433,7 +4562,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 148
+    "id": 148,
+    "isPrivate": true
   },
   {
     "title": "DSE地理教师(青年教师)",
@@ -4463,7 +4593,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 149
+    "id": 149,
+    "isPrivate": true
   },
   {
     "title": "初中音乐教师(有舞蹈基础)",
@@ -4493,7 +4624,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 150
+    "id": 150,
+    "isPrivate": true
   },
   {
     "title": "小学数学教师(大沙校区)",
@@ -4523,7 +4655,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 151
+    "id": 151,
+    "isPrivate": true
   },
   {
     "title": "小学音乐教师赤沙校区）",
@@ -4553,7 +4686,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 152
+    "id": 152,
+    "isPrivate": true
   },
   {
     "title": "初中音乐教师(赤沙校区青年教师)",
@@ -4583,7 +4717,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 153
+    "id": 153,
+    "isPrivate": true
   },
   {
     "title": "小学英语教师(骨干教师)",
@@ -4613,7 +4748,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 154
+    "id": 154,
+    "isPrivate": true
   },
   {
     "title": "初中体育教师(青年教师)",
@@ -4643,7 +4779,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 155
+    "id": 155,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师(赤沙校区)(骨干教师)",
@@ -4673,7 +4810,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 156
+    "id": 156,
+    "isPrivate": true
   },
   {
     "title": "初中心理健康教师(青年教师)",
@@ -4703,7 +4841,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 157
+    "id": 157,
+    "isPrivate": true
   },
   {
     "title": "初中道德与法治教师(骨干教师)",
@@ -4733,7 +4872,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 158
+    "id": 158,
+    "isPrivate": true
   },
   {
     "title": "初中地理教师(青年教师)",
@@ -4763,7 +4903,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 159
+    "id": 159,
+    "isPrivate": true
   },
   {
     "title": "初中数学老师（赤沙校区）(青年教师)",
@@ -4793,7 +4934,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 160
+    "id": 160,
+    "isPrivate": true
   },
   {
     "title": "初中体育教师(骨干教师)",
@@ -4823,7 +4965,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 161
+    "id": 161,
+    "isPrivate": true
   },
   {
     "title": "初中化学教师(大沙校区)",
@@ -4853,7 +4996,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 162
+    "id": 162,
+    "isPrivate": true
   },
   {
     "title": "小学语文教师(赤沙校区骨干教师)",
@@ -4883,7 +5027,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 163
+    "id": 163,
+    "isPrivate": true
   },
   {
     "title": "中段语文教师（班主任）",
@@ -4913,7 +5058,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 164
+    "id": 164,
+    "isPrivate": true
   },
   {
     "title": "中段小学数学教师",
@@ -4943,7 +5089,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 165
+    "id": 165,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(学科带头人)",
@@ -4973,7 +5120,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 166
+    "id": 166,
+    "isPrivate": true
   },
   {
     "title": "初中历史教师(青年教师)",
@@ -5003,7 +5151,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 167
+    "id": 167,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师骨干教师贯通",
@@ -5033,7 +5182,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 168
+    "id": 168,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师（清北骨干名师）",
@@ -5063,7 +5213,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 169
+    "id": 169,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师",
@@ -5093,7 +5244,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 170
+    "id": 170,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师（清北骨干名师）",
@@ -5123,7 +5275,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 171
+    "id": 171,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师（清北骨干名师）",
@@ -5153,7 +5306,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 172
+    "id": 172,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师（清北骨干名师）",
@@ -5183,7 +5337,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 173
+    "id": 173,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师（清北骨干名师）",
@@ -5213,7 +5368,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 174
+    "id": 174,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师（清北骨干名师）",
@@ -5243,7 +5399,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 175
+    "id": 175,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师（清北骨干名师）",
@@ -5273,7 +5430,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 176
+    "id": 176,
+    "isPrivate": true
   },
   {
     "title": "STEM科技创新教师",
@@ -5303,7 +5461,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 177
+    "id": 177,
+    "isPrivate": true
   },
   {
     "title": "初中心理健康教师",
@@ -5333,7 +5492,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 178
+    "id": 178,
+    "isPrivate": true
   },
   {
     "title": "小学英语教师(实习生)",
@@ -5363,7 +5523,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 179
+    "id": 179,
+    "isPrivate": true
   },
   {
     "title": "小学体育教师(实习生)",
@@ -5393,7 +5554,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 180
+    "id": 180,
+    "isPrivate": true
   },
   {
     "title": "高中日语教师(青年教师)",
@@ -5423,7 +5585,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 181
+    "id": 181,
+    "isPrivate": true
   },
   {
     "title": "高中雅思教师(青年教师)",
@@ -5453,7 +5616,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 182
+    "id": 182,
+    "isPrivate": true
   },
   {
     "title": "高中通用技术教师(青年教师)",
@@ -5483,7 +5647,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 183
+    "id": 183,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师(青年教师)",
@@ -5513,7 +5678,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 184
+    "id": 184,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师(青年教师)",
@@ -5543,7 +5709,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 185
+    "id": 185,
+    "isPrivate": true
   },
   {
     "title": "高中生物教师(青年教师)",
@@ -5573,7 +5740,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 186
+    "id": 186,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师(青年教师)",
@@ -5603,7 +5771,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 187
+    "id": 187,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(青年教师)",
@@ -5633,7 +5802,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 188
+    "id": 188,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师(青年教师)",
@@ -5663,7 +5833,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 189
+    "id": 189,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(青年教师)",
@@ -5693,7 +5864,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 190
+    "id": 190,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(青年教师)",
@@ -5723,7 +5895,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 191
+    "id": 191,
+    "isPrivate": true
   },
   {
     "title": "德育专员/干事",
@@ -5753,7 +5926,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 192
+    "id": 192,
+    "isPrivate": true
   },
   {
     "title": "生活老师",
@@ -5782,7 +5956,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 193
+    "id": 193,
+    "isPrivate": true
   },
   {
     "title": "教务专员",
@@ -5812,7 +5987,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 194
+    "id": 194,
+    "isPrivate": true
   },
   {
     "title": "教学主任",
@@ -5842,7 +6018,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 195
+    "id": 195,
+    "isPrivate": true
   },
   {
     "title": "小学信息技术教师",
@@ -5872,7 +6049,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 196
+    "id": 196,
+    "isPrivate": true
   },
   {
     "title": "高中通用技术教师(骨干教师)",
@@ -5902,7 +6080,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 197
+    "id": 197,
+    "isPrivate": true
   },
   {
     "title": "初中物理教师(有中考备考经验)",
@@ -5932,7 +6111,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 198
+    "id": 198,
+    "isPrivate": true
   },
   {
     "title": "初中生物教师(骨干教师)",
@@ -5962,7 +6142,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 199
+    "id": 199,
+    "isPrivate": true
   },
   {
     "title": "初中信息技术教师(骨干教师)",
@@ -5992,7 +6173,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 200
+    "id": 200,
+    "isPrivate": true
   },
   {
     "title": "初中美术教师(骨干教师)",
@@ -6022,7 +6204,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 201
+    "id": 201,
+    "isPrivate": true
   },
   {
     "title": "高中心理健康教师(骨干教师)",
@@ -6052,7 +6235,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 202
+    "id": 202,
+    "isPrivate": true
   },
   {
     "title": "高中信息技术教师(骨干教师)",
@@ -6082,7 +6266,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 203
+    "id": 203,
+    "isPrivate": true
   },
   {
     "title": "高中美术教师(骨干教师)",
@@ -6112,7 +6297,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 204
+    "id": 204,
+    "isPrivate": true
   },
   {
     "title": "高中体育教师(骨干教师)",
@@ -6142,7 +6328,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 205
+    "id": 205,
+    "isPrivate": true
   },
   {
     "title": "高中声乐教师",
@@ -6172,7 +6359,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 206
+    "id": 206,
+    "isPrivate": true
   },
   {
     "title": "小学书法教师(青年教师)",
@@ -6202,7 +6390,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 207
+    "id": 207,
+    "isPrivate": true
   },
   {
     "title": "小学信息技术教师(骨干教师)",
@@ -6232,7 +6421,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 208
+    "id": 208,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师（有中考备考经验）",
@@ -6262,7 +6452,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 209
+    "id": 209,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师（有一届及以上九年级经验）",
@@ -6292,7 +6483,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 210
+    "id": 210,
+    "isPrivate": true
   },
   {
     "title": "小学音乐教师（西洋管乐方向）",
@@ -6322,7 +6514,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 211
+    "id": 211,
+    "isPrivate": true
   },
   {
     "title": "心理辅导教师",
@@ -6352,7 +6545,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 212
+    "id": 212,
+    "isPrivate": true
   },
   {
     "title": "中学信息技术教师",
@@ -6382,7 +6576,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 213
+    "id": 213,
+    "isPrivate": true
   },
   {
     "title": "中小学美术教师",
@@ -6412,7 +6607,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 214
+    "id": 214,
+    "isPrivate": true
   },
   {
     "title": "小学舞蹈教师(骨干教师)",
@@ -6442,7 +6638,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 215
+    "id": 215,
+    "isPrivate": true
   },
   {
     "title": "小学科学教师(青年教师)",
@@ -6472,7 +6669,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 216
+    "id": 216,
+    "isPrivate": true
   },
   {
     "title": "初中音乐教师(骨干教师)",
@@ -6502,7 +6700,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 217
+    "id": 217,
+    "isPrivate": true
   },
   {
     "title": "初中数学教师(学科带头人)",
@@ -6532,7 +6731,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 218
+    "id": 218,
+    "isPrivate": true
   },
   {
     "title": "初中各科学科带头人(学科带头人)",
@@ -6562,7 +6762,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 219
+    "id": 219,
+    "isPrivate": true
   },
   {
     "title": "中小学教务处主任",
@@ -6592,7 +6793,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 220
+    "id": 220,
+    "isPrivate": true
   },
   {
     "title": "中小学数学学科带头人",
@@ -6622,7 +6824,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 221
+    "id": 221,
+    "isPrivate": true
   },
   {
     "title": "心理健康教育教师",
@@ -6652,7 +6855,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 222
+    "id": 222,
+    "isPrivate": true
   },
   {
     "title": "中小学语文教师学科带头人",
@@ -6682,7 +6886,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 223
+    "id": 223,
+    "isPrivate": true
   },
   {
     "title": "德育处主任",
@@ -6712,7 +6917,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 224
+    "id": 224,
+    "isPrivate": true
   },
   {
     "title": "小学舞蹈教师(青年教师)",
@@ -6742,7 +6948,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 225
+    "id": 225,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师(学科带头人)",
@@ -6772,7 +6979,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 226
+    "id": 226,
+    "isPrivate": true
   },
   {
     "title": "初中道德与法治教师(青年教师)",
@@ -6802,7 +7010,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 227
+    "id": 227,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师(青年教师)",
@@ -6832,7 +7041,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 228
+    "id": 228,
+    "isPrivate": true
   },
   {
     "title": "小学数学教师(青年教师)",
@@ -6862,7 +7072,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 229
+    "id": 229,
+    "isPrivate": true
   },
   {
     "title": "初中生物教师",
@@ -6892,7 +7103,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 230
+    "id": 230,
+    "isPrivate": true
   },
   {
     "title": "初中政治教师",
@@ -6922,7 +7134,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 231
+    "id": 231,
+    "isPrivate": true
   },
   {
     "title": "初中历史教师",
@@ -6952,7 +7165,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 232
+    "id": 232,
+    "isPrivate": true
   },
   {
     "title": "初中道德与法治教师(应届生)",
@@ -6982,7 +7196,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 233
+    "id": 233,
+    "isPrivate": true
   },
   {
     "title": "初中音乐教师(青年教师)",
@@ -7012,7 +7227,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 234
+    "id": 234,
+    "isPrivate": true
   },
   {
     "title": "初中美术教师(青年教师)",
@@ -7042,7 +7258,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 235
+    "id": 235,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师(应届生)",
@@ -7072,7 +7289,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 236
+    "id": 236,
+    "isPrivate": true
   },
   {
     "title": "初中生物教师(应届生)",
@@ -7102,7 +7320,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 237
+    "id": 237,
+    "isPrivate": true
   },
   {
     "title": "初中物理教师(应届生)",
@@ -7132,7 +7351,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 238
+    "id": 238,
+    "isPrivate": true
   },
   {
     "title": "初中化学教师(应届生)",
@@ -7162,7 +7382,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 239
+    "id": 239,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师(应届生)",
@@ -7192,7 +7413,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 240
+    "id": 240,
+    "isPrivate": true
   },
   {
     "title": "初中数学教师(应届生)",
@@ -7222,7 +7444,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 241
+    "id": 241,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(专家级名师)",
@@ -7252,7 +7475,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 242
+    "id": 242,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师(专家级名师)",
@@ -7282,7 +7506,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 243
+    "id": 243,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师(专家级名师)",
@@ -7312,7 +7537,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 244
+    "id": 244,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(专家级名师)",
@@ -7342,7 +7568,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 245
+    "id": 245,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(名师)(专家级名师)",
@@ -7372,7 +7599,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 246
+    "id": 246,
+    "isPrivate": true
   },
   {
     "title": "初中物理教师(骨干教师)",
@@ -7402,7 +7630,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 247
+    "id": 247,
+    "isPrivate": true
   },
   {
     "title": "初中化学教师(骨干教师)",
@@ -7432,7 +7661,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 248
+    "id": 248,
+    "isPrivate": true
   },
   {
     "title": "初中地理教师(应届生)",
@@ -7462,7 +7692,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 249
+    "id": 249,
+    "isPrivate": true
   },
   {
     "title": "初中历史教师(应届生)",
@@ -7492,7 +7723,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 250
+    "id": 250,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(应届生)",
@@ -7522,7 +7754,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 251
+    "id": 251,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(应届生)",
@@ -7552,7 +7785,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 252
+    "id": 252,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师(应届生)",
@@ -7582,7 +7816,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 253
+    "id": 253,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师(应届生)",
@@ -7612,7 +7847,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 254
+    "id": 254,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(应届生)",
@@ -7642,7 +7878,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 255
+    "id": 255,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师(应届生)",
@@ -7672,7 +7909,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 256
+    "id": 256,
+    "isPrivate": true
   },
   {
     "title": "高中生物教师(应届生)",
@@ -7702,7 +7940,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 257
+    "id": 257,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师(应届生)",
@@ -7732,7 +7971,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 258
+    "id": 258,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师(应届生)",
@@ -7762,7 +8002,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 259
+    "id": 259,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师(青年教师)",
@@ -7792,7 +8033,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 260
+    "id": 260,
+    "isPrivate": true
   },
   {
     "title": "初中地理教师(骨干教师)",
@@ -7822,7 +8064,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 261
+    "id": 261,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师（秋季）",
@@ -7852,7 +8095,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 262
+    "id": 262,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师（硕士实习生）",
@@ -7882,7 +8126,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 263
+    "id": 263,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(硕士实习生)",
@@ -7912,7 +8157,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 264
+    "id": 264,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(硕士实习生)",
@@ -7942,7 +8188,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 265
+    "id": 265,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(硕士实习生)",
@@ -7972,7 +8219,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 266
+    "id": 266,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师(硕士实习生)",
@@ -8002,7 +8250,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 267
+    "id": 267,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师（硕士实习生）",
@@ -8032,7 +8281,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 268
+    "id": 268,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师（秋季）",
@@ -8062,7 +8312,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 269
+    "id": 269,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师（秋季）",
@@ -8092,7 +8343,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 270
+    "id": 270,
+    "isPrivate": true
   },
   {
     "title": "高中生物教师（秋季）",
@@ -8122,7 +8374,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 271
+    "id": 271,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师（秋季）",
@@ -8152,7 +8405,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 272
+    "id": 272,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师（秋季）",
@@ -8182,7 +8436,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 273
+    "id": 273,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师（秋季）",
@@ -8212,7 +8467,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 274
+    "id": 274,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师（秋季）",
@@ -8242,7 +8498,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 275
+    "id": 275,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师（秋季）",
@@ -8272,7 +8529,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 276
+    "id": 276,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师（秋季）",
@@ -8302,7 +8560,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 277
+    "id": 277,
+    "isPrivate": true
   },
   {
     "title": "急招初中物理教师(骨干教师)（年薪8-30万）",
@@ -8332,7 +8591,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 278
+    "id": 278,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师(骨干教师)（年薪10-30万）",
@@ -8362,7 +8622,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 279
+    "id": 279,
+    "isPrivate": true
   },
   {
     "title": "初中数学教师(骨干教师)（年薪10-30万）",
@@ -8392,7 +8653,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 280
+    "id": 280,
+    "isPrivate": true
   },
   {
     "title": "高中心理健康教师",
@@ -8422,7 +8684,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 281
+    "id": 281,
+    "isPrivate": true
   },
   {
     "title": "急招初中数学教师（年薪8-18w）",
@@ -8452,7 +8715,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 282
+    "id": 282,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师（年薪10-25w）",
@@ -8482,7 +8746,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 283
+    "id": 283,
+    "isPrivate": true
   },
   {
     "title": "急招初中地理教师（年薪8-18w）",
@@ -8512,7 +8777,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 284
+    "id": 284,
+    "isPrivate": true
   },
   {
     "title": "急招初中物理教师（年薪8-18w）",
@@ -8542,7 +8808,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 285
+    "id": 285,
+    "isPrivate": true
   },
   {
     "title": "初中化学教师（年薪8-18w）",
@@ -8572,7 +8839,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 286
+    "id": 286,
+    "isPrivate": true
   },
   {
     "title": "初中生物教师（年薪8-18w）",
@@ -8602,7 +8870,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 287
+    "id": 287,
+    "isPrivate": true
   },
   {
     "title": "初中道德与法治教师（年薪8-18w）",
@@ -8632,7 +8901,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 288
+    "id": 288,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师（年薪8-18w）",
@@ -8662,7 +8932,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 289
+    "id": 289,
+    "isPrivate": true
   },
   {
     "title": "小学六年级语文教师(青年教师)",
@@ -8692,7 +8963,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 290
+    "id": 290,
+    "isPrivate": true
   },
   {
     "title": "计算机专业教师(急招)",
@@ -8722,7 +8994,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 291
+    "id": 291,
+    "isPrivate": true
   },
   {
     "title": "（培训部）初中英语教师",
@@ -8752,7 +9025,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 292
+    "id": 292,
+    "isPrivate": true
   },
   {
     "title": "（培训部）初中数学教师",
@@ -8782,7 +9056,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 293
+    "id": 293,
+    "isPrivate": true
   },
   {
     "title": "初中政治教师(青年教师)",
@@ -8812,7 +9087,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 294
+    "id": 294,
+    "isPrivate": true
   },
   {
     "title": "初中英语教师(学科带头人)",
@@ -8842,7 +9118,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 295
+    "id": 295,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师(成熟教师)",
@@ -8872,7 +9149,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 296
+    "id": 296,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师(清北名师)",
@@ -8902,7 +9180,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 297
+    "id": 297,
+    "isPrivate": true
   },
   {
     "title": "高中体育教师(成熟教师)",
@@ -8932,7 +9211,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 298
+    "id": 298,
+    "isPrivate": true
   },
   {
     "title": "高中音乐教师(青年教师)",
@@ -8962,7 +9242,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 299
+    "id": 299,
+    "isPrivate": true
   },
   {
     "title": "高中生活老师",
@@ -8991,7 +9272,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 300
+    "id": 300,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(成熟教师)",
@@ -9021,7 +9303,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 301
+    "id": 301,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(清北名师)",
@@ -9051,7 +9334,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 302
+    "id": 302,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师(清北名师)",
@@ -9081,7 +9365,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 303
+    "id": 303,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师(成熟教师)",
@@ -9111,7 +9396,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 304
+    "id": 304,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(清北名师)",
@@ -9141,7 +9427,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 305
+    "id": 305,
+    "isPrivate": true
   },
   {
     "title": "高中生物教师(清北名师)",
@@ -9171,7 +9458,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 306
+    "id": 306,
+    "isPrivate": true
   },
   {
     "title": "高中生物教师(成熟教师)",
@@ -9201,7 +9489,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 307
+    "id": 307,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师(清北名师)",
@@ -9231,7 +9520,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 308
+    "id": 308,
+    "isPrivate": true
   },
   {
     "title": "初中物理教师(学科带头人)",
@@ -9261,7 +9551,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 309
+    "id": 309,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师(成熟教师)",
@@ -9291,7 +9582,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 310
+    "id": 310,
+    "isPrivate": true
   },
   {
     "title": "高中地理教师(清北名师)",
@@ -9321,7 +9613,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 311
+    "id": 311,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师(成熟教师)",
@@ -9351,7 +9644,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 312
+    "id": 312,
+    "isPrivate": true
   },
   {
     "title": "高中政治教师(清北名师)",
@@ -9381,7 +9675,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 313
+    "id": 313,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师(成熟教师)",
@@ -9411,7 +9706,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 314
+    "id": 314,
+    "isPrivate": true
   },
   {
     "title": "高中化学教师(成熟教师)",
@@ -9441,7 +9737,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 315
+    "id": 315,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(清北名师)",
@@ -9471,7 +9768,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 316
+    "id": 316,
+    "isPrivate": true
   },
   {
     "title": "高中物理教师(成熟教师)",
@@ -9501,7 +9799,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 317
+    "id": 317,
+    "isPrivate": true
   },
   {
     "title": "五大学科竞赛教练(竞赛教练)",
@@ -9531,7 +9830,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 318
+    "id": 318,
+    "isPrivate": true
   },
   {
     "title": "物理实验员",
@@ -9561,7 +9861,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 319
+    "id": 319,
+    "isPrivate": true
   },
   {
     "title": "小学生活教师（急聘女）",
@@ -9590,7 +9891,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 320
+    "id": 320,
+    "isPrivate": true
   },
   {
     "title": "高中数学教师（转正后综合月薪5000-12000元）",
@@ -9620,7 +9922,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 321
+    "id": 321,
+    "isPrivate": true
   },
   {
     "title": "高中英语教师（转正后综合月薪5000-12000元）",
@@ -9650,7 +9953,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 322
+    "id": 322,
+    "isPrivate": true
   },
   {
     "title": "教务员（熟悉使用校宝系统）",
@@ -9679,7 +9983,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 323
+    "id": 323,
+    "isPrivate": true
   },
   {
     "title": "书法教师(青年教师)",
@@ -9708,7 +10013,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 324
+    "id": 324,
+    "isPrivate": true
   },
   {
     "title": "教务处副处长",
@@ -9738,7 +10044,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 325
+    "id": 325,
+    "isPrivate": true
   },
   {
     "title": "教务处处长",
@@ -9768,7 +10075,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 326
+    "id": 326,
+    "isPrivate": true
   },
   {
     "title": "幼儿英语教师(英语教师)",
@@ -9797,7 +10105,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 327
+    "id": 327,
+    "isPrivate": true
   },
   {
     "title": "职高数学教师",
@@ -9827,7 +10136,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 328
+    "id": 328,
+    "isPrivate": true
   },
   {
     "title": "高中历史教师(优秀教师)",
@@ -9857,7 +10167,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 329
+    "id": 329,
+    "isPrivate": true
   },
   {
     "title": "高中语文教师(优秀教师)",
@@ -9887,7 +10198,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 330
+    "id": 330,
+    "isPrivate": true
   },
   {
     "title": "初中语文教师",
@@ -9917,7 +10229,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 331
+    "id": 331,
+    "isPrivate": true
   },
   {
     "title": "小学英语骨干教师(骨干教师)",
@@ -9949,7 +10262,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 332
+    "id": 332,
+    "isPrivate": true
   },
   {
     "title": "兼职初中化学教师(青年教师)",
@@ -9978,7 +10292,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 333
+    "id": 333,
+    "isPrivate": true
   },
   {
     "title": "初中科学教师",
@@ -10007,7 +10322,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 334
+    "id": 334,
+    "isPrivate": true
   },
   {
     "title": "2026年广州市海珠区教育系统高校毕业生招聘公告",
@@ -10125,7 +10441,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 338
+    "id": 338,
+    "isPrivate": true
   },
   {
     "title": "外语教师（DSE）(青年教师)",
@@ -10155,7 +10472,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 339
+    "id": 339,
+    "isPrivate": true
   },
   {
     "title": "化学教师",
@@ -10185,7 +10503,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 340
+    "id": 340,
+    "isPrivate": true
   },
   {
     "title": "英语教师（DSE）",
@@ -10215,7 +10534,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 341
+    "id": 341,
+    "isPrivate": true
   },
   {
     "title": "小学语文教师(青年教师)",
@@ -10245,7 +10565,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 342
+    "id": 342,
+    "isPrivate": true
   },
   {
     "title": "高中其他教师(青年教师)",
@@ -10274,7 +10595,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 343
+    "id": 343,
+    "isPrivate": true
   },
   {
     "title": "广东创新科技职业学院2026年招聘公告",
