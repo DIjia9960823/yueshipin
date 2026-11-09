@@ -1,6 +1,20 @@
 // ===== Mock API Layer =====
 // 模拟后端接口，实际项目中替换为真实 fetch 请求
 
+// 判断公告属性：列表打标签和筛选共用，避免两处逻辑不一致
+function isFormalJob(j) {
+  const est = j.establishment || "";
+  return est.includes("正式编") || est.includes("事业编");
+}
+function isSoonJob(j) {
+  if (!j.deadline) return false;
+  const days = (new Date(j.deadline) - new Date()) / (1000 * 60 * 60 * 24);
+  return days >= 0 && days <= 7;
+}
+function isPrivateJob(j) {
+  return ((j.school || "") + (j.source || "") + (j.title || "")).includes("民办");
+}
+
 const API = {
   // 获取公告列表（支持筛选）
   getJobs(filters = {}) {
@@ -39,16 +53,15 @@ const API = {
         }
         // 只看正式编
         if (filters.onlyFormal) {
-          list = list.filter(j => j.establishment.includes("正式编") || j.establishment.includes("事业编"));
+          list = list.filter(isFormalJob);
         }
         // 即将截止（7天内）
         if (filters.onlySoon) {
-          const today = new Date();
-          list = list.filter(j => {
-            if (!j.deadline) return false;
-            const days = (new Date(j.deadline) - today) / (1000 * 60 * 60 * 24);
-            return days >= 0 && days <= 7;
-          });
+          list = list.filter(isSoonJob);
+        }
+        // 只看民办
+        if (filters.onlyPrivate) {
+          list = list.filter(isPrivateJob);
         }
         // 隐藏已截止
         if (filters.hideExpired) {
