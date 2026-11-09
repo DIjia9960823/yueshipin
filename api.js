@@ -17,12 +17,20 @@ function isPrivateJob(j) {
   return ((j.school || "") + (j.source || "") + (j.title || "")).includes("民办");
 }
 
+// 对外只展示官方来源：万行等第三方的抓取结果先压着，核验到官方原文才放出来
+function isPublished(j) {
+  if (j.pendingReview === true) return false;
+  if ((j.source || "").includes("万行")) return false;
+  if ((j.sourceUrl || "").includes("job910")) return false;
+  return true;
+}
+
 const API = {
   // 获取公告列表（支持筛选）
   getJobs(filters = {}) {
     return new Promise((resolve) => {
       setTimeout(() => {
-        let list = [...MOCK_JOBS];
+        let list = MOCK_JOBS.filter(isPublished);
 
         // 关键词搜索
         if (filters.keyword) {
@@ -86,7 +94,7 @@ const API = {
   getJobDetail(id) {
     return new Promise((resolve) => {
       setTimeout(() => {
-        const job = MOCK_JOBS.find(j => j.id === Number(id));
+        const job = MOCK_JOBS.filter(isPublished).find(j => j.id === Number(id));
         resolve(job || null);
       }, 150);
     });
@@ -97,10 +105,11 @@ const API = {
     return new Promise((resolve) => {
       setTimeout(() => {
         const today = new Date();
+        const published = MOCK_JOBS.filter(isPublished);
         resolve({
-          total: MOCK_JOBS.length,
-          formalCount: MOCK_JOBS.filter(j => j.establishment.includes("正式编") || j.establishment.includes("事业编")).length,
-          soonCount: MOCK_JOBS.filter(j => {
+          total: published.length,
+          formalCount: published.filter(j => j.establishment.includes("正式编") || j.establishment.includes("事业编")).length,
+          soonCount: published.filter(j => {
             if (!j.deadline) return false;
             const days = (new Date(j.deadline) - today) / (1000 * 60 * 60 * 24);
             return days >= 0 && days <= 7;
