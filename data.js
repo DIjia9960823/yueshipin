@@ -1,6 +1,6 @@
 // 本文件由 crawler/crawler.py 自动生成，请勿手工修改
-// 生成时间：2026-11-09 22:02:18   共 530 条
-window.DATA_UPDATED = "2026-11-09 22:02";
+// 生成时间：2026-11-09 22:44:57   共 685 条
+window.DATA_UPDATED = "2026-11-09 22:44";
 window.REAL_JOBS = [
   {
     "title": "2026年广州市教育系统校园招聘“优才计划”公告",
@@ -251,36 +251,6 @@ window.REAL_JOBS = [
     "ownership": "公办"
   },
   {
-    "title": "南方医科大学2020年公开招聘网上资格审查结果的公告",
-    "city": "高校",
-    "school": "南方医科大学",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "其他",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "南方医科大学官网",
-    "sourceUrl": "https://portal.smu.edu.cn/renshi/info/1121/4786.htm",
-    "content": {
-      "intro": "南方医科大学2020年公开招聘网上资格审查结果的公告 【 发布日期： 06-09 】 【 浏览次数： 】 【 作者： 】 各位考生： 根据广东省人力资源和社会保障厅核准的《南方医科大学 2020 年校本部公开招聘工作人员公告》、《南方医科大学 2020 年校本部公开招聘专业技术人员公告》的要求，目前我校已完成网上报名、",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见官方公告原文"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "年校本部公开招聘专业技术人员公告》的要求，目前我校已完成网上报名、资格审查的工作；请各位应聘者登录南方医科大学人事处网站公开招聘报名系统（网址：（；日在报名系统内自行下载并打印准考证（资格审查通过者才可打印准考证）",
-      "contact": "邮箱 smursk@163.com"
-    },
-    "id": 9,
-    "ownership": "公办"
-  },
-  {
     "title": "南方医科大学诚聘国际英语教师（Southern Medical University is Looking for  International English Teachers）（已招）",
     "city": "高校",
     "school": "南方医科大学",
@@ -307,7 +277,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 王小康；电话 020-61647385\n；邮箱 857150668@qq.com"
     },
-    "id": 10,
+    "id": 9,
     "ownership": "公办"
   },
   {
@@ -337,97 +307,7 @@ window.REAL_JOBS = [
       "signup": "现将该通知发给你们，请做好宣传和报名工作",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 11,
-    "ownership": "公办"
-  },
-  {
-    "title": "华南农业大学-韶关学院博士后创新实践基地2026年全职博士后招聘公告",
-    "city": "高校",
-    "school": "韶关学院",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "其他",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "博士",
-    "deadline": "2026-12-31",
-    "recordedAt": "2026-11-09",
-    "source": "韶关学院官网",
-    "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3742.htm",
-    "content": {
-      "intro": "华南农业大学 -韶关学院博士后创新实践基地（广东省博士后创新实践基地）2026年面向海内外诚聘具有科研创新潜力的博士后，有关招聘事项公告如下： 一、招收领域 作物学、生物学、植物保护、农业资源与环境、生态学、园艺学、食品科学与工程、兽医学、畜牧学、农业工程等 10个学科领域。 二、进站条件 （一）遵纪守法，无违纪违规行",
-      "targets": [
-        "-韶关学院博士后创新实践基地（广东省博士后创新实践基地）2026年面向海内外诚聘具有科研创新潜力的博士后，有关招聘事项公告如下："
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "35周岁以下"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "符合条件人员将以下资料电子版发送至邮箱 sgurscrsk@sgu.edu.cn ， 邮件主题请写为 “姓名+博士后应聘”。 （三）报名需提供材料：博士后申请表、简历、学历学位证书、身份证、科研成果佐证材料等电子版材料，初审通 过后将根据个人实际情况由韶关学院与华南农业大学协商 联合培养方式和工作地点。",
-      "contact": "电话 0751-8120085；邮箱 sgurscrsk@sgu.edu.cn"
-    },
-    "id": 12,
-    "ownership": "公办"
-  },
-  {
-    "title": "韶关学院2026年教学科研人员招聘公告",
-    "city": "高校",
-    "school": "韶关学院",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "公办编制",
-    "establishment": "正式编",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "2026-12-31",
-    "recordedAt": "2026-11-09",
-    "source": "韶关学院官网",
-    "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3722.htm",
-    "content": {
-      "intro": "韶关学院是广东省属公办普通高等学校。学校占地总面积2571亩。现有全日制在校生2.73万人，开设有文、理、工、农、法、管理、艺术、教育、经济、历史、医等11个学科门类，17个二级学院，71个本科专业，农业、机械2个专业硕士学位点。拥有1家综合三甲附属医院（临床医学院），1所省重点附属中学，1所省级示范附属幼儿园。现有省",
-      "targets": [
-        "1.学校同意录用的应届毕业生，须于2026年12月31日前获得相应的学历学位证书，获得学历学位后方可办理正式入职手续"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见官方公告原文"
-      ],
-      "process": "报名 → 面试 → 聘用",
-      "signup": "采用系统在线报名。进入韶关学院人才招聘网页（https://www.sgu.edu.cn/rczpw/），注册用户名后登陆报名系统，在系统中查询申请相应的职位，上传所需应聘材料，确认后提交。",
-      "contact": "电话 0751-8120085；邮箱 sgurscrsk@sgu.edu.cn"
-    },
-    "id": 13,
-    "ownership": "公办"
-  },
-  {
-    "title": "肇庆学院2026年11月招聘科研助理公告",
-    "city": "高校",
-    "school": "肇庆学院",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "其他",
-    "establishment": "详见原文",
-    "headcount": 1,
-    "education": "详见原文",
-    "deadline": "2026-11-13",
-    "recordedAt": "2026-11-09",
-    "source": "肇庆学院官网",
-    "sourceUrl": "https://rsc.zqu.edu.cn/info/2612/3741.htm",
-    "content": {
-      "intro": "当前位置：非专任教师招聘 2026-11-09 肇庆学院2026年11月招聘科研助理公告 因科研工作需要，秉着公开、平等、择优的原则，我校决定 面向社会 公开 招聘 科研助理 1名 。 一、招聘对象 报考 具体 要求详见《 科研助理需求表》（附件 1 ）。境内毕业生 须 于 202 6 年 12 月 31 日前取得相应",
-      "targets": [
-        "报考 具体 要求详见《 科研助理需求表》（附件 1 ）。境内毕业生 须 于"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "， 随时取消报考（聘用）资格， 由 此产生的后果由 应聘者 自 负"
-      ],
-      "process": "规定执行。 应聘者需 前往肇庆市端州区三甲医院进行体检，体检费由应聘人者 自行承担 。 体检不合格者，取消聘用资格。",
-      "signup": "采取 电子邮件报名 方式。 应聘者 需 将所有报名材料打包压缩 后， 发",
-      "contact": "电话 0758-2752102\n；邮箱 rsk316@zqu.edu.cn"
-    },
-    "id": 14,
+    "id": 10,
     "ownership": "公办"
   },
   {
@@ -457,7 +337,97 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 15,
+    "id": 11,
+    "ownership": "公办"
+  },
+  {
+    "title": "肇庆学院2026年11月招聘科研助理公告",
+    "city": "高校",
+    "school": "肇庆学院",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 1,
+    "education": "详见原文",
+    "deadline": "2026-11-13",
+    "recordedAt": "2026-11-09",
+    "source": "肇庆学院官网",
+    "sourceUrl": "https://rsc.zqu.edu.cn/info/2612/3741.htm",
+    "content": {
+      "intro": "当前位置：非专任教师招聘 2026-11-09 肇庆学院2026年11月招聘科研助理公告 因科研工作需要，秉着公开、平等、择优的原则，我校决定 面向社会 公开 招聘 科研助理 1名 。 一、招聘对象 报考 具体 要求详见《 科研助理需求表》（附件 1 ）。境内毕业生 须 于 202 6 年 12 月 31 日前取得相应",
+      "targets": [
+        "报考 具体 要求详见《 科研助理需求表》（附件 1 ）。境内毕业生 须 于"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "， 随时取消报考（聘用）资格， 由 此产生的后果由 应聘者 自 负"
+      ],
+      "process": "规定执行。 应聘者需 前往肇庆市端州区三甲医院进行体检，体检费由应聘人者 自行承担 。 体检不合格者，取消聘用资格。",
+      "signup": "采取 电子邮件报名 方式。 应聘者 需 将所有报名材料打包压缩 后， 发",
+      "contact": "电话 0758-2752102\n；邮箱 rsk316@zqu.edu.cn"
+    },
+    "id": 12,
+    "ownership": "公办"
+  },
+  {
+    "title": "华南农业大学-韶关学院博士后创新实践基地2026年全职博士后招聘公告",
+    "city": "高校",
+    "school": "韶关学院",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "博士",
+    "deadline": "2026-12-31",
+    "recordedAt": "2026-11-09",
+    "source": "韶关学院官网",
+    "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3742.htm",
+    "content": {
+      "intro": "华南农业大学 -韶关学院博士后创新实践基地（广东省博士后创新实践基地）2026年面向海内外诚聘具有科研创新潜力的博士后，有关招聘事项公告如下： 一、招收领域 作物学、生物学、植物保护、农业资源与环境、生态学、园艺学、食品科学与工程、兽医学、畜牧学、农业工程等 10个学科领域。 二、进站条件 （一）遵纪守法，无违纪违规行",
+      "targets": [
+        "-韶关学院博士后创新实践基地（广东省博士后创新实践基地）2026年面向海内外诚聘具有科研创新潜力的博士后，有关招聘事项公告如下："
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "35周岁以下"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "符合条件人员将以下资料电子版发送至邮箱 sgurscrsk@sgu.edu.cn ， 邮件主题请写为 “姓名+博士后应聘”。 （三）报名需提供材料：博士后申请表、简历、学历学位证书、身份证、科研成果佐证材料等电子版材料，初审通 过后将根据个人实际情况由韶关学院与华南农业大学协商 联合培养方式和工作地点。",
+      "contact": "电话 0751-8120085；邮箱 sgurscrsk@sgu.edu.cn"
+    },
+    "id": 13,
+    "ownership": "公办"
+  },
+  {
+    "title": "韶关学院2026年教学科研人员招聘公告",
+    "city": "高校",
+    "school": "韶关学院",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "公办编制",
+    "establishment": "正式编",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "2026-12-31",
+    "recordedAt": "2026-11-09",
+    "source": "韶关学院官网",
+    "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3722.htm",
+    "content": {
+      "intro": "韶关学院是广东省属公办普通高等学校。学校占地总面积2571亩。现有全日制在校生2.73万人，开设有文、理、工、农、法、管理、艺术、教育、经济、历史、医等11个学科门类，17个二级学院，71个本科专业，农业、机械2个专业硕士学位点。拥有1家综合三甲附属医院（临床医学院），1所省重点附属中学，1所省级示范附属幼儿园。现有省",
+      "targets": [
+        "1.学校同意录用的应届毕业生，须于2026年12月31日前获得相应的学历学位证书，获得学历学位后方可办理正式入职手续"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见官方公告原文"
+      ],
+      "process": "报名 → 面试 → 聘用",
+      "signup": "采用系统在线报名。进入韶关学院人才招聘网页（https://www.sgu.edu.cn/rczpw/），注册用户名后登陆报名系统，在系统中查询申请相应的职位，上传所需应聘材料，确认后提交。",
+      "contact": "电话 0751-8120085；邮箱 sgurscrsk@sgu.edu.cn"
+    },
+    "id": 14,
     "ownership": "公办"
   },
   {
@@ -487,7 +457,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 16,
+    "id": 15,
     "ownership": "民办"
   },
   {
@@ -520,7 +490,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 0759-6632226\n；邮箱 gdwlxyrsc@163.com"
     },
-    "id": 17,
+    "id": 16,
     "ownership": "民办"
   },
   {
@@ -551,7 +521,7 @@ window.REAL_JOBS = [
       "signup": "1.《广东省事业单位公开招聘人员报名表》（在报名系统填报后自动生成，导出签名后提交 PDF扫描件）；",
       "contact": "电话 0763-3919523、0763-3919526；邮箱 gdcvizp2022@163.com"
     },
-    "id": 18,
+    "id": 17,
     "ownership": "公办"
   },
   {
@@ -582,7 +552,40 @@ window.REAL_JOBS = [
       "signup": "报名首日前取得国家承认的学历学位证书及符合岗位条件的人员；本条所规定处分期限的计算截至报名首日；年龄时间点的计算截至报名首日",
       "contact": "电话 0763-3333000\n\n\n\n"
     },
-    "id": 19
+    "id": 18
+  },
+  {
+    "title": "11月校招宣讲会—高中教师（语数英物化）(应届生)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_925005.html",
+    "content": {
+      "intro": "薪资 18-22W/年；地点 广州-增城区；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "11月校招宣讲会—高中教师（语数英物化）(应届生)",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 19,
+    "ownership": "民办"
   },
   {
     "title": "初中数学(合格教师)急聘",
@@ -1337,39 +1340,6 @@ window.REAL_JOBS = [
     "ownership": "民办"
   },
   {
-    "title": "11月校招宣讲会—高中教师（语数英物化）(应届生)",
-    "city": "广州",
-    "school": "广州理工实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_925005.html",
-    "content": {
-      "intro": "薪资 18-22W/年；地点 广州-增城区；要求 本科、应届生。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "11月校招宣讲会—高中教师（语数英物化）(应届生)",
-      "conditions": [
-        "学历 本科",
-        "经验 应届生"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 43,
-    "ownership": "民办"
-  },
-  {
     "title": "初中数学教师(青年教师)",
     "city": "揭阳",
     "school": "普宁启航学校",
@@ -1399,7 +1369,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 44,
+    "id": 43,
     "ownership": "民办"
   },
   {
@@ -1432,7 +1402,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 45
+    "id": 44
   },
   {
     "title": "职高数学教师",
@@ -1464,7 +1434,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 46,
+    "id": 45,
     "ownership": "民办"
   },
   {
@@ -1497,7 +1467,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 47,
+    "id": 46,
     "ownership": "民办"
   },
   {
@@ -1530,7 +1500,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 48,
+    "id": 47,
     "ownership": "民办"
   },
   {
@@ -1563,7 +1533,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 49,
+    "id": 48,
     "ownership": "民办"
   },
   {
@@ -1596,7 +1566,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 50
+    "id": 49
   },
   {
     "title": "小学英语老师",
@@ -1628,7 +1598,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 51,
+    "id": 50,
     "ownership": "民办"
   },
   {
@@ -1661,7 +1631,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 52,
+    "id": 51,
     "ownership": "民办"
   },
   {
@@ -1694,7 +1664,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 53
+    "id": 52
   },
   {
     "title": "高中语文教师(中青年教师)",
@@ -1726,7 +1696,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 54,
+    "id": 53,
     "ownership": "民办"
   },
   {
@@ -1759,7 +1729,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 55,
+    "id": 54,
     "ownership": "民办"
   },
   {
@@ -1792,7 +1762,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 56,
+    "id": 55,
     "ownership": "民办"
   },
   {
@@ -1825,7 +1795,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 57,
+    "id": 56,
     "ownership": "民办"
   },
   {
@@ -1858,7 +1828,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 58,
+    "id": 57,
     "ownership": "民办"
   },
   {
@@ -1891,7 +1861,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 59
+    "id": 58
   },
   {
     "title": "高中物理青年教师",
@@ -1923,7 +1893,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 60,
+    "id": 59,
     "ownership": "民办"
   },
   {
@@ -1956,7 +1926,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 61,
+    "id": 60,
     "ownership": "民办"
   },
   {
@@ -1989,7 +1959,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 62,
+    "id": 61,
     "ownership": "民办"
   },
   {
@@ -2022,7 +1992,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 63,
+    "id": 62,
     "ownership": "民办"
   },
   {
@@ -2055,7 +2025,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 64,
+    "id": 63,
     "ownership": "民办"
   },
   {
@@ -2088,7 +2058,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 65,
+    "id": 64,
     "ownership": "民办"
   },
   {
@@ -2121,7 +2091,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 66,
+    "id": 65,
     "ownership": "民办"
   },
   {
@@ -2154,7 +2124,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 67,
+    "id": 66,
     "ownership": "民办"
   },
   {
@@ -2187,7 +2157,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 68,
+    "id": 67,
     "ownership": "民办"
   },
   {
@@ -2220,7 +2190,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 69,
+    "id": 68,
     "ownership": "民办"
   },
   {
@@ -2253,7 +2223,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 70,
+    "id": 69,
     "ownership": "民办"
   },
   {
@@ -2285,7 +2255,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 71
+    "id": 70
   },
   {
     "title": "小学数学教师(骨干教师)",
@@ -2317,7 +2287,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 72,
+    "id": 71,
     "ownership": "民办"
   },
   {
@@ -2350,7 +2320,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 73
+    "id": 72
   },
   {
     "title": "高中英语教师(立即到岗)",
@@ -2382,7 +2352,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 74,
+    "id": 73,
     "ownership": "民办"
   },
   {
@@ -2415,13 +2385,112 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
+    "id": 74,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中英语教师（急聘，包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595847.html",
+    "content": {
+      "intro": "薪资 6-8K/月；地点 茂名-高州市；要求 大专、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中英语教师（急聘，包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
     "id": 75,
     "ownership": "民办"
   },
   {
-    "title": "小学数学教师",
-    "city": "佛山",
-    "school": "佛山市顺德区乐从颖林水藤学校",
+    "title": "初中生物教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_647446.html",
+    "content": {
+      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中生物教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 76,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中化学教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_647439.html",
+    "content": {
+      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中化学教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 77,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学舞蹈教师(青年教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
     "level": "万行职位",
     "stage": "小学",
     "category": "万行职位",
@@ -2433,13 +2502,639 @@ window.REAL_JOBS = [
     "deadline": "",
     "recordedAt": "2026-11-09",
     "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_917905.html",
+    "sourceUrl": "https://www.job910.com/jobs_view_542639.html",
     "content": {
-      "intro": "薪资 5-6K/月；地点 佛山-顺德区；要求 大专、2年以上。详情请点击原文查看。",
+      "intro": "薪资 8-15W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
       "targets": [
         "以职位原文为准"
       ],
-      "positions": "小学数学教师",
+      "positions": "小学舞蹈教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 78,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中英语教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866845.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中英语教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 79,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中物理教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866847.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中物理教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 80,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学信息技术教师(青年教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_542637.html",
+    "content": {
+      "intro": "薪资 8-15W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学信息技术教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 81,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中政治教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866846.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中政治教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 82,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学体育教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_542636.html",
+    "content": {
+      "intro": "薪资 8-15W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学体育教师(合格教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 83,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学美术教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_542635.html",
+    "content": {
+      "intro": "薪资 8-15W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学美术教师(合格教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 84,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中化学教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_612592.html",
+    "content": {
+      "intro": "薪资 10-17W/年；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中化学教师(合格教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 85,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中语文教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866843.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中语文教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 86,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中数学教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866842.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中数学教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 87,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学书法教师(青年教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_642019.html",
+    "content": {
+      "intro": "薪资 8-15W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学书法教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 88,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中信息技术教师(青年教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_814969.html",
+    "content": {
+      "intro": "薪资 8-10K/月；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中信息技术教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 89,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学科学教师(青年教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_594574.html",
+    "content": {
+      "intro": "薪资 8-15W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学科学教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 90,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿教师(青年教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_856162.html",
+    "content": {
+      "intro": "薪资 3-5K/月；地点 揭阳-普宁市；要求 经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿教师(青年教师)",
+      "conditions": [
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 91,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中物理教师(骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_592963.html",
+    "content": {
+      "intro": "薪资 11-18W/年；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中物理教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 92,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中政治教师(急聘)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_373277.html",
+    "content": {
+      "intro": "薪资 10-17W/年；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中政治教师(急聘)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 93,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中数学教师(急聘)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_373274.html",
+    "content": {
+      "intro": "薪资 11-18W/年；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中数学教师(急聘)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 94,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中语文教师(急聘)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_373275.html",
+    "content": {
+      "intro": "薪资 11-18W/年；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中语文教师(急聘)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 95,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学英语教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_373269.html",
+    "content": {
+      "intro": "薪资 9-16W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学英语教师(合格教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 96,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中体育教师(青年教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_728078.html",
+    "content": {
+      "intro": "薪资 8-10K/月；地点 揭阳-普宁市；要求 大专、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中体育教师(青年教师)",
       "conditions": [
         "学历 大专",
         "经验 2年以上"
@@ -2448,8 +3143,6299 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 76,
+    "id": 97,
     "ownership": "民办"
+  },
+  {
+    "title": "初中地理教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_542642.html",
+    "content": {
+      "intro": "薪资 10-17W/年；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中地理教师(合格教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 98,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中生物教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_583385.html",
+    "content": {
+      "intro": "薪资 10-17W/年；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中生物教师(合格教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 99,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学数学教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_397286.html",
+    "content": {
+      "intro": "薪资 9-16W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学数学教师(合格教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 100,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中音乐教师(骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_634563.html",
+    "content": {
+      "intro": "薪资 8-10K/月；地点 揭阳-普宁市；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中音乐教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 101,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学语文教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_397287.html",
+    "content": {
+      "intro": "薪资 9-16W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学语文教师(合格教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 102,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学音乐教师(合格教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_397288.html",
+    "content": {
+      "intro": "薪资 8-15W/年；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学音乐教师(合格教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 103,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中生物教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866852.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中生物教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 104,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中历史教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866850.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中历史教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 105,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中地理教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866851.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中地理教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 106,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中化学教师(应届毕业生/学科带头人/骨干教师)",
+    "city": "揭阳",
+    "school": "普宁市红领巾实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866848.html",
+    "content": {
+      "intro": "薪资 18-36W/年；地点 揭阳-普宁市；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中化学教师(应届毕业生/学科带头人/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 107,
+    "ownership": "民办"
+  },
+  {
+    "title": "其他德育人员",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_920573.html",
+    "content": {
+      "intro": "薪资 9-12W/年；地点 东莞-万江街道；要求 大专、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "其他德育人员",
+      "conditions": [
+        "学历 大专",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 108,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中数学教师(应届生)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_905518.html",
+    "content": {
+      "intro": "薪资 22-44W/年；地点 东莞-万江街道；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中数学教师(应届生)",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 109,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中语文教师(应届生)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_905517.html",
+    "content": {
+      "intro": "薪资 22-44W/年；地点 东莞-万江街道；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中语文教师(应届生)",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 110,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中心理健康教师(骨干教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_745062.html",
+    "content": {
+      "intro": "薪资 24-30W/年；地点 东莞-万江街道；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中心理健康教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 111,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学部教务处干事（学籍）",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_917968.html",
+    "content": {
+      "intro": "薪资 10-15W/年；地点 东莞-万江街道；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学部教务处干事（学籍）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 112,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学部教务处干事（教务）",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_917969.html",
+    "content": {
+      "intro": "薪资 10-15W/年；地点 东莞-万江街道；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学部教务处干事（教务）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 113,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中道德与法治教师(青年教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_921970.html",
+    "content": {
+      "intro": "薪资 18-25W/年；地点 东莞-万江街道；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中道德与法治教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 114,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中英语教师(应届生)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "硕士及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_905840.html",
+    "content": {
+      "intro": "薪资 13-18K/月；地点 东莞-万江街道；要求 硕士、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中英语教师(应届生)",
+      "conditions": [
+        "学历 硕士",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 115,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿教师(副班)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_847082.html",
+    "content": {
+      "intro": "薪资 5-6.5K/月；地点 东莞-万江街道；要求 大专、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿教师(副班)",
+      "conditions": [
+        "学历 大专",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 116,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中生活老师",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_918826.html",
+    "content": {
+      "intro": "薪资 7-9W/年；地点 东莞-万江街道；要求 大专、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中生活老师",
+      "conditions": [
+        "学历 大专",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 117,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中历史教师(骨干教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_740294.html",
+    "content": {
+      "intro": "薪资 23-35W/年；地点 东莞-万江街道；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中历史教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 118,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中生物教师(骨干教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_740292.html",
+    "content": {
+      "intro": "薪资 23-35W/年；地点 东莞-万江街道；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中生物教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 119,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中政治教师(骨干教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_740293.html",
+    "content": {
+      "intro": "薪资 23-35W/年；地点 东莞-万江街道；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中政治教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 120,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中体育教师(足球或体操专业)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_740296.html",
+    "content": {
+      "intro": "薪资 22-30W/年；地点 东莞-万江街道；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中体育教师(足球或体操专业)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 121,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中美术教师(骨干教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_838871.html",
+    "content": {
+      "intro": "薪资 18-35W/年；地点 东莞-万江街道；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中美术教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 122,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学语文教师(骨干教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_918565.html",
+    "content": {
+      "intro": "薪资 18-22W/年；地点 东莞-万江街道；要求 本科、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学语文教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 123,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中音乐教师(骨干教师)",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_747738.html",
+    "content": {
+      "intro": "薪资 18-35W/年；地点 东莞-万江街道；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中音乐教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 124,
+    "ownership": "民办"
+  },
+  {
+    "title": "生活老师（男性）",
+    "city": "东莞",
+    "school": "东莞市翰林实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_876522.html",
+    "content": {
+      "intro": "薪资 9-13W/年；地点 东莞-万江街道；要求 经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "生活老师（男性）",
+      "conditions": [
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 125,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿园园长",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "幼儿园",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_408116.html",
+    "content": {
+      "intro": "薪资 20-30K/月；地点 广州-增城区；要求 本科、6年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿园园长",
+      "conditions": [
+        "学历 本科",
+        "经验 6年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 126,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中数学教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579587.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中数学教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 127,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中化学教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579590.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中化学教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 128,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中政治教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579592.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中政治教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 129,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中体育教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579599.html",
+    "content": {
+      "intro": "薪资 13-25W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中体育教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 130,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中美术教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579598.html",
+    "content": {
+      "intro": "薪资 13-25W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中美术教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 131,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中音乐教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579597.html",
+    "content": {
+      "intro": "薪资 13-25W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中音乐教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 132,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中地理教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579596.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中地理教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 133,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中信息技术教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579600.html",
+    "content": {
+      "intro": "薪资 13-25W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中信息技术教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 134,
+    "ownership": "民办"
+  },
+  {
+    "title": "教务主任/副主任",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579525.html",
+    "content": {
+      "intro": "薪资 13-18W/年；地点 广州-增城区；要求 本科、6年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "教务主任/副主任",
+      "conditions": [
+        "学历 本科",
+        "经验 6年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 135,
+    "ownership": "民办"
+  },
+  {
+    "title": "德育主任/副主任",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579527.html",
+    "content": {
+      "intro": "薪资 13-18W/年；地点 广州-增城区；要求 本科、6年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "德育主任/副主任",
+      "conditions": [
+        "学历 本科",
+        "经验 6年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 136,
+    "ownership": "民办"
+  },
+  {
+    "title": "少先队辅导员",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579531.html",
+    "content": {
+      "intro": "薪资 13-18W/年；地点 广州-增城区；要求 本科、6年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "少先队辅导员",
+      "conditions": [
+        "学历 本科",
+        "经验 6年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 137,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579545.html",
+    "content": {
+      "intro": "薪资 6-8.5K/月；地点 广州-增城区；要求 大专、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿教师",
+      "conditions": [
+        "学历 大专",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 138,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学语文教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579549.html",
+    "content": {
+      "intro": "薪资 11-20W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学语文教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 139,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学英语教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579551.html",
+    "content": {
+      "intro": "薪资 11-20W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学英语教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 140,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学数学教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579550.html",
+    "content": {
+      "intro": "薪资 11-20W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学数学教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 141,
+    "ownership": "民办"
+  },
+  {
+    "title": "形体、舞蹈教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579554.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "形体、舞蹈教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 142,
+    "ownership": "民办"
+  },
+  {
+    "title": "声（器）乐教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579555.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "声（器）乐教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 143,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学体育教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579552.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学体育教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 144,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学武术教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579553.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 大专、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学武术教师",
+      "conditions": [
+        "学历 大专",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 145,
+    "ownership": "民办"
+  },
+  {
+    "title": "书法教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579558.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "书法教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 146,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学信息技术教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579559.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学信息技术教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 147,
+    "ownership": "民办"
+  },
+  {
+    "title": "美术教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579557.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "美术教师",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 148,
+    "ownership": "民办"
+  },
+  {
+    "title": "国学教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579562.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "国学教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 149,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学科学教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579563.html",
+    "content": {
+      "intro": "薪资 11-16W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学科学教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 150,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中语文教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579567.html",
+    "content": {
+      "intro": "薪资 15-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中语文教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 151,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中历史教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579575.html",
+    "content": {
+      "intro": "薪资 15-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中历史教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 152,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中政治教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579574.html",
+    "content": {
+      "intro": "薪资 15-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中政治教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 153,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中生物教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579573.html",
+    "content": {
+      "intro": "薪资 15-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中生物教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 154,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中美术教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579579.html",
+    "content": {
+      "intro": "薪资 12-18W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中美术教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 155,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中音乐教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579578.html",
+    "content": {
+      "intro": "薪资 12-18W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中音乐教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 156,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中地理教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579576.html",
+    "content": {
+      "intro": "薪资 15-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中地理教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 157,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中舞蹈教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579582.html",
+    "content": {
+      "intro": "薪资 12-18W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中舞蹈教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 158,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中信息技术教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579581.html",
+    "content": {
+      "intro": "薪资 12-18W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中信息技术教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 159,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中体育教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_579580.html",
+    "content": {
+      "intro": "薪资 12-18W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中体育教师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 160,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿英语助教(青年教师)",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_854230.html",
+    "content": {
+      "intro": "薪资 7-8K/月；地点 广州-增城区；要求 大专、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿英语助教(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 161,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿园体育教师",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "幼儿园",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_770517.html",
+    "content": {
+      "intro": "薪资 6-8.5K/月；地点 广州-增城区；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿园体育教师",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 162,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中心理健康教师(青年教师)",
+    "city": "广州",
+    "school": "广州市黄广附属学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_787182.html",
+    "content": {
+      "intro": "薪资 8-15K/月；地点 广州-增城区；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中心理健康教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 163,
+    "ownership": "民办"
+  },
+  {
+    "title": "生活老师",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_372447.html",
+    "content": {
+      "intro": "薪资 3.5-4.5K/月；地点 广州-花都区；要求 1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "生活老师",
+      "conditions": [
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 164,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学书法教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_372439.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学书法教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 165,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学舞蹈教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_372429.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学舞蹈教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 166,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中数学老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379337.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中数学老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 167,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中语文老师(黄广慧润学校)",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379336.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中语文老师(黄广慧润学校)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 168,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中英语老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379338.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中英语老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 169,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中政治老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379343.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中政治老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 170,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中历史老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379344.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中历史老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 171,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中地理老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379345.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中地理老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 172,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中物理老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379346.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中物理老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 173,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中化学老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379347.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中化学老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 174,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中生物老师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_379348.html",
+    "content": {
+      "intro": "薪资 22-25W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中生物老师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 175,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学美术教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_371637.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学美术教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 176,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学体育教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_371638.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学体育教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 177,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学武术教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_371639.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学武术教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 178,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学信息教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_371640.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学信息教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 179,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学英语教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_904699.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学英语教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 180,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学数学教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_904698.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学数学教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 181,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学语文教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_904697.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学语文教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 182,
+    "ownership": "民办"
+  },
+  {
+    "title": "外籍教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_904701.html",
+    "content": {
+      "intro": "薪资 36-40W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "外籍教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 183,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学音乐教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_904700.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学音乐教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 184,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学道德与法治教师（黄广慧润学校）",
+    "city": "广州",
+    "school": "广州市花都区黄广小学",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_702055.html",
+    "content": {
+      "intro": "薪资 18-20W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学道德与法治教师（黄广慧润学校）",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 185,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中生物教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_796127.html",
+    "content": {
+      "intro": "薪资 15-20W/年；地点 广州-增城区；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中生物教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 186,
+    "ownership": "民办"
+  },
+  {
+    "title": "中小学各学科带头人",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_444123.html",
+    "content": {
+      "intro": "薪资 25-40W/年；地点 广州-增城区；要求 本科、10年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "中小学各学科带头人",
+      "conditions": [
+        "学历 本科",
+        "经验 10年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 187,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中德育主任",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_907651.html",
+    "content": {
+      "intro": "薪资 15-25K/月；地点 广州-增城区；要求 本科、10年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中德育主任",
+      "conditions": [
+        "学历 本科",
+        "经验 10年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 188,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学信息技术教师(竞赛教练)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_764460.html",
+    "content": {
+      "intro": "薪资 25-50W/年；地点 广州-增城区；要求 本科、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学信息技术教师(竞赛教练)",
+      "conditions": [
+        "学历 本科",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 189,
+    "ownership": "民办"
+  },
+  {
+    "title": "园长助理（教学）",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_920354.html",
+    "content": {
+      "intro": "薪资 10-12W/年；地点 广州-增城区；要求 大专、10年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "园长助理（教学）",
+      "conditions": [
+        "学历 大专",
+        "经验 10年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 190,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中政治教师（青年/骨干教师）",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_389635.html",
+    "content": {
+      "intro": "薪资 12-20W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中政治教师（青年/骨干教师）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 191,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中语文教师(做班主任)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_389638.html",
+    "content": {
+      "intro": "薪资 18-28W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中语文教师(做班主任)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 192,
+    "ownership": "民办"
+  },
+  {
+    "title": "教学主任",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_688937.html",
+    "content": {
+      "intro": "薪资 20-30W/年；地点 广州-增城区；要求 本科、10年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "教学主任",
+      "conditions": [
+        "学历 本科",
+        "经验 10年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 193,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中信息技术老师(竞赛教练)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_688948.html",
+    "content": {
+      "intro": "薪资 30-50W/年；地点 广州-增城区；要求 本科、10年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中信息技术老师(竞赛教练)",
+      "conditions": [
+        "学历 本科",
+        "经验 10年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 194,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中物理教师(青年/骨干教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595397.html",
+    "content": {
+      "intro": "薪资 15-25W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中物理教师(青年/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 195,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中语文教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_789900.html",
+    "content": {
+      "intro": "薪资 18-22W/年；地点 广州-增城区；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中语文教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 196,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学体育教师( 跆拳道)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_915717.html",
+    "content": {
+      "intro": "薪资 6-8K/月；地点 广州-增城区；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学体育教师( 跆拳道)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 197,
+    "ownership": "民办"
+  },
+  {
+    "title": "智能制造工程专业教师",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "硕士及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_888560.html",
+    "content": {
+      "intro": "薪资 12-16W/年；地点 广州-增城区；要求 硕士、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "智能制造工程专业教师",
+      "conditions": [
+        "学历 硕士",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 198,
+    "ownership": "民办"
+  },
+  {
+    "title": "大学教师（汉语言文学专业）",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "高校",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "硕士及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_888563.html",
+    "content": {
+      "intro": "薪资 12-16W/年；地点 广州-增城区；要求 硕士、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "大学教师（汉语言文学专业）",
+      "conditions": [
+        "学历 硕士",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 199,
+    "ownership": "民办"
+  },
+  {
+    "title": "计算机科学专业教师",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "硕士及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_888562.html",
+    "content": {
+      "intro": "薪资 12-16W/年；地点 广州-增城区；要求 硕士、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "计算机科学专业教师",
+      "conditions": [
+        "学历 硕士",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 200,
+    "ownership": "民办"
+  },
+  {
+    "title": "大学教师（思政、马克思主义相关专业）",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "高校",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "硕士及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_888564.html",
+    "content": {
+      "intro": "薪资 12-16W/年；地点 广州-增城区；要求 硕士、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "大学教师（思政、马克思主义相关专业）",
+      "conditions": [
+        "学历 硕士",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 201,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中政治教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_886359.html",
+    "content": {
+      "intro": "薪资 15-18W/年；地点 广州-增城区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中政治教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 202,
+    "ownership": "民办"
+  },
+  {
+    "title": "德育主任",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_417171.html",
+    "content": {
+      "intro": "薪资 15-20K/月；地点 广州-增城区；要求 本科、8年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "德育主任",
+      "conditions": [
+        "学历 本科",
+        "经验 8年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 203,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中语文教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_764400.html",
+    "content": {
+      "intro": "薪资 18-22W/年；地点 广州-增城区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中语文教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 204,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿园副班老师（英语优先）(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "幼儿园",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_659803.html",
+    "content": {
+      "intro": "薪资 5-7K/月；地点 广州-增城区；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿园副班老师（英语优先）(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 205,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿园主班老师",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "幼儿园",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_659804.html",
+    "content": {
+      "intro": "薪资 6-8K/月；地点 广州-增城区；要求 大专、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿园主班老师",
+      "conditions": [
+        "学历 大专",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 206,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中物理教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_783396.html",
+    "content": {
+      "intro": "薪资 18-22W/年；地点 广州-增城区；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中物理教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 207,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中英语教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_783415.html",
+    "content": {
+      "intro": "薪资 18-22W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中英语教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 208,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中教务主任、德育主任、年级主任",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_904121.html",
+    "content": {
+      "intro": "薪资 25-40W/年；地点 广州-增城区；要求 本科、10年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中教务主任、德育主任、年级主任",
+      "conditions": [
+        "学历 本科",
+        "经验 10年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 209,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中教学主任",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_917649.html",
+    "content": {
+      "intro": "薪资 25-40W/年；地点 广州-增城区；要求 本科、10年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中教学主任",
+      "conditions": [
+        "学历 本科",
+        "经验 10年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 210,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学英语教师（高段，做班主任）",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_569630.html",
+    "content": {
+      "intro": "薪资 10-20W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学英语教师（高段，做班主任）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 211,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中体育教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_895828.html",
+    "content": {
+      "intro": "薪资 10-20W/年；地点 广州-增城区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中体育教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 212,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中物理、政治、英语教师",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_916784.html",
+    "content": {
+      "intro": "薪资 18-25W/年；地点 广州-增城区；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中物理、政治、英语教师",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 213,
+    "ownership": "民办"
+  },
+  {
+    "title": "中小学心理健康教师",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_893112.html",
+    "content": {
+      "intro": "薪资 10-12W/年；地点 广州-增城区；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "中小学心理健康教师",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 214,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中教师(语数英理化生)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_866415.html",
+    "content": {
+      "intro": "薪资 20-30W/年；地点 广州-增城区；要求 本科、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中教师(语数英理化生)",
+      "conditions": [
+        "学历 本科",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 215,
+    "ownership": "民办"
+  },
+  {
+    "title": "招生主任/副园长",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_782652.html",
+    "content": {
+      "intro": "薪资 7-10K/月；地点 广州-增城区；要求 大专、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "招生主任/副园长",
+      "conditions": [
+        "学历 大专",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 216,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中语数英、物理、化学教师(骨干/青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_903069.html",
+    "content": {
+      "intro": "薪资 18-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中语数英、物理、化学教师(骨干/青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 217,
+    "ownership": "民办"
+  },
+  {
+    "title": "幼儿体育教师(青年教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_862210.html",
+    "content": {
+      "intro": "薪资 7-10W/年；地点 广州-增城区；要求 大专、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "幼儿体育教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 218,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中语文教师（骨干教师）",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_590535.html",
+    "content": {
+      "intro": "薪资 22-40W/年；地点 广州-增城区；要求 本科、8年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中语文教师（骨干教师）",
+      "conditions": [
+        "学历 本科",
+        "经验 8年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 219,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中化学教师(青年/骨干教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_590540.html",
+    "content": {
+      "intro": "薪资 18-30W/年；地点 广州-增城区；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中化学教师(青年/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 220,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中物理教师(青年/骨干教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_590539.html",
+    "content": {
+      "intro": "薪资 18-30W/年；地点 广州-增城区；要求 本科、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中物理教师(青年/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 221,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中地理教师(青年/骨干教师)",
+    "city": "广州",
+    "school": "广州理工实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_590545.html",
+    "content": {
+      "intro": "薪资 18-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中地理教师(青年/骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 222,
+    "ownership": "民办"
+  },
+  {
+    "title": "科学教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_845901.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "科学教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 223,
+    "ownership": "民办"
+  },
+  {
+    "title": "科创教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_827240.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "科创教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 224,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学道德与法治教师(青年教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_868151.html",
+    "content": {
+      "intro": "薪资 20-35W/年；地点 东莞-清溪镇；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学道德与法治教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 225,
+    "ownership": "民办"
+  },
+  {
+    "title": "街舞教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_848578.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "街舞教师",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 226,
+    "ownership": "民办"
+  },
+  {
+    "title": "雅思老师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_707869.html",
+    "content": {
+      "intro": "薪资 10-15K/月；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "雅思老师",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 227,
+    "ownership": "民办"
+  },
+  {
+    "title": "双语数学教师(青年教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_811631.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "双语数学教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 228,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学辩论课与演讲课教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808629.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学辩论课与演讲课教师",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 229,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学数学高阶思维课教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808631.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学数学高阶思维课教师",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 230,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学中英文分层阅读课教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808630.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学中英文分层阅读课教师",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 231,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学数学教师(优秀教师)（米德小学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808671.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学数学教师(优秀教师)（米德小学）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 232,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学语文教师(优秀教师)（米德小学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808670.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学语文教师(优秀教师)（米德小学）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 233,
+    "ownership": "民办"
+  },
+  {
+    "title": "双语经济学教师(优秀教师)（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808665.html",
+    "content": {
+      "intro": "薪资 25-40W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "双语经济学教师(优秀教师)（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 234,
+    "ownership": "民办"
+  },
+  {
+    "title": "国际高中生物教师（英语授课）(优秀教师)（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808664.html",
+    "content": {
+      "intro": "薪资 25-40W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "国际高中生物教师（英语授课）(优秀教师)（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 235,
+    "ownership": "民办"
+  },
+  {
+    "title": "双语化学教师(优秀教师)（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808663.html",
+    "content": {
+      "intro": "薪资 25-40W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "双语化学教师(优秀教师)（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 236,
+    "ownership": "民办"
+  },
+  {
+    "title": "IG/A LEVEL物理教师(优秀教师)（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808662.html",
+    "content": {
+      "intro": "薪资 25-40W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "IG/A LEVEL物理教师(优秀教师)（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 237,
+    "ownership": "民办"
+  },
+  {
+    "title": "国际高中生物教师（英语授课）（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808659.html",
+    "content": {
+      "intro": "薪资 20-25W/年；地点 东莞-清溪镇；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "国际高中生物教师（英语授课）（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 238,
+    "ownership": "民办"
+  },
+  {
+    "title": "双语经济学教师(优秀应届生)（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808658.html",
+    "content": {
+      "intro": "薪资 20-25W/年；地点 东莞-清溪镇；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "双语经济学教师(优秀应届生)（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 239,
+    "ownership": "民办"
+  },
+  {
+    "title": "IG/A LEVEL物理教师(优秀应届生)（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808657.html",
+    "content": {
+      "intro": "薪资 25-30W/年；地点 东莞-清溪镇；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "IG/A LEVEL物理教师(优秀应届生)（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 240,
+    "ownership": "民办"
+  },
+  {
+    "title": "双语化学教师(优秀应届生)（米德中学）",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808656.html",
+    "content": {
+      "intro": "薪资 20-25W/年；地点 东莞-清溪镇；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "双语化学教师(优秀应届生)（米德中学）",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 241,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中生物教师(竞赛教练)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808676.html",
+    "content": {
+      "intro": "薪资 30-40W/年；地点 东莞-清溪镇；要求 本科、8年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中生物教师(竞赛教练)",
+      "conditions": [
+        "学历 本科",
+        "经验 8年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 242,
+    "ownership": "民办"
+  },
+  {
+    "title": "心理健康教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808677.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "心理健康教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 243,
+    "ownership": "民办"
+  },
+  {
+    "title": "体育教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808678.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "体育教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 244,
+    "ownership": "民办"
+  },
+  {
+    "title": "初高中数学教师(竞赛教练)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808673.html",
+    "content": {
+      "intro": "薪资 30-40W/年；地点 东莞-清溪镇；要求 本科、8年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初高中数学教师(竞赛教练)",
+      "conditions": [
+        "学历 本科",
+        "经验 8年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 245,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中物理教师(竞赛教练)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808674.html",
+    "content": {
+      "intro": "薪资 30-40W/年；地点 东莞-清溪镇；要求 本科、8年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中物理教师(竞赛教练)",
+      "conditions": [
+        "学历 本科",
+        "经验 8年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 246,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中化学教师(竞赛教练)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_808675.html",
+    "content": {
+      "intro": "薪资 30-40W/年；地点 东莞-清溪镇；要求 本科、8年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中化学教师(竞赛教练)",
+      "conditions": [
+        "学历 本科",
+        "经验 8年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 247,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学白班、中学白班生活教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_546808.html",
+    "content": {
+      "intro": "薪资 6-8W/年；地点 东莞-清溪镇；要求 2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学白班、中学白班生活教师",
+      "conditions": [
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 248,
+    "ownership": "民办"
+  },
+  {
+    "title": "人工智能教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_875875.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "人工智能教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 249,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中化学教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669217.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中化学教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 250,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中物理教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669216.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中物理教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 251,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中生物教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669218.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中生物教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 252,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中历史教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669220.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中历史教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 253,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中数学教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669214.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中数学教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 254,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中英语教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669215.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中英语教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 255,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中语文教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669213.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中语文教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 256,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学数学教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669195.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学数学教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 257,
+    "ownership": "民办"
+  },
+  {
+    "title": "信息技术教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669300.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "信息技术教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 258,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中历史教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669284.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中历史教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 259,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中地理教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669286.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中地理教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 260,
+    "ownership": "民办"
+  },
+  {
+    "title": "A Level数学教师(青年教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_895176.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "A Level数学教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 261,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中生物教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669280.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中生物教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 262,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中政治教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669283.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中政治教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 263,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中英语教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669255.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中英语教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 264,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中数学教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669253.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中数学教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 265,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中化学教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669258.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中化学教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 266,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中物理教师(优秀教师)",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_669256.html",
+    "content": {
+      "intro": "薪资 25-35W/年；地点 东莞-清溪镇；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中物理教师(优秀教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 267,
+    "ownership": "民办"
+  },
+  {
+    "title": "戏剧教师",
+    "city": "东莞",
+    "school": "东莞市海德双语学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_876519.html",
+    "content": {
+      "intro": "薪资 20-40W/年；地点 东莞-清溪镇；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "戏剧教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 268,
+    "ownership": "民办"
+  },
+  {
+    "title": "德育专干兼生活部主管",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_691947.html",
+    "content": {
+      "intro": "薪资 7-7.5K/月；地点 肇庆-高要区；要求 大专、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "德育专干兼生活部主管",
+      "conditions": [
+        "学历 大专",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 269,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中信息技术教师(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_919363.html",
+    "content": {
+      "intro": "薪资 5-7K/月；地点 肇庆-高要区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中信息技术教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 270,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中地理教师(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_867171.html",
+    "content": {
+      "intro": "薪资 14-24W/年；地点 肇庆-高要区；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中地理教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 271,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中生物教师（下载报名表填写回传有效）(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556583.html",
+    "content": {
+      "intro": "薪资 12-20W/年；地点 肇庆-高要区；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中生物教师（下载报名表填写回传有效）(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 272,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中政治教师（下载报名表填写回传有效）(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556581.html",
+    "content": {
+      "intro": "薪资 12-20W/年；地点 肇庆-高要区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中政治教师（下载报名表填写回传有效）(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 273,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中语文教师（下载报名表填写回传有效）(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556589.html",
+    "content": {
+      "intro": "薪资 14-26W/年；地点 肇庆-高要区；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中语文教师（下载报名表填写回传有效）(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 274,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中数学教师（下载报名表填写回传有效）(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556588.html",
+    "content": {
+      "intro": "薪资 14-24W/年；地点 肇庆-高要区；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中数学教师（下载报名表填写回传有效）(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 275,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中英语教师（下载报名表填写回传有效）(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556587.html",
+    "content": {
+      "intro": "薪资 8-16W/年；地点 肇庆-高要区；要求 本科、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中英语教师（下载报名表填写回传有效）(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 276,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中物理教师（下载报名表填写回传有效）(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556586.html",
+    "content": {
+      "intro": "薪资 12-20W/年；地点 肇庆-高要区；要求 本科、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中物理教师（下载报名表填写回传有效）(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 277,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中化学教师（下载报名表填写回传有效）(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556584.html",
+    "content": {
+      "intro": "薪资 12-20W/年；地点 肇庆-高要区；要求 本科、3年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中化学教师（下载报名表填写回传有效）(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 3年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 278,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中数学骨干教师（下载报名表填写回传有效）(骨干教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556598.html",
+    "content": {
+      "intro": "薪资 10-14W/年；地点 肇庆-高要区；要求 本科、应届生。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中数学骨干教师（下载报名表填写回传有效）(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 应届生"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 279,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中历史骨干教师（下载报名表填写回传有效）(骨干教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_556595.html",
+    "content": {
+      "intro": "薪资 12-20W/年；地点 肇庆-高要区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中历史骨干教师（下载报名表填写回传有效）(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 280,
+    "ownership": "民办"
+  },
+  {
+    "title": "日语教师",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_877888.html",
+    "content": {
+      "intro": "薪资 14-24W/年；地点 肇庆-高要区；要求 本科、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "日语教师",
+      "conditions": [
+        "学历 本科",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 281,
+    "ownership": "民办"
+  },
+  {
+    "title": "高中俄语教师(青年教师)",
+    "city": "肇庆",
+    "school": "肇庆博纳实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_879654.html",
+    "content": {
+      "intro": "薪资 10-20W/年；地点 肇庆-高要区；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "高中俄语教师(青年教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 282,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中生物教师(骨干教师)",
+    "city": "佛山",
+    "school": "佛山市南海区金石实验中学",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_786237.html",
+    "content": {
+      "intro": "薪资 30-40W/年；地点 佛山-南海区；要求 本科、5年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中生物教师(骨干教师)",
+      "conditions": [
+        "学历 本科",
+        "经验 5年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 283,
+    "ownership": "民办"
+  },
+  {
+    "title": "广东水利电力职业技术学院继续教育学院项目制教师招聘公告",
+    "city": "广州市",
+    "school": "广东水利电力职业技术学院（中职部）",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "正式编",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "2026-11-22",
+    "recordedAt": "2026-11-09",
+    "source": "广东水利电力职业技术学院（中职部）官网",
+    "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6650.html",
+    "ownership": "公办",
+    "content": {
+      "intro": "广东水利电力职业技术学院继续教育学院项目制教师招聘公告_人才招聘信息_广东水利电力职业技术学院欢迎您！ 欢迎访问广东水利电力职业技术学院！ 设为首页 加入收藏 手机版 搜索 首页 学校概况 学校简介 机构设置 校园画册 现任领导 二级学院 水利工程学院 电力工程学院 经济管理学院 市政工程学院 土木工程学院 智能制造学院 自动化与信息技术学院 大数据与人工智能学院 建筑环境与设计学院 外语外贸学院 马克思主义学院 国际教育学院 教育教学",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 284
+  },
+  {
+    "title": "广东水利电力职业技术学院2026年项目制教师招聘公告",
+    "city": "广州市",
+    "school": "广东水利电力职业技术学院（中职部）",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "正式编",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "2026-11-20",
+    "recordedAt": "2026-11-09",
+    "source": "广东水利电力职业技术学院（中职部）官网",
+    "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6649.html",
+    "ownership": "公办",
+    "content": {
+      "intro": "广东水利电力职业技术学院2026年项目制教师招聘公告_人才招聘信息_广东水利电力职业技术学院欢迎您！ 欢迎访问广东水利电力职业技术学院！ 设为首页 加入收藏 手机版 搜索 首页 学校概况 学校简介 机构设置 校园画册 现任领导 二级学院 水利工程学院 电力工程学院 经济管理学院 市政工程学院 土木工程学院 智能制造学院 自动化与信息技术学院 大数据与人工智能学院 建筑环境与设计学院 外语外贸学院 马克思主义学院 国际教育学院 教育教学 ",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 285
+  },
+  {
+    "title": "广州华商职业学院实训室管理员招聘启事",
+    "city": "广州市",
+    "school": "广州华商职业学院",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "广州华商职业学院官网",
+    "sourceUrl": "https://rsc.gzhsvc.edu.cn/info/1065/1957.htm",
+    "ownership": "民办",
+    "content": {
+      "intro": "广州华商职业学院实训室管理员招聘启事-广州华商职业学院人事与质量部 今天是： 设为首页 | 加入收藏 首页 人事动态 综合信息 政策制度 师资建设 师德师风 人事管理 质量管理 人才招聘 办事指南 下载服务 学校首页 人事处 人才招聘 当前位置: 首页 >> 人才招聘 >> 正文 广州华商职业学院实训室管理员招聘启事 发布日期：2026-11-09 因学校管理需求，广州华商职业学院面向校外公开招聘实训室管理员。 具体事项如下： 一、聘请",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 286
+  },
+  {
+    "title": "11-092026广东江门南粤学院2026-2027学年招聘公告查看详情>>",
+    "city": "江门市",
+    "school": "广东江门南粤学院",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "广东江门南粤学院官网",
+    "sourceUrl": "https://www1.bitzh.edu.cn:8081/info/3103/5471.htm",
+    "ownership": "民办",
+    "content": {
+      "intro": "广东江门南粤学院2026-2027学年招聘公告-广东江门南粤学院（原北京理工大学珠海学院） 当前位置: 首页 - 师资队伍 - 人才招聘 - 正文 师资队伍 师资介绍 教师风采 管理制度 师资服务 人才招聘 广东江门南粤学院2026-2027学年招聘公告 时间：2026-11-09 文： 图： 来源： 编辑：rsc 审核： 广东江门南粤学院 2026- 2027 学 年招聘公告 广东江门南粤学院坐落于粤港澳大湾区重要节点城市 —— 江门",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 287
+  },
+  {
+    "title": "非专任教师招聘",
+    "city": "肇庆市",
+    "school": "肇庆学院",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "肇庆学院官网",
+    "sourceUrl": "https://rsc.zqu.edu.cn/rczp/fzrjszp.htm",
+    "ownership": "公办",
+    "content": {
+      "intro": "非专任教师招聘-肇庆学院人力资源部 人才招聘 专任教师招聘 非专任教师招聘 非专任教师招聘 当前位置: 首页 >> 人才招聘 >> 非专任教师招聘 肇庆学院2026年11月招聘科研助理公告 2026-11-09 肇庆学院公开招聘劳动合同制工作人员启事 2026-10-09 肇庆学院2026年公开招聘工作人员体检事宜公告 2026-09-09 肇庆学院2026年7月招聘科研助理公示 2026-09-03 肇庆学院2026年公开招聘工作人员",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 288
+  },
+  {
+    "title": "茂名职业技术学院2026年度招聘教师（第二批）和2026年下半年",
+    "city": "茂名市",
+    "school": "茂名职业技术学院",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "茂名职业技术学院官网",
+    "sourceUrl": "https://www.mmpt.edu.cn/rsc/info/1003/1824.htm",
+    "ownership": "公办",
+    "content": {
+      "intro": "茂名职业技术学院2026年度招聘教师（第二批）和2026年下半年公开招聘教师拟聘用人员名单公示-组织人事部 部门首页 通知公告 基层党组织建设 人才招聘 干部工作 人事处工作职责 师资队伍 岗位设置 政策法规 公告栏 下载专区 学院各部门工作职责 学院各部门工作岗位职责 当前位置: 网站首页 >> 通知公告 >> 正文 茂名职业技术学院2026年度招聘教师（第二批）和2026年下半年公开招聘教师拟聘用人员名单公示 2026-11-09 ",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 289
   },
   {
     "title": "电子电工(青年教师)",
@@ -2481,40 +9467,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 77
-  },
-  {
-    "title": "初中生物教师",
-    "city": "广州",
-    "school": "广州市花都区新星学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_321286.html",
-    "content": {
-      "intro": "薪资 8-15W/年；地点 广州-花都区；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中生物教师",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 78,
-    "ownership": "民办"
+    "id": 290
   },
   {
     "title": "初中政治老师(青年教师)",
@@ -2546,7 +9499,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 79,
+    "id": 291,
     "ownership": "民办"
   },
   {
@@ -2579,7 +9532,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 80,
+    "id": 292,
     "ownership": "民办"
   },
   {
@@ -2612,7 +9565,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 81,
+    "id": 293,
     "ownership": "民办"
   },
   {
@@ -2645,7 +9598,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 82,
+    "id": 294,
     "ownership": "民办"
   },
   {
@@ -2678,7 +9631,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 83,
+    "id": 295,
     "ownership": "民办"
   },
   {
@@ -2711,7 +9664,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 84,
+    "id": 296,
     "ownership": "民办"
   },
   {
@@ -2744,7 +9697,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 85,
+    "id": 297,
     "ownership": "民办"
   },
   {
@@ -2777,7 +9730,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 86,
+    "id": 298,
     "ownership": "民办"
   },
   {
@@ -2810,7 +9763,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 87,
+    "id": 299,
     "ownership": "民办"
   },
   {
@@ -2843,40 +9796,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 88,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中物理教师(骨干教师)",
-    "city": "广州",
-    "school": "广州市增城区雨露实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_710247.html",
-    "content": {
-      "intro": "薪资 25-30W/年；地点 广州-增城区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中物理教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 89,
+    "id": 300,
     "ownership": "民办"
   },
   {
@@ -2909,7 +9829,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 90,
+    "id": 301,
     "ownership": "民办"
   },
   {
@@ -2942,7 +9862,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 91,
+    "id": 302,
     "ownership": "民办"
   },
   {
@@ -2975,7 +9895,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 92,
+    "id": 303,
     "ownership": "民办"
   },
   {
@@ -3008,7 +9928,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 93,
+    "id": 304,
     "ownership": "民办"
   },
   {
@@ -3041,7 +9961,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 94,
+    "id": 305,
     "ownership": "民办"
   },
   {
@@ -3074,7 +9994,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 95,
+    "id": 306,
     "ownership": "民办"
   },
   {
@@ -3107,7 +10027,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 96,
+    "id": 307,
     "ownership": "民办"
   },
   {
@@ -3140,73 +10060,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 97,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中音乐教师(骨干教师)",
-    "city": "广州",
-    "school": "广州市荔湾区荔广实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_881074.html",
-    "content": {
-      "intro": "薪资 13-18W/年；地点 广州-荔湾区；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中音乐教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 98,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学科学教师(青年教师)",
-    "city": "广州",
-    "school": "广州市荔湾区荔广实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_711769.html",
-    "content": {
-      "intro": "薪资 15-30W/年；地点 广州-荔湾区；要求 本科、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学科学教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 99,
+    "id": 308,
     "ownership": "民办"
   },
   {
@@ -3239,7 +10093,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 100,
+    "id": 309,
     "ownership": "民办"
   },
   {
@@ -3272,7 +10126,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 101,
+    "id": 310,
     "ownership": "民办"
   },
   {
@@ -3305,7 +10159,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 102,
+    "id": 311,
     "ownership": "民办"
   },
   {
@@ -3338,7 +10192,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 103,
+    "id": 312,
     "ownership": "民办"
   },
   {
@@ -3371,7 +10225,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 104,
+    "id": 313,
     "ownership": "民办"
   },
   {
@@ -3404,7 +10258,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 105,
+    "id": 314,
     "ownership": "民办"
   },
   {
@@ -3437,7 +10291,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 106,
+    "id": 315,
     "ownership": "民办"
   },
   {
@@ -3470,7 +10324,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 107,
+    "id": 316,
     "ownership": "民办"
   },
   {
@@ -3503,7 +10357,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 108,
+    "id": 317,
     "ownership": "民办"
   },
   {
@@ -3536,7 +10390,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 109,
+    "id": 318,
     "ownership": "民办"
   },
   {
@@ -3569,7 +10423,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 110,
+    "id": 319,
     "ownership": "民办"
   },
   {
@@ -3602,7 +10456,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 111,
+    "id": 320,
     "ownership": "民办"
   },
   {
@@ -3635,7 +10489,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 112,
+    "id": 321,
     "ownership": "民办"
   },
   {
@@ -3668,7 +10522,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 113,
+    "id": 322,
     "ownership": "民办"
   },
   {
@@ -3701,7 +10555,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 114,
+    "id": 323,
     "ownership": "民办"
   },
   {
@@ -3734,39 +10588,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 115,
-    "ownership": "民办"
-  },
-  {
-    "title": "生活老师",
-    "city": "广州",
-    "school": "广州市荔湾区荔广实验学校",
-    "level": "万行职位",
-    "stage": "中小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_801763.html",
-    "content": {
-      "intro": "薪资 4-6K/月；地点 广州-荔湾区；要求 1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "生活老师",
-      "conditions": [
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 116,
+    "id": 324,
     "ownership": "民办"
   },
   {
@@ -3799,7 +10621,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 117,
+    "id": 325,
     "ownership": "民办"
   },
   {
@@ -3832,7 +10654,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 118,
+    "id": 326,
     "ownership": "民办"
   },
   {
@@ -3865,7 +10687,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 119,
+    "id": 327,
     "ownership": "民办"
   },
   {
@@ -3898,7 +10720,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 120,
+    "id": 328,
     "ownership": "民办"
   },
   {
@@ -3931,7 +10753,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 121,
+    "id": 329,
     "ownership": "民办"
   },
   {
@@ -3964,7 +10786,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 122,
+    "id": 330,
     "ownership": "民办"
   },
   {
@@ -3997,40 +10819,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 123,
-    "ownership": "民办"
-  },
-  {
-    "title": "德育主任",
-    "city": "广州",
-    "school": "广州市荔湾区荔广实验学校",
-    "level": "万行职位",
-    "stage": "中小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_836923.html",
-    "content": {
-      "intro": "薪资 20-30W/年；地点 广州-荔湾区；要求 本科、5年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "德育主任",
-      "conditions": [
-        "学历 本科",
-        "经验 5年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 124,
+    "id": 331,
     "ownership": "民办"
   },
   {
@@ -4063,7 +10852,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 125,
+    "id": 332,
     "ownership": "民办"
   },
   {
@@ -4096,7 +10885,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 126,
+    "id": 333,
     "ownership": "民办"
   },
   {
@@ -4129,7 +10918,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 127,
+    "id": 334,
     "ownership": "民办"
   },
   {
@@ -4162,7 +10951,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 128,
+    "id": 335,
     "ownership": "民办"
   },
   {
@@ -4195,7 +10984,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 129,
+    "id": 336,
     "ownership": "民办"
   },
   {
@@ -4228,7 +11017,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 130,
+    "id": 337,
     "ownership": "民办"
   },
   {
@@ -4261,40 +11050,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 131,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中信息技术教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641891.html",
-    "content": {
-      "intro": "薪资 13-20W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中信息技术教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 132,
+    "id": 338,
     "ownership": "民办"
   },
   {
@@ -4327,106 +11083,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 133,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中语文教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641894.html",
-    "content": {
-      "intro": "薪资 20-24W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中语文教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 134,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中物理教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641899.html",
-    "content": {
-      "intro": "薪资 20-24W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中物理教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 135,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中英语教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641898.html",
-    "content": {
-      "intro": "薪资 20-24W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中英语教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 136,
+    "id": 339,
     "ownership": "民办"
   },
   {
@@ -4459,73 +11116,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 137,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中政治教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641902.html",
-    "content": {
-      "intro": "薪资 20-24W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中政治教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 138,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中生物教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641901.html",
-    "content": {
-      "intro": "薪资 20-24W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中生物教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 139,
+    "id": 340,
     "ownership": "民办"
   },
   {
@@ -4558,7 +11149,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 140,
+    "id": 341,
     "ownership": "民办"
   },
   {
@@ -4591,7 +11182,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 141,
+    "id": 342,
     "ownership": "民办"
   },
   {
@@ -4624,7 +11215,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 142,
+    "id": 343,
     "ownership": "民办"
   },
   {
@@ -4657,40 +11248,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 143,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中地理教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641905.html",
-    "content": {
-      "intro": "薪资 20-24W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中地理教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 144,
+    "id": 344,
     "ownership": "民办"
   },
   {
@@ -4723,7 +11281,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 145,
+    "id": 345,
     "ownership": "民办"
   },
   {
@@ -4756,7 +11314,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 146,
+    "id": 346,
     "ownership": "民办"
   },
   {
@@ -4789,40 +11347,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 147,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中生物教师(骨干教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641918.html",
-    "content": {
-      "intro": "薪资 21-35W/年；地点 云浮-新兴县；要求 本科、10年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中生物教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 10年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 148,
+    "id": 347,
     "ownership": "民办"
   },
   {
@@ -4855,7 +11380,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 149,
+    "id": 348,
     "ownership": "民办"
   },
   {
@@ -4888,106 +11413,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 150,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中语文教师(应届生)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641865.html",
-    "content": {
-      "intro": "薪资 18-21W/年；地点 云浮-新兴县；要求 本科、应届生。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中语文教师(应届生)",
-      "conditions": [
-        "学历 本科",
-        "经验 应届生"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 151,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中英语教师(应届生)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641867.html",
-    "content": {
-      "intro": "薪资 18-21W/年；地点 云浮-新兴县；要求 本科、应届生。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中英语教师(应届生)",
-      "conditions": [
-        "学历 本科",
-        "经验 应届生"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 152,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中数学教师(应届生)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641866.html",
-    "content": {
-      "intro": "薪资 18-21W/年；地点 云浮-新兴县；要求 本科、应届生。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中数学教师(应届生)",
-      "conditions": [
-        "学历 本科",
-        "经验 应届生"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 153,
+    "id": 349,
     "ownership": "民办"
   },
   {
@@ -5020,7 +11446,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 154,
+    "id": 350,
     "ownership": "民办"
   },
   {
@@ -5053,7 +11479,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 155,
+    "id": 351,
     "ownership": "民办"
   },
   {
@@ -5086,7 +11512,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 156,
+    "id": 352,
     "ownership": "民办"
   },
   {
@@ -5119,7 +11545,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 157,
+    "id": 353,
     "ownership": "民办"
   },
   {
@@ -5152,7 +11578,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 158,
+    "id": 354,
     "ownership": "民办"
   },
   {
@@ -5185,40 +11611,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 159,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中语文教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641876.html",
-    "content": {
-      "intro": "薪资 17-21W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中语文教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 160,
+    "id": 355,
     "ownership": "民办"
   },
   {
@@ -5251,7 +11644,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 161,
+    "id": 356,
     "ownership": "民办"
   },
   {
@@ -5284,40 +11677,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 162,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中历史教师(骨干教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_721223.html",
-    "content": {
-      "intro": "薪资 24-40W/年；地点 云浮-新兴县；要求 本科、10年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中历史教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 10年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 163,
+    "id": 357,
     "ownership": "民办"
   },
   {
@@ -5350,106 +11710,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 164,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中道德与法治教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_721221.html",
-    "content": {
-      "intro": "薪资 17-21W/年；地点 云浮-新兴县；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中道德与法治教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 165,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中生物教师(骨干教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641928.html",
-    "content": {
-      "intro": "薪资 24-40W/年；地点 云浮-新兴县；要求 本科、10年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中生物教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 10年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 166,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中政治教师(骨干教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_641929.html",
-    "content": {
-      "intro": "薪资 24-40W/年；地点 云浮-新兴县；要求 本科、10年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中政治教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 10年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 167,
+    "id": 358,
     "ownership": "民办"
   },
   {
@@ -5482,7 +11743,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 168,
+    "id": 359,
     "ownership": "民办"
   },
   {
@@ -5515,7 +11776,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 169,
+    "id": 360,
     "ownership": "民办"
   },
   {
@@ -5548,40 +11809,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 170,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中体育教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_805513.html",
-    "content": {
-      "intro": "薪资 13-26W/年；地点 云浮-新兴县；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中体育教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 171,
+    "id": 361,
     "ownership": "民办"
   },
   {
@@ -5614,40 +11842,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 172,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中信息技术教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_836345.html",
-    "content": {
-      "intro": "薪资 9-10K/月；地点 云浮-云城区；要求 本科、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中信息技术教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 173,
+    "id": 362,
     "ownership": "民办"
   },
   {
@@ -5680,7 +11875,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 174,
+    "id": 363,
     "ownership": "民办"
   },
   {
@@ -5713,73 +11908,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 175,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学语文教师",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_810044.html",
-    "content": {
-      "intro": "薪资 9-18W/年；地点 云浮-云城区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学语文教师",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 176,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学英语教师",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_810046.html",
-    "content": {
-      "intro": "薪资 9-18W/年；地点 云浮-云城区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学英语教师",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 177,
+    "id": 364,
     "ownership": "民办"
   },
   {
@@ -5812,7 +11941,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 178,
+    "id": 365,
     "ownership": "民办"
   },
   {
@@ -5845,7 +11974,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 179,
+    "id": 366,
     "ownership": "民办"
   },
   {
@@ -5878,7 +12007,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 180,
+    "id": 367,
     "ownership": "民办"
   },
   {
@@ -5911,40 +12040,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 181,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学体育教师",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_810049.html",
-    "content": {
-      "intro": "薪资 9-18W/年；地点 云浮-云城区；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学体育教师",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 182,
+    "id": 368,
     "ownership": "民办"
   },
   {
@@ -5977,7 +12073,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 183,
+    "id": 369,
     "ownership": "民办"
   },
   {
@@ -6010,40 +12106,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 184,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学道德与法治教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_831087.html",
-    "content": {
-      "intro": "薪资 7-10W/年；地点 云浮-云城区；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学道德与法治教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 185,
+    "id": 370,
     "ownership": "民办"
   },
   {
@@ -6076,7 +12139,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 186,
+    "id": 371,
     "ownership": "民办"
   },
   {
@@ -6109,7 +12172,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 187,
+    "id": 372,
     "ownership": "民办"
   },
   {
@@ -6142,7 +12205,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 188,
+    "id": 373,
     "ownership": "民办"
   },
   {
@@ -6175,7 +12238,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 189,
+    "id": 374,
     "ownership": "民办"
   },
   {
@@ -6208,40 +12271,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 190,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中心理健康教师(骨干教师)",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_681180.html",
-    "content": {
-      "intro": "薪资 7-9W/年；地点 云浮-云城区；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中心理健康教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 191,
+    "id": 375,
     "ownership": "民办"
   },
   {
@@ -6274,40 +12304,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 192,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中美术教师(骨干教师)",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_681178.html",
-    "content": {
-      "intro": "薪资 10-15W/年；地点 云浮-云城区；要求 本科、5年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中美术教师(骨干教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 5年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 193,
+    "id": 376,
     "ownership": "民办"
   },
   {
@@ -6340,7 +12337,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 194,
+    "id": 377,
     "ownership": "民办"
   },
   {
@@ -6373,73 +12370,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 195,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学书法教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_831669.html",
-    "content": {
-      "intro": "薪资 9-18W/年；地点 云浮-云城区；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学书法教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 196,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中体育教师",
-    "city": "云浮",
-    "school": "云浮市伊顿实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_901503.html",
-    "content": {
-      "intro": "薪资 9-18W/年；地点 云浮-云城区；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中体育教师",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 197,
+    "id": 378,
     "ownership": "民办"
   },
   {
@@ -6472,7 +12403,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 198,
+    "id": 379,
     "ownership": "民办"
   },
   {
@@ -6505,7 +12436,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 199,
+    "id": 380,
     "ownership": "民办"
   },
   {
@@ -6538,7 +12469,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 200,
+    "id": 381,
     "ownership": "民办"
   },
   {
@@ -6571,7 +12502,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 201,
+    "id": 382,
     "ownership": "民办"
   },
   {
@@ -6604,7 +12535,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 202,
+    "id": 383,
     "ownership": "民办"
   },
   {
@@ -6637,7 +12568,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 203,
+    "id": 384,
     "ownership": "民办"
   },
   {
@@ -6670,7 +12601,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 204,
+    "id": 385,
     "ownership": "民办"
   },
   {
@@ -6703,7 +12634,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 205,
+    "id": 386,
     "ownership": "民办"
   },
   {
@@ -6736,40 +12667,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 206,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学舞蹈教师(青年教师)",
-    "city": "广州",
-    "school": "广州市花都区新星学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_898676.html",
-    "content": {
-      "intro": "薪资 8-12W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学舞蹈教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 207,
+    "id": 387,
     "ownership": "民办"
   },
   {
@@ -6802,139 +12700,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 208,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中政治教师",
-    "city": "广州",
-    "school": "广州市花都区新星学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_321291.html",
-    "content": {
-      "intro": "薪资 8-12W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中政治教师",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 209,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中历史教师",
-    "city": "广州",
-    "school": "广州市花都区新星学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_321290.html",
-    "content": {
-      "intro": "薪资 8-15W/年；地点 广州-花都区；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中历史教师",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 210,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中地理教师",
-    "city": "广州",
-    "school": "广州市花都区新星学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_321289.html",
-    "content": {
-      "intro": "薪资 8-15W/年；地点 广州-花都区；要求 本科、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中地理教师",
-      "conditions": [
-        "学历 本科",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 211,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中语文教师",
-    "city": "广州",
-    "school": "广州市花都区新星学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_321294.html",
-    "content": {
-      "intro": "薪资 8-15W/年；地点 广州-花都区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中语文教师",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 212,
+    "id": 388,
     "ownership": "民办"
   },
   {
@@ -6967,7 +12733,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 213,
+    "id": 389,
     "ownership": "民办"
   },
   {
@@ -7000,7 +12766,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 214,
+    "id": 390,
     "ownership": "民办"
   },
   {
@@ -7033,7 +12799,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 215,
+    "id": 391,
     "ownership": "民办"
   },
   {
@@ -7066,7 +12832,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 216,
+    "id": 392,
     "ownership": "民办"
   },
   {
@@ -7099,7 +12865,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 217,
+    "id": 393,
     "ownership": "民办"
   },
   {
@@ -7132,7 +12898,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 218,
+    "id": 394,
     "ownership": "民办"
   },
   {
@@ -7165,7 +12931,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 219,
+    "id": 395,
     "ownership": "民办"
   },
   {
@@ -7198,7 +12964,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 220,
+    "id": 396,
     "ownership": "民办"
   },
   {
@@ -7231,7 +12997,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 221,
+    "id": 397,
     "ownership": "民办"
   },
   {
@@ -7264,7 +13030,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 222,
+    "id": 398,
     "ownership": "民办"
   },
   {
@@ -7297,7 +13063,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 223,
+    "id": 399,
     "ownership": "民办"
   },
   {
@@ -7330,7 +13096,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 224,
+    "id": 400,
     "ownership": "民办"
   },
   {
@@ -7363,7 +13129,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 225,
+    "id": 401,
     "ownership": "民办"
   },
   {
@@ -7396,7 +13162,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 226,
+    "id": 402,
     "ownership": "民办"
   },
   {
@@ -7429,7 +13195,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 227,
+    "id": 403,
     "ownership": "民办"
   },
   {
@@ -7462,7 +13228,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 228,
+    "id": 404,
     "ownership": "民办"
   },
   {
@@ -7495,7 +13261,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 229,
+    "id": 405,
     "ownership": "民办"
   },
   {
@@ -7528,7 +13294,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 230,
+    "id": 406,
     "ownership": "民办"
   },
   {
@@ -7561,7 +13327,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 231,
+    "id": 407,
     "ownership": "民办"
   },
   {
@@ -7594,7 +13360,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 232,
+    "id": 408,
     "ownership": "民办"
   },
   {
@@ -7627,7 +13393,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 233,
+    "id": 409,
     "ownership": "民办"
   },
   {
@@ -7660,7 +13426,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 234,
+    "id": 410,
     "ownership": "民办"
   },
   {
@@ -7693,7 +13459,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 235,
+    "id": 411,
     "ownership": "民办"
   },
   {
@@ -7726,7 +13492,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 236,
+    "id": 412,
     "ownership": "民办"
   },
   {
@@ -7759,7 +13525,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 237,
+    "id": 413,
     "ownership": "民办"
   },
   {
@@ -7792,7 +13558,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 238,
+    "id": 414,
     "ownership": "民办"
   },
   {
@@ -7825,7 +13591,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 239,
+    "id": 415,
     "ownership": "民办"
   },
   {
@@ -7858,40 +13624,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 240,
+    "id": 416,
     "ownership": "民办"
-  },
-  {
-    "title": "高中历史教师(优秀教师)",
-    "city": "深圳",
-    "school": "深圳市弘毅高级中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_871094.html",
-    "content": {
-      "intro": "薪资 16-25W/年；地点 深圳-宝安区；要求 本科、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中历史教师(优秀教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 241
   },
   {
     "title": "小学语文教师(赤沙校区骨干教师)",
@@ -7923,40 +13657,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 242,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中数学教师",
-    "city": "汕头",
-    "school": "汕头三江科技职业技术学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_735930.html",
-    "content": {
-      "intro": "薪资 6-9K/月；地点 汕头-龙湖区；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中数学教师",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 243,
+    "id": 417,
     "ownership": "民办"
   },
   {
@@ -7989,7 +13690,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 244,
+    "id": 418,
     "ownership": "民办"
   },
   {
@@ -8022,7 +13723,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 245,
+    "id": 419,
     "ownership": "民办"
   },
   {
@@ -8055,7 +13756,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 246,
+    "id": 420,
     "ownership": "民办"
   },
   {
@@ -8088,7 +13789,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 247,
+    "id": 421,
     "ownership": "民办"
   },
   {
@@ -8121,7 +13822,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 248,
+    "id": 422,
     "ownership": "民办"
   },
   {
@@ -8154,7 +13855,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 249,
+    "id": 423,
     "ownership": "民办"
   },
   {
@@ -8187,7 +13888,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 250,
+    "id": 424,
     "ownership": "民办"
   },
   {
@@ -8220,7 +13921,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 251,
+    "id": 425,
     "ownership": "民办"
   },
   {
@@ -8253,7 +13954,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 252,
+    "id": 426,
     "ownership": "民办"
   },
   {
@@ -8286,7 +13987,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 253,
+    "id": 427,
     "ownership": "民办"
   },
   {
@@ -8319,7 +14020,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 254,
+    "id": 428,
     "ownership": "民办"
   },
   {
@@ -8352,7 +14053,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 255,
+    "id": 429,
     "ownership": "民办"
   },
   {
@@ -8385,7 +14086,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 256,
+    "id": 430,
     "ownership": "民办"
   },
   {
@@ -8418,7 +14119,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 257,
+    "id": 431,
     "ownership": "民办"
   },
   {
@@ -8451,7 +14152,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 258,
+    "id": 432,
     "ownership": "民办"
   },
   {
@@ -8483,7 +14184,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 259,
+    "id": 433,
     "ownership": "民办"
   },
   {
@@ -8516,7 +14217,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 260,
+    "id": 434,
     "ownership": "民办"
   },
   {
@@ -8549,7 +14250,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 261,
+    "id": 435,
     "ownership": "民办"
   },
   {
@@ -8582,7 +14283,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 262,
+    "id": 436,
     "ownership": "民办"
   },
   {
@@ -8615,7 +14316,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 263,
+    "id": 437,
     "ownership": "民办"
   },
   {
@@ -8647,7 +14348,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 264,
+    "id": 438,
     "ownership": "民办"
   },
   {
@@ -8680,7 +14381,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 265,
+    "id": 439,
     "ownership": "民办"
   },
   {
@@ -8713,7 +14414,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 266,
+    "id": 440,
     "ownership": "民办"
   },
   {
@@ -8746,7 +14447,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 267,
+    "id": 441,
     "ownership": "民办"
   },
   {
@@ -8779,7 +14480,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 268,
+    "id": 442,
     "ownership": "民办"
   },
   {
@@ -8812,7 +14513,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 269,
+    "id": 443,
     "ownership": "民办"
   },
   {
@@ -8845,7 +14546,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 270,
+    "id": 444,
     "ownership": "民办"
   },
   {
@@ -8878,40 +14579,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 271,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中信息技术教师",
-    "city": "广州",
-    "school": "广州市白云区华赋学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_451451.html",
-    "content": {
-      "intro": "薪资 10-15K/月；地点 广州-白云区；要求 本科、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中信息技术教师",
-      "conditions": [
-        "学历 本科",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 272,
+    "id": 445,
     "ownership": "民办"
   },
   {
@@ -8943,164 +14611,8 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 273,
+    "id": 446,
     "ownership": "民办"
-  },
-  {
-    "title": "广东水利电力职业技术学院继续教育学院项目制教师招聘公告",
-    "city": "广州市",
-    "school": "广东水利电力职业技术学院（中职部）",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "正式编",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "2026-11-22",
-    "recordedAt": "2026-11-09",
-    "source": "广东水利电力职业技术学院（中职部）官网",
-    "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6650.html",
-    "ownership": "公办",
-    "content": {
-      "intro": "广东水利电力职业技术学院继续教育学院项目制教师招聘公告_人才招聘信息_广东水利电力职业技术学院欢迎您！ 欢迎访问广东水利电力职业技术学院！ 设为首页 加入收藏 手机版 搜索 首页 学校概况 学校简介 机构设置 校园画册 现任领导 二级学院 水利工程学院 电力工程学院 经济管理学院 市政工程学院 土木工程学院 智能制造学院 自动化与信息技术学院 大数据与人工智能学院 建筑环境与设计学院 外语外贸学院 马克思主义学院 国际教育学院 教育教学",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 274
-  },
-  {
-    "title": "广东水利电力职业技术学院2026年项目制教师招聘公告",
-    "city": "广州市",
-    "school": "广东水利电力职业技术学院（中职部）",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "正式编",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "2026-11-20",
-    "recordedAt": "2026-11-09",
-    "source": "广东水利电力职业技术学院（中职部）官网",
-    "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6649.html",
-    "ownership": "公办",
-    "content": {
-      "intro": "广东水利电力职业技术学院2026年项目制教师招聘公告_人才招聘信息_广东水利电力职业技术学院欢迎您！ 欢迎访问广东水利电力职业技术学院！ 设为首页 加入收藏 手机版 搜索 首页 学校概况 学校简介 机构设置 校园画册 现任领导 二级学院 水利工程学院 电力工程学院 经济管理学院 市政工程学院 土木工程学院 智能制造学院 自动化与信息技术学院 大数据与人工智能学院 建筑环境与设计学院 外语外贸学院 马克思主义学院 国际教育学院 教育教学 ",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 275
-  },
-  {
-    "title": "广州华商职业学院实训室管理员招聘启事",
-    "city": "广州市",
-    "school": "广州华商职业学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "广州华商职业学院官网",
-    "sourceUrl": "https://rsc.gzhsvc.edu.cn/info/1065/1957.htm",
-    "ownership": "民办",
-    "content": {
-      "intro": "广州华商职业学院实训室管理员招聘启事-广州华商职业学院人事与质量部 今天是： 设为首页 | 加入收藏 首页 人事动态 综合信息 政策制度 师资建设 师德师风 人事管理 质量管理 人才招聘 办事指南 下载服务 学校首页 人事处 人才招聘 当前位置: 首页 >> 人才招聘 >> 正文 广州华商职业学院实训室管理员招聘启事 发布日期：2026-11-09 因学校管理需求，广州华商职业学院面向校外公开招聘实训室管理员。 具体事项如下： 一、聘请",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 276
-  },
-  {
-    "title": "11-092026广东江门南粤学院2026-2027学年招聘公告查看详情>>",
-    "city": "江门市",
-    "school": "广东江门南粤学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "广东江门南粤学院官网",
-    "sourceUrl": "https://www1.bitzh.edu.cn:8081/info/3103/5471.htm",
-    "ownership": "民办",
-    "content": {
-      "intro": "广东江门南粤学院2026-2027学年招聘公告-广东江门南粤学院（原北京理工大学珠海学院） 当前位置: 首页 - 师资队伍 - 人才招聘 - 正文 师资队伍 师资介绍 教师风采 管理制度 师资服务 人才招聘 广东江门南粤学院2026-2027学年招聘公告 时间：2026-11-09 文： 图： 来源： 编辑：rsc 审核： 广东江门南粤学院 2026- 2027 学 年招聘公告 广东江门南粤学院坐落于粤港澳大湾区重要节点城市 —— 江门",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 277
-  },
-  {
-    "title": "非专任教师招聘",
-    "city": "肇庆市",
-    "school": "肇庆学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "肇庆学院官网",
-    "sourceUrl": "https://rsc.zqu.edu.cn/rczp/fzrjszp.htm",
-    "ownership": "公办",
-    "content": {
-      "intro": "非专任教师招聘-肇庆学院人力资源部 人才招聘 专任教师招聘 非专任教师招聘 非专任教师招聘 当前位置: 首页 >> 人才招聘 >> 非专任教师招聘 肇庆学院2026年11月招聘科研助理公告 2026-11-09 肇庆学院公开招聘劳动合同制工作人员启事 2026-10-09 肇庆学院2026年公开招聘工作人员体检事宜公告 2026-09-09 肇庆学院2026年7月招聘科研助理公示 2026-09-03 肇庆学院2026年公开招聘工作人员",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 278
-  },
-  {
-    "title": "茂名职业技术学院2026年度招聘教师（第二批）和2026年下半年",
-    "city": "茂名市",
-    "school": "茂名职业技术学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "茂名职业技术学院官网",
-    "sourceUrl": "https://www.mmpt.edu.cn/rsc/info/1003/1824.htm",
-    "ownership": "公办",
-    "content": {
-      "intro": "茂名职业技术学院2026年度招聘教师（第二批）和2026年下半年公开招聘教师拟聘用人员名单公示-组织人事部 部门首页 通知公告 基层党组织建设 人才招聘 干部工作 人事处工作职责 师资队伍 岗位设置 政策法规 公告栏 下载专区 学院各部门工作职责 学院各部门工作岗位职责 当前位置: 网站首页 >> 通知公告 >> 正文 茂名职业技术学院2026年度招聘教师（第二批）和2026年下半年公开招聘教师拟聘用人员名单公示 2026-11-09 ",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 279
   },
   {
     "title": "国际部班主任",
@@ -9130,7 +14642,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 280,
+    "id": 447,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9163,7 +14675,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 281,
+    "id": 448,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9196,7 +14708,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 282,
+    "id": 449,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9229,7 +14741,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 283,
+    "id": 450,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9262,7 +14774,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 284,
+    "id": 451,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9295,40 +14807,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 285,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学科学教师",
-    "city": "东莞",
-    "school": "东莞市步步高实验学校",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_924968.html",
-    "content": {
-      "intro": "薪资 15-30K/月；地点 东莞-长安镇；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学科学教师",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 286,
+    "id": 452,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9361,7 +14840,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 287,
+    "id": 453,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9394,7 +14873,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 288,
+    "id": 454,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9427,7 +14906,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 289,
+    "id": 455,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9460,7 +14939,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 290,
+    "id": 456,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9493,7 +14972,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 291,
+    "id": 457,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9526,7 +15005,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 292,
+    "id": 458,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9559,7 +15038,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 293,
+    "id": 459,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9592,7 +15071,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 294,
+    "id": 460,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9625,7 +15104,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 295,
+    "id": 461,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9658,7 +15137,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 296,
+    "id": 462,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9691,7 +15170,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 297,
+    "id": 463,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9724,73 +15203,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 298,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中心理健康教师(青年教师)",
-    "city": "东莞",
-    "school": "东莞市海逸外国语学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_737184.html",
-    "content": {
-      "intro": "薪资 10-15K/月；地点 东莞-厚街镇；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中心理健康教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 299,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中体育教师(青年教师)",
-    "city": "东莞",
-    "school": "东莞市海逸外国语学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_737181.html",
-    "content": {
-      "intro": "薪资 15-30W/年；地点 东莞-厚街镇；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中体育教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 300,
+    "id": 464,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9823,7 +15236,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 301,
+    "id": 465,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9856,7 +15269,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 302,
+    "id": 466,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9889,7 +15302,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 303,
+    "id": 467,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9922,7 +15335,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 304,
+    "id": 468,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9955,7 +15368,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 305,
+    "id": 469,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -9988,7 +15401,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 306,
+    "id": 470,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10021,7 +15434,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 307,
+    "id": 471,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10054,7 +15467,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 308,
+    "id": 472,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10087,7 +15500,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 309,
+    "id": 473,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10120,7 +15533,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 310,
+    "id": 474,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10153,7 +15566,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 311,
+    "id": 475,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10186,7 +15599,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 312,
+    "id": 476,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10219,7 +15632,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 313,
+    "id": 477,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10252,7 +15665,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 314,
+    "id": 478,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10285,7 +15698,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 315,
+    "id": 479,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10318,7 +15731,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 316,
+    "id": 480,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10351,7 +15764,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 317,
+    "id": 481,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10384,7 +15797,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 318,
+    "id": 482,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10417,7 +15830,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 319,
+    "id": 483,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10450,7 +15863,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 320,
+    "id": 484,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10483,7 +15896,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 321,
+    "id": 485,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10516,7 +15929,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 322,
+    "id": 486,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10549,7 +15962,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 323,
+    "id": 487,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10582,40 +15995,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 324,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中政治教师",
-    "city": "惠州",
-    "school": "惠州大亚湾区外语实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_359371.html",
-    "content": {
-      "intro": "薪资 15-20W/年；地点 惠州-惠阳区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中政治教师",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 325,
+    "id": 488,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10648,7 +16028,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 326,
+    "id": 489,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10681,7 +16061,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 327,
+    "id": 490,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10714,40 +16094,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 328,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中地理教师",
-    "city": "惠州",
-    "school": "惠州大亚湾区外语实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_615916.html",
-    "content": {
-      "intro": "薪资 15-20W/年；地点 惠州-惠阳区；要求 本科、6年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中地理教师",
-      "conditions": [
-        "学历 本科",
-        "经验 6年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 329,
+    "id": 491,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10780,7 +16127,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 330,
+    "id": 492,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10813,7 +16160,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 331,
+    "id": 493,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10846,7 +16193,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 332,
+    "id": 494,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10879,7 +16226,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 333,
+    "id": 495,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10912,7 +16259,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 334,
+    "id": 496,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10945,7 +16292,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 335,
+    "id": 497,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -10978,7 +16325,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 336,
+    "id": 498,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11011,7 +16358,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 337,
+    "id": 499,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11044,7 +16391,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 338,
+    "id": 500,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11077,7 +16424,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 339,
+    "id": 501,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11110,7 +16457,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 340,
+    "id": 502,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11143,40 +16490,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 341,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中俄语教师(青年教师)",
-    "city": "惠州",
-    "school": "惠州大亚湾区外语实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_826736.html",
-    "content": {
-      "intro": "薪资 15-18W/年；地点 惠州-惠阳区；要求 本科、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中俄语教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 342,
+    "id": 503,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11209,7 +16523,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 343,
+    "id": 504,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11242,7 +16556,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 344,
+    "id": 505,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11275,7 +16589,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 345,
+    "id": 506,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11308,7 +16622,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 346,
+    "id": 507,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11341,7 +16655,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 347,
+    "id": 508,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11374,7 +16688,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 348,
+    "id": 509,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11407,7 +16721,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 349,
+    "id": 510,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11440,7 +16754,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 350,
+    "id": 511,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11473,7 +16787,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 351,
+    "id": 512,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11506,7 +16820,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 352,
+    "id": 513,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11539,7 +16853,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 353,
+    "id": 514,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11572,7 +16886,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 354,
+    "id": 515,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11605,7 +16919,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 355,
+    "id": 516,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11638,7 +16952,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 356,
+    "id": 517,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11671,7 +16985,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 357,
+    "id": 518,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11704,7 +17018,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 358,
+    "id": 519,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -11737,7 +17051,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 359,
+    "id": 520,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -11769,7 +17083,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 360,
+    "id": 521,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -11801,39 +17115,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 361,
-    "isPrivate": true,
-    "pendingReview": true
-  },
-  {
-    "title": "高中化学教师",
-    "city": "惠州",
-    "school": "惠州市泰雅实验高中",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_806344.html",
-    "content": {
-      "intro": "薪资 10-20K/月；地点 惠州-惠阳区；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中化学教师",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 362,
+    "id": 522,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -11865,7 +17147,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 363,
+    "id": 523,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -11897,7 +17179,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 364,
+    "id": 524,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -11929,7 +17211,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 365,
+    "id": 525,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -11961,7 +17243,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 366,
+    "id": 526,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -11993,7 +17275,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 367,
+    "id": 527,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -12025,7 +17307,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 368,
+    "id": 528,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -12057,7 +17339,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 369,
+    "id": 529,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -12089,7 +17371,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 370,
+    "id": 530,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12122,7 +17404,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 371,
+    "id": 531,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12155,7 +17437,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 372,
+    "id": 532,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12188,7 +17470,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 373,
+    "id": 533,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12221,7 +17503,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 374,
+    "id": 534,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12254,7 +17536,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 375,
+    "id": 535,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12287,73 +17569,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 376,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "教学主任",
-    "city": "广州",
-    "school": "广州市白云区华龙小学",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_923338.html",
-    "content": {
-      "intro": "薪资 8-10K/月；地点 广州-白云区；要求 本科、3年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "教学主任",
-      "conditions": [
-        "学历 本科",
-        "经验 3年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 377,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "小学信息技术教师",
-    "city": "广州",
-    "school": "广州市白云区华龙小学",
-    "level": "万行职位",
-    "stage": "小学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_856627.html",
-    "content": {
-      "intro": "薪资 5-7K/月；地点 广州-白云区；要求 本科、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "小学信息技术教师",
-      "conditions": [
-        "学历 本科",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 378,
+    "id": 536,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12386,7 +17602,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 379,
+    "id": 537,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12419,7 +17635,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 380,
+    "id": 538,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12452,7 +17668,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 381,
+    "id": 539,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -12484,7 +17700,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 382,
+    "id": 540,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -12516,7 +17732,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 383,
+    "id": 541,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12549,7 +17765,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 384,
+    "id": 542,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12582,7 +17798,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 385,
+    "id": 543,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12615,7 +17831,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 386,
+    "id": 544,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12648,39 +17864,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 387,
-    "isPrivate": true,
-    "pendingReview": true,
-    "ownership": "民办"
-  },
-  {
-    "title": "高中生活老师",
-    "city": "江门",
-    "school": "恩平市华附学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_852614.html",
-    "content": {
-      "intro": "薪资 4-5K/月；地点 江门-恩平市；要求 1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "高中生活老师",
-      "conditions": [
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 388,
+    "id": 545,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12713,7 +17897,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 389,
+    "id": 546,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12746,7 +17930,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 390,
+    "id": 547,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12779,7 +17963,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 391,
+    "id": 548,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12812,7 +17996,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 392,
+    "id": 549,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12845,7 +18029,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 393,
+    "id": 550,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12878,7 +18062,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 394,
+    "id": 551,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12911,7 +18095,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 395,
+    "id": 552,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12944,7 +18128,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 396,
+    "id": 553,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -12977,7 +18161,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 397,
+    "id": 554,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13010,7 +18194,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 398,
+    "id": 555,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13043,7 +18227,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 399,
+    "id": 556,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13076,7 +18260,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 400,
+    "id": 557,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13109,7 +18293,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 401,
+    "id": 558,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13142,7 +18326,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 402,
+    "id": 559,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13175,7 +18359,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 403,
+    "id": 560,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13208,7 +18392,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 404,
+    "id": 561,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13241,7 +18425,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 405,
+    "id": 562,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13274,7 +18458,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 406,
+    "id": 563,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13307,7 +18491,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 407,
+    "id": 564,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13339,7 +18523,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 408,
+    "id": 565,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -13371,7 +18555,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 409,
+    "id": 566,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -13403,7 +18587,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 410,
+    "id": 567,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -13434,7 +18618,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 411,
+    "id": 568,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -13465,7 +18649,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 412,
+    "id": 569,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13498,7 +18682,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 413,
+    "id": 570,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13531,7 +18715,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 414,
+    "id": 571,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13563,7 +18747,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 415,
+    "id": 572,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13598,7 +18782,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 416
+    "id": 573
   },
   {
     "title": "小学英语骨干教师(骨干教师)",
@@ -13630,7 +18814,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 417,
+    "id": 574,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -13661,7 +18845,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 418,
+    "id": 575,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -13692,7 +18876,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 419,
+    "id": 576,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -13725,7 +18909,7 @@ window.REAL_JOBS = [
       "signup": "本次公开招聘工作按照报名（资格初审）、考试网上确认、打印准考证、笔试、现场资格复审、面试、体检、组织考察、公示、办理聘用等程序进行；报名采取本人网络报名、现场宣讲会报名的方法进行；（1）时间：2026年11月10日（星期二）9:00至11月16日（星期一）17:00，逾期不接受报名",
       "contact": "电话 020）89185372、020）89185385"
     },
-    "id": 420
+    "id": 577
   },
   {
     "title": "广东工业大学揭阳校区2026年公开招聘聘用制职员公告",
@@ -13755,7 +18939,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘实行网络报名。应聘人员请于报名时间内登录报名系统（https://www.qgsydw.com/xxywzlzt/bmzl/ggdx）报名，按网上提示填写个人信息及上传岗位要求提供的佐证材料，材料清单如下：",
       "contact": "电话 0663-6603123、020-39322692"
     },
-    "id": 421
+    "id": 578
   },
   {
     "title": "小学语文教师(青年教师)",
@@ -13787,7 +18971,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 422,
+    "id": 579,
     "ownership": "民办"
   },
   {
@@ -13814,7 +18998,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 423
+    "id": 580
   },
   {
     "title": "广州城建职业学院医药健康学院实训管理员招聘公告",
@@ -13840,7 +19024,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 424
+    "id": 581
   },
   {
     "title": "广东医科大学非事业编制合同制人员招聘启事",
@@ -13866,7 +19050,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 425
+    "id": 582
   },
   {
     "title": "高中其他教师(青年教师)",
@@ -13895,7 +19079,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 426,
+    "id": 583,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -13930,7 +19114,7 @@ window.REAL_JOBS = [
       "signup": "简历投递地址（请同时投递到二级学院及人事处邮箱）；简历投递地址；请将以上材料发送到相应的邮箱",
       "contact": "邮箱 cxxxgc@163.com"
     },
-    "id": 427,
+    "id": 584,
     "ownership": "民办"
   },
   {
@@ -13964,33 +19148,7 @@ window.REAL_JOBS = [
       "signup": "国家优秀中小学教师培养计划（“国优计划”）毕业生按照取得的中小学教师资格证任教学科报名应聘相应学科教师岗位，研究生所学专业与岗位需求表中“专业及代码”“其它要求”中专业要求不一致的，不影响报名应聘；报考年龄为18至38周岁（即1987年11月10日至2008年11月9日期间出生）,报考人员所涉及年龄的时间点计算截至报名首日；公开招聘工作按照网上公告、网上报名、笔试确认、笔试、面试现场资格审查、面试、体检、选岗、考察、公示、递补、聘用等程",
       "contact": "电话 0763-5820802"
     },
-    "id": 428
-  },
-  {
-    "title": "非事业编制招聘",
-    "city": "广州市",
-    "school": "广东财经大学",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "正式编",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-05",
-    "source": "广东财经大学官网",
-    "sourceUrl": "https://rsc.gdufe.edu.cn/fsybzzp/list.htm",
-    "ownership": "公办",
-    "content": {
-      "intro": "非事业编制招聘 首页 部门介绍 部门职责 部领导 综合科 人事管理科 人才工作科 师资管理科（博士后管理办公室） 师德师风建设科（教师发展中心） 薪酬与社保管理科 离退休工作科 工作动态 师德师风 师德典范 警示教育 师德学习 师资队伍 职称评审 珠江学者 南岭学者 客座教授 继续教育 教师资格 人才招聘 高层次人才招聘 事业编制招聘 非事业编制招聘 支部建设 学习园地 党支部动态 政策法规 人事调配 师资培养 高层次人才管理与服务 工",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 429
+    "id": 585
   },
   {
     "title": "关于东莞理工学院2026年公开招聘专职辅",
@@ -14016,7 +19174,33 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 430
+    "id": 586
+  },
+  {
+    "title": "非事业编制招聘",
+    "city": "广州市",
+    "school": "广东财经大学",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "正式编",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-05",
+    "source": "广东财经大学官网",
+    "sourceUrl": "https://rsc.gdufe.edu.cn/fsybzzp/list.htm",
+    "ownership": "公办",
+    "content": {
+      "intro": "非事业编制招聘 首页 部门介绍 部门职责 部领导 综合科 人事管理科 人才工作科 师资管理科（博士后管理办公室） 师德师风建设科（教师发展中心） 薪酬与社保管理科 离退休工作科 工作动态 师德师风 师德典范 警示教育 师德学习 师资队伍 职称评审 珠江学者 南岭学者 客座教授 继续教育 教师资格 人才招聘 高层次人才招聘 事业编制招聘 非事业编制招聘 支部建设 学习园地 党支部动态 政策法规 人事调配 师资培养 高层次人才管理与服务 工",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 587
   },
   {
     "title": "[11-05]关于公布广东石油化工学院2026年人才招聘",
@@ -14042,7 +19226,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 431
+    "id": 588
   },
   {
     "title": "华南农业大学离退休工作处招聘公告",
@@ -14071,38 +19255,8 @@ window.REAL_JOBS = [
       "signup": "有意者请于 2026 年 11 月 12 日前将个人简历、毕业证书、学位证书及相关材料的电子版发送至邮箱 ltxgzc@scau.edu.cn",
       "contact": "邮箱 ltxgzc@scau.edu.cn"
     },
-    "id": 432,
+    "id": 589,
     "ownership": "公办"
-  },
-  {
-    "title": "深圳市第七高级中学专任教师招聘公告",
-    "city": "深圳",
-    "school": "深圳市第七高级中学专任教师",
-    "level": "公告",
-    "stage": "中学",
-    "category": "其他",
-    "pendingReview": true,
-    "establishment": "合同制",
-    "headcount": 1,
-    "education": "详见原文",
-    "deadline": "2026-11-16",
-    "recordedAt": "2026-11-04",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242364.html",
-    "content": {
-      "intro": "深圳市第七高级中学是深圳市“十五”规划重点民生工程，是深圳市教育局为提升西部教育品质、促进教育优质均衡发展而建设的一所大型寄宿制高中。学校位于粤港澳大湾区核心区域，紧靠国际会展中心，毗邻海上田园风景区，占地面积9.8万平方米，建筑面积7.2万平方米，办学规模为60个教学班，提供约3000个学位。 深圳市第七高级中学是一",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "报名 → 笔试 → 面试 → 考察 → 聘用",
-      "signup": "报名截止时间：2026年11月16日18：00 扫描下方二维码（见附件），填写信息、上传简历（简历命名“岗位-姓名-联系方式”）",
-      "contact": "联系人 严老师；电话 0755-85259660\n\n"
-    },
-    "id": 433
   },
   {
     "title": "深圳中学2026年11月面向2027年应届毕业生公开招聘教师公告",
@@ -14136,7 +19290,7 @@ window.REAL_JOBS = [
       "signup": "（3）国家优秀中小学教师培养计划（“国优计划”）毕业生按照取得的中小学教师资格证任教学科报名应聘相应学科教师岗位，所学专业与岗位要求专业不一致、本科与研究生专业不一致的不影响报名应聘；（4）应聘人员所学专业未列入《公务员专业目录》（无专业代码）的，可选择《公务员专业目录》中的相近专业报考，所学专业必修课程须与招聘岗位要求专业的主要课程基本一致，并在报名时提供毕业证书（已毕业的）、所学专业课程成绩单、课程对比情况说明及毕业院校设置专业的依",
       "contact": "电话 0755-29391989、0755-29391947\n\n"
     },
-    "id": 434,
+    "id": 590,
     "ownership": "公办"
   },
   {
@@ -14163,7 +19317,37 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 435
+    "id": 591
+  },
+  {
+    "title": "深圳市第七高级中学专任教师招聘公告",
+    "city": "深圳",
+    "school": "深圳市第七高级中学专任教师",
+    "level": "公告",
+    "stage": "中学",
+    "category": "其他",
+    "pendingReview": true,
+    "establishment": "合同制",
+    "headcount": 1,
+    "education": "详见原文",
+    "deadline": "2026-11-16",
+    "recordedAt": "2026-11-04",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242364.html",
+    "content": {
+      "intro": "深圳市第七高级中学是深圳市“十五”规划重点民生工程，是深圳市教育局为提升西部教育品质、促进教育优质均衡发展而建设的一所大型寄宿制高中。学校位于粤港澳大湾区核心区域，紧靠国际会展中心，毗邻海上田园风景区，占地面积9.8万平方米，建筑面积7.2万平方米，办学规模为60个教学班，提供约3000个学位。 深圳市第七高级中学是一",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见原文"
+      ],
+      "process": "报名 → 笔试 → 面试 → 考察 → 聘用",
+      "signup": "报名截止时间：2026年11月16日18：00 扫描下方二维码（见附件），填写信息、上传简历（简历命名“岗位-姓名-联系方式”）",
+      "contact": "联系人 严老师；电话 0755-85259660\n\n"
+    },
+    "id": 592
   },
   {
     "title": "百万英才汇南粤--广东工业大学高层次人才招聘简章 2026-11-03",
@@ -14195,7 +19379,7 @@ window.REAL_JOBS = [
       "signup": "请应聘者将个人详细简历（包括教育经历、工作经历、学术成果等）有关材料发至学校各学院人才专员邮箱（见附表）并抄送至人事处高层次人才引进办公室邮箱（邮件标题请注明；请应聘者将个人详细简历（包括教育经历、工作经历、学术成果等）有关材料发至学校各学院人才专员老师邮箱（见附表）并抄送至人事处博士后管理办公室邮箱（邮件标题请注明",
       "contact": "联系人 罗老师；电话 020-39322509\n、020-39322270\n；邮箱 rcb@gdut.edu.cn"
     },
-    "id": 436,
+    "id": 593,
     "ownership": "公办"
   },
   {
@@ -14222,7 +19406,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 437
+    "id": 594
   },
   {
     "title": "广东外语外贸大学南国商学院2026年博士招聘启事",
@@ -14254,7 +19438,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 020-22245459、13299217553、19924326442；邮箱 ngrsc2024@163.com"
     },
-    "id": 438
+    "id": 595
   },
   {
     "title": "南方医科大学2026年科研助理岗位招聘",
@@ -14280,7 +19464,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 439
+    "id": 596
   },
   {
     "title": "广东白云学院银龄教师招聘公告",
@@ -14306,7 +19490,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 440
+    "id": 597
   },
   {
     "title": "碧职就业“职”通车|招聘信息汇总（第八十三期）",
@@ -14332,7 +19516,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 441
+    "id": 598
   },
   {
     "title": "碧职就业“职”通车|清远市清城区龙塘镇培英幼儿园招聘信息（第八十二期）",
@@ -14358,7 +19542,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 442
+    "id": 599
   },
   {
     "title": "碧职就业“职”通车|广东省联成教育投资有限公司招聘信息（第八十一期）",
@@ -14384,7 +19568,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 443
+    "id": 600
   },
   {
     "title": "碧职就业“职”通车|招聘信息汇总（第八十期）",
@@ -14410,7 +19594,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 444
+    "id": 601
   },
   {
     "title": "深圳大学土木与交通工程学院刘桐旭教授团队博士后招聘",
@@ -14439,7 +19623,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 刘老师；电话 15112511025\n；邮箱 tongxu.liu@szu.edu.cn；地址 深圳大学沧海校区致理楼"
     },
-    "id": 445,
+    "id": 602,
     "ownership": "公办"
   },
   {
@@ -14466,7 +19650,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 446
+    "id": 603
   },
   {
     "title": "深圳大学金融科技学院博士后招聘简章",
@@ -14495,7 +19679,7 @@ window.REAL_JOBS = [
       "signup": "导师联系邮箱；材料投递：应聘者请将；等材料打包，通过电子邮件发送至意向合作导师邮箱（邮件主题请注明：姓名",
       "contact": "联系人 王老师；邮箱 hc335@szu.edu.cn"
     },
-    "id": 447,
+    "id": 604,
     "ownership": "公办"
   },
   {
@@ -14525,7 +19709,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 伍若楠；电话 18045982395\n；邮箱 .wu@szu.edu.cn；地址 广东省深圳市南山区深圳大学沧海校区"
     },
-    "id": 448,
+    "id": 605,
     "ownership": "公办"
   },
   {
@@ -14556,7 +19740,7 @@ window.REAL_JOBS = [
       "signup": "填写《广州应用科技学院应聘人员登记表》（见附件），发送至学校电子 邮 箱，邮件主题请注明：姓名+专业+学历+职称+应聘岗位，合则约见。 联系地址：广东省肇庆市鼎湖区莲花镇丰乐路20号广州应用科技学院 行政中心 309人事处 办公室",
       "contact": "电话 0758-2610555；邮箱 rsc@gzasc.edu.cn；地址 广东省肇庆市鼎湖区莲花镇丰乐路20号广州应用科技学院"
     },
-    "id": 449,
+    "id": 606,
     "ownership": "民办"
   },
   {
@@ -14588,7 +19772,7 @@ window.REAL_JOBS = [
       "signup": "应聘材料发送至肇庆学院人力资源部邮箱：rsc@zqu.edu.cn抄送gccrcw@163.com，邮件请以“姓名+院校+学历程度+专业+毕业年月+高层次人才网”命名，例如：某某+校名+博士+软件工程+202307+高层次人才网；2.应聘者提交的应聘信息和相关佐证材料务必真实可信，并与个人应聘报名表及简历一致，经查证弄虚作假者，将取消录用资格，由此引起的一切后果与法律责任由应聘者本人承担",
       "contact": "电话 0758-2752890；邮箱 rsc@zqu.edu.cn抄送gccrcw"
     },
-    "id": 450
+    "id": 607
   },
   {
     "title": "广州华商职业学院产教融合办公室副主任招聘启事",
@@ -14614,7 +19798,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 451
+    "id": 608
   },
   {
     "title": "深圳大学传播学院杨洸教授团队招聘专职副研究员",
@@ -14643,7 +19827,7 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "联系人 邮箱；邮箱 leiyiming2018@outlook.com"
     },
-    "id": 452,
+    "id": 609,
     "ownership": "公办"
   },
   {
@@ -14673,7 +19857,7 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 453,
+    "id": 610,
     "ownership": "公办"
   },
   {
@@ -14700,7 +19884,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 454
+    "id": 611
   },
   {
     "title": "广州华商职业学院游泳池、实训室管理员招聘启事",
@@ -14726,7 +19910,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 455
+    "id": 612
   },
   {
     "title": "[10-24]广东石油化工学院2026年公开招聘辅导员（",
@@ -14752,39 +19936,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 456
-  },
-  {
-    "title": "广州华商职业学院面向海内外高薪引进高层次人才公告",
-    "city": "广州",
-    "school": "广州华商职业学院",
-    "level": "公告",
-    "stage": "高校",
-    "category": "其他",
-    "pendingReview": true,
-    "establishment": "合同制",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "2026-12-31",
-    "recordedAt": "2026-10-23",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242301.html",
-    "content": {
-      "intro": "一、学校基本情况 广州华商职业学院于2009年经广东省政府批准设立，是教育部备案、省教育厅主管的民办高校。学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学。获全国示范性职业院校等多项荣誉，设有广州、江门校区及香港教学中心，占地2000",
-      "targets": [
-        "学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "智能制造及自动化、新能源汽车检测与维修、电气自动化、机电一体化、低空经济、大数据、人工智能、智能体、酒店管理与数字化运营、餐饮智能管理、烹饪工艺与营养、口腔医学、健康管理、大数据与会计、康复治疗、医学营养、无人机应用、包装策划与设计等具有博士学位或副高以上职称、年龄45周岁以下的高层次领军人才",
-        "团队具备良好的工作基础，符合学校专业发展需要，具备较高的科技创新能力;团队带头人应具有较高的学术造诣和组织协调能力，学术水平在业内具有较高公认度;团队具有合理的专业结构和年龄结构，核心成员应具有博士研究生学历和学位或副高以上专业技术职务"
-      ],
-      "process": "报名 → 资格审查 → 考察 → 聘用",
-      "signup": "3.应聘人员填写《广州华商职业学院职位申请表》(见附件1)，连同本人身份证、学历、学位和职称证书、业绩材料扫描件压缩打包后发送到以下邮箱：hszyzp@126.com(邮件主题格式为：应聘者姓名-应聘专业领域-学历(学位)-职称-高层次人才网。附件大小请勿超过5M，尽量不要用邮箱的文件中转站发送附件，以免过期。)",
-      "contact": "电话 020-82666161、0750-6238967；邮箱 hszyzp@126.com"
-    },
-    "id": 457,
-    "ownership": "民办"
+    "id": 613
   },
   {
     "title": "广州华夏职业学院2026年秋季招聘公告",
@@ -14818,7 +19970,39 @@ window.REAL_JOBS = [
       "signup": "1.应聘人员下载《广州华夏职业学院应聘申请表》，填写应聘信息，将有关材料至招聘邮箱：gzhxrsc87868965@163.com(邮件标题及附件格式：姓名+学历+本人专业+应聘岗位+高层次人才网)",
       "contact": "联系人 人事处唐老师、潘老师；电话 020-87868965\n\n；邮箱 gzhxrsc87868965@163.com"
     },
-    "id": 458,
+    "id": 614,
+    "ownership": "民办"
+  },
+  {
+    "title": "广州华商职业学院面向海内外高薪引进高层次人才公告",
+    "city": "广州",
+    "school": "广州华商职业学院",
+    "level": "公告",
+    "stage": "高校",
+    "category": "其他",
+    "pendingReview": true,
+    "establishment": "合同制",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "2026-12-31",
+    "recordedAt": "2026-10-23",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242301.html",
+    "content": {
+      "intro": "一、学校基本情况 广州华商职业学院于2009年经广东省政府批准设立，是教育部备案、省教育厅主管的民办高校。学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学。获全国示范性职业院校等多项荣誉，设有广州、江门校区及香港教学中心，占地2000",
+      "targets": [
+        "学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "智能制造及自动化、新能源汽车检测与维修、电气自动化、机电一体化、低空经济、大数据、人工智能、智能体、酒店管理与数字化运营、餐饮智能管理、烹饪工艺与营养、口腔医学、健康管理、大数据与会计、康复治疗、医学营养、无人机应用、包装策划与设计等具有博士学位或副高以上职称、年龄45周岁以下的高层次领军人才",
+        "团队具备良好的工作基础，符合学校专业发展需要，具备较高的科技创新能力;团队带头人应具有较高的学术造诣和组织协调能力，学术水平在业内具有较高公认度;团队具有合理的专业结构和年龄结构，核心成员应具有博士研究生学历和学位或副高以上专业技术职务"
+      ],
+      "process": "报名 → 资格审查 → 考察 → 聘用",
+      "signup": "3.应聘人员填写《广州华商职业学院职位申请表》(见附件1)，连同本人身份证、学历、学位和职称证书、业绩材料扫描件压缩打包后发送到以下邮箱：hszyzp@126.com(邮件主题格式为：应聘者姓名-应聘专业领域-学历(学位)-职称-高层次人才网。附件大小请勿超过5M，尽量不要用邮箱的文件中转站发送附件，以免过期。)",
+      "contact": "电话 020-82666161、0750-6238967；邮箱 hszyzp@126.com"
+    },
+    "id": 615,
     "ownership": "民办"
   },
   {
@@ -14845,7 +20029,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 459
+    "id": 616
   },
   {
     "title": "深圳大学心理学院唐苏勤课题组诚聘研究助理",
@@ -14874,7 +20058,7 @@ window.REAL_JOBS = [
       "signup": "申请人请将以上材料合并为一个PDF文件直接发送至邮箱：sqtang@szu.edu.cn，邮件标题主题为“研究助理+姓名”；注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "邮箱 sqtang@szu.edu.cn"
     },
-    "id": 460,
+    "id": 617,
     "ownership": "公办"
   },
   {
@@ -14904,7 +20088,7 @@ window.REAL_JOBS = [
       "signup": "本公告 从 发布之日起 ，招满为止。请 提供以下材料：应聘者须按要求填写应聘简历表（见附件），发送至： ngrsc2024@163.com ， 邮件及",
       "contact": "电话 020-22245459\n；邮箱 ngrsc2024@163.com"
     },
-    "id": 461
+    "id": 618
   },
   {
     "title": "广东外语外贸大学南国商学院 2026年网络与信息中心招聘启事",
@@ -14933,7 +20117,7 @@ window.REAL_JOBS = [
       "signup": "本公告 从 发布之日起 ，招满为止。请 提供以下材料：应聘者须按要求填写应聘简历表（见附件），发送至： ngrsc2024@163.com ， 邮件及",
       "contact": "电话 020-22245459\n；邮箱 ngrsc2024@163.com"
     },
-    "id": 462
+    "id": 619
   },
   {
     "title": "高层次人才招聘",
@@ -14959,7 +20143,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 463
+    "id": 620
   },
   {
     "title": "广东科贸职业学院2026年高层次人才招聘考试公告（第四批）",
@@ -14985,7 +20169,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 464
+    "id": 621
   },
   {
     "title": "[10-22]广东石油化工学院2026年公开招聘辅导员（",
@@ -15011,7 +20195,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 465
+    "id": 622
   },
   {
     "title": "广州体育学院公开招聘网",
@@ -15037,7 +20221,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 466
+    "id": 623
   },
   {
     "title": "“百万英才汇南粤”广东省清远市直教育系统2026年下半年公开招聘公告",
@@ -15071,7 +20255,7 @@ window.REAL_JOBS = [
       "signup": "本条所规定处分期限的计算截至报名截止日；报考应聘人员所涉及年龄的时间点计算截至报名首日；本次招聘实行网络报名",
       "contact": "电话 0763-3363113、0763-3361196"
     },
-    "id": 467
+    "id": 624
   },
   {
     "title": "广东科学技术职业学院2026年正高级教师招聘公告",
@@ -15097,7 +20281,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 468
+    "id": 625
   },
   {
     "title": "深圳大学黄飞课题组（植物代谢表观方向）招聘副研究员",
@@ -15126,7 +20310,7 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "联系人 黄飞；电话 18610608676\n；邮箱 huangfei@pku.edu.cn"
     },
-    "id": 469,
+    "id": 626,
     "ownership": "公办"
   },
   {
@@ -15157,7 +20341,7 @@ window.REAL_JOBS = [
       "signup": "1.应聘人员只可报考一个符合招聘条件的岗位，且必须使用有效期内的二代居民身份证或港澳居民身份证报名。如对所报岗位要求不清楚的，在报名前应向招聘单位咨询。应聘人员要诚信报名、诚信考试，必须在规定的时间内向招聘单位提交报名资料，并确保报名材料真实、全面、准确。 2.对学习和工作经历栏目，应按时间先后顺序，从高中开始，填写何年何月至何年何月在何地、何单位工作或学习、任何职（在党政机关、事业单位、国有企业工作的，还须注明在职在编或临聘人员）。对",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 470
+    "id": 627
   },
   {
     "title": "博士后人才招聘",
@@ -15183,33 +20367,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 471
-  },
-  {
-    "title": "[10-15]广东石油化工学院2026年公开招聘辅导员（",
-    "city": "茂名市",
-    "school": "广东石油化工学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-10-15",
-    "source": "广东石油化工学院官网",
-    "sourceUrl": "https://site.gdupt.edu.cn/renshichu/info/1045/6428.htm",
-    "ownership": "公办",
-    "content": {
-      "intro": "广东石油化工学院2026年公开招聘辅导员（第二批）笔试成绩及资格复审环节相关事项公告-广东石油化工学院人力资源部 学校主页 网站首页 人事新闻 诚聘英才 机构职能 工作职责 师资队伍 名师风采 政策法规 综合政策 评审聘任 校人事政策 人才服务政策 下载专区 管理系统 信息系统 人才服务系统 师德师风 网站首页 > 通知公告 广东石油化工学院2026年公开招聘辅导员（第二批）笔试成绩及资格复审环节相关事项公告 作者： 时间：2026-1",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 472
+    "id": 628
   },
   {
     "title": "202610/152026年广州中医药大学科研助理招聘公告（第六批）",
@@ -15235,7 +20393,33 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 473
+    "id": 629
+  },
+  {
+    "title": "[10-15]广东石油化工学院2026年公开招聘辅导员（",
+    "city": "茂名市",
+    "school": "广东石油化工学院",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-10-15",
+    "source": "广东石油化工学院官网",
+    "sourceUrl": "https://site.gdupt.edu.cn/renshichu/info/1045/6428.htm",
+    "ownership": "公办",
+    "content": {
+      "intro": "广东石油化工学院2026年公开招聘辅导员（第二批）笔试成绩及资格复审环节相关事项公告-广东石油化工学院人力资源部 学校主页 网站首页 人事新闻 诚聘英才 机构职能 工作职责 师资队伍 名师风采 政策法规 综合政策 评审聘任 校人事政策 人才服务政策 下载专区 管理系统 信息系统 人才服务系统 师德师风 网站首页 > 通知公告 广东石油化工学院2026年公开招聘辅导员（第二批）笔试成绩及资格复审环节相关事项公告 作者： 时间：2026-1",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 630
   },
   {
     "title": "2026年校园招聘会报名啦-中山职业技术学院2027届毕业生校园招聘会邀请函",
@@ -15261,7 +20445,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 474
+    "id": 631
   },
   {
     "title": "深圳北理莫斯科大学2026年艺术中心招聘公告-2026/10/30截止2026-10-12",
@@ -15287,59 +20471,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 475
-  },
-  {
-    "title": "广东科技学院公开招聘心理咨询中心干事公告",
-    "city": "东莞市",
-    "school": "广东科技学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-10-09",
-    "source": "广东科技学院官网",
-    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20261009/6989.html?_d_id=8801bc395889af4560095fc393e686",
-    "ownership": "民办",
-    "content": {
-      "intro": "广东科技学院公开招聘心理咨询中心干事公告-广东科技学院—人事处 网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘心理咨询中心干事公告 发布日期：2026-10-09 字号：[ 大 中 小 ] 一、学校简介 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理学、经济学、文学、艺术学等多学科协调发展的全日制普通本科",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 476
-  },
-  {
-    "title": "广东科技学院公开招聘紧缺人才公告",
-    "city": "东莞市",
-    "school": "广东科技学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-10-08",
-    "source": "广东科技学院官网",
-    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260725/6983.html?_d_id=8805bc395889af55a8095fc393e686",
-    "ownership": "民办",
-    "content": {
-      "intro": "广东科技学院公开招聘紧缺人才公告-广东科技学院—人事处 网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘紧缺人才公告 发布日期：2026-10-08 字号：[ 大 中 小 ] 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理学、经济学、文学、艺术学等多学科协调发展的全日制普通本科院校，坐落于“粤港澳大湾区重要",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 477
+    "id": 632
   },
   {
     "title": "教务处工作人员招聘启事",
@@ -15365,7 +20497,65 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 478
+    "id": 633
+  },
+  {
+    "title": "广东科技学院公开招聘紧缺人才公告",
+    "city": "东莞市",
+    "school": "广东科技学院",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-10-08",
+    "source": "广东科技学院官网",
+    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260725/6983.html?_d_id=8850c6395889af55a8095fc393e686",
+    "ownership": "民办",
+    "content": {
+      "intro": "广东科技学院公开招聘紧缺人才公告-广东科技学院—人事处 网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘紧缺人才公告 发布日期：2026-10-08 字号：[ 大 中 小 ] 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理学、经济学、文学、艺术学等多学科协调发展的全日制普通本科院校，坐落于“粤港澳大湾区重要",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 634
+  },
+  {
+    "title": "广东创新科技职业学院高层次人才招聘启事",
+    "city": "东莞",
+    "school": "广东创新科技职业学院（民办）",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-09-30",
+    "source": "广东创新科技职业学院（民办）官网",
+    "sourceUrl": "http://www.gdcxxy.edu.cn/rsc/rczp/1j55lovgpi2va.shtml",
+    "content": {
+      "intro": "广东创新科技职业学院高层次人才招聘启事 作者： 0375 时间： 2026年09月30日 11:10:00 点击量： 广东创新科技职业学院高层次人才招聘启事 广东创新科技职业学院成立于2011年，是一所经广东省人民政府批准、教育部备案，由广东省教育厅主管的全日制普通高等职业院校。学校下设 信息工程学院、智能制造学院、建",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "岗位 专业 岗位职责 任职条件 校长办公室副主任 专业不限 协助主任开展各项工作；负责公文工作，协助主任落实学校的决议和计划；组织安排各类会议、学习及重要活动，协助主任做好来访接待安排、信访及对外联络等工作 本科及以上学历，副高职称优先；要求有高校相关工作经验，擅长公文写作者优先考虑；具有较强的沟通协调能力",
+      "conditions": [
+        "本科及以上学历，副高职称优先",
+        "本科及以上学历",
+        "本科及以上学历，副教授及以上职称"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "详见官方公告原文",
+      "contact": "邮箱 gdcxrsc@163.com"
+    },
+    "id": 635,
+    "ownership": "民办"
   },
   {
     "title": "广东外语外贸大学南国商学院2026年文化与传播学院招聘启事（急招）",
@@ -15397,39 +20587,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 020-22245459\n；邮箱 ngrsc2024@163.com"
     },
-    "id": 479
-  },
-  {
-    "title": "广东创新科技职业学院高层次人才招聘启事",
-    "city": "东莞",
-    "school": "广东创新科技职业学院（民办）",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "其他",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-09-30",
-    "source": "广东创新科技职业学院（民办）官网",
-    "sourceUrl": "http://www.gdcxxy.edu.cn/rsc/rczp/1j55lovgpi2va.shtml",
-    "content": {
-      "intro": "广东创新科技职业学院高层次人才招聘启事 作者： 0375 时间： 2026年09月30日 11:10:00 点击量： 广东创新科技职业学院高层次人才招聘启事 广东创新科技职业学院成立于2011年，是一所经广东省人民政府批准、教育部备案，由广东省教育厅主管的全日制普通高等职业院校。学校下设 信息工程学院、智能制造学院、建",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "岗位 专业 岗位职责 任职条件 校长办公室副主任 专业不限 协助主任开展各项工作；负责公文工作，协助主任落实学校的决议和计划；组织安排各类会议、学习及重要活动，协助主任做好来访接待安排、信访及对外联络等工作 本科及以上学历，副高职称优先；要求有高校相关工作经验，擅长公文写作者优先考虑；具有较强的沟通协调能力",
-      "conditions": [
-        "本科及以上学历，副高职称优先",
-        "本科及以上学历",
-        "本科及以上学历，副教授及以上职称"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "详见官方公告原文",
-      "contact": "邮箱 gdcxrsc@163.com"
-    },
-    "id": 480,
-    "ownership": "民办"
+    "id": 636
   },
   {
     "title": "​先进材料与技术研究院诚聘“青年百人计划”教师与博士后研究人员",
@@ -15462,7 +20620,7 @@ window.REAL_JOBS = [
       "signup": "格式发送至指定邮箱，邮件主题命名为：“应聘青百教师",
       "contact": "邮箱 xjcldzb@gdut.edu.cn"
     },
-    "id": 481,
+    "id": 637,
     "ownership": "公办"
   },
   {
@@ -15489,7 +20647,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 482
+    "id": 638
   },
   {
     "title": "惠州学院2026年公开招聘教学法、课程与教学论师资公告",
@@ -15518,7 +20676,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至；本次招聘实行邮件报名；详见各二级学院邮箱",
       "contact": "电话 0752-2529142\n、0752-2527273\n；邮箱 zhaopin@hzu.edu.cn"
     },
-    "id": 483,
+    "id": 639,
     "ownership": "公办"
   },
   {
@@ -15548,7 +20706,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至；随时接受报名，招满即止；招聘单位视报名情况每",
       "contact": "电话 0752-2529142、0752-2527273；邮箱 zhaopin@hzu.edu.dn"
     },
-    "id": 484,
+    "id": 640,
     "ownership": "公办"
   },
   {
@@ -15575,7 +20733,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 485
+    "id": 641
   },
   {
     "title": "深圳大学传播学院“百人计划”教授虞鑫团队博士后招聘",
@@ -15604,7 +20762,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 486,
+    "id": 642,
     "ownership": "公办"
   },
   {
@@ -15631,7 +20789,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 487
+    "id": 643
   },
   {
     "title": "深圳北理莫斯科大学2026年儿童青少年计算精神健康团队科研助理招聘公告-2026/10/15截止2026-09-21",
@@ -15657,7 +20815,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 488
+    "id": 644
   },
   {
     "title": "深圳北理莫斯科大学2026年人工智能研究院儿童青少年计算精神健康团队招聘公告-长期招聘2026-09-21",
@@ -15683,7 +20841,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 489
+    "id": 645
   },
   {
     "title": "深圳北理莫斯科大学2026年条件保障部招聘公告-2026/10/23截止2026-09-21",
@@ -15709,7 +20867,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 490
+    "id": 646
   },
   {
     "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第2号）",
@@ -15735,7 +20893,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 491
+    "id": 647
   },
   {
     "title": "计算机与软件学院科研项目助理招聘启事",
@@ -15761,7 +20919,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 492
+    "id": 648
   },
   {
     "title": "深圳北理莫斯科大学2026年俄语中心招聘公告-2026/10/15截止2026-09-16",
@@ -15787,7 +20945,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 493
+    "id": 649
   },
   {
     "title": "2027届毕业生校园招聘会安排",
@@ -15813,7 +20971,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 494
+    "id": 650
   },
   {
     "title": "2027届毕业生各专业招聘联系表",
@@ -15839,7 +20997,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 495
+    "id": 651
   },
   {
     "title": "2026年汕尾职业技术学院公开招聘专任教师公告",
@@ -15865,7 +21023,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 496
+    "id": 652
   },
   {
     "title": "韶关学院医学院附属医院2026年公开招聘医护人员",
@@ -15891,7 +21049,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 497
+    "id": 653
   },
   {
     "title": "肇庆学院2026年教学科研人员招聘公告",
@@ -15921,7 +21079,7 @@ window.REAL_JOBS = [
       "signup": "发送至应聘部门联系邮箱；详见上表）和人力资源部邮箱；应聘者提交的应聘信息和相关佐证材料务必真实可信，并与个人应聘报名表及简历一致，经查证弄虚作假者，将取消录用资格，由此引起的一切后果与法律责任由应聘者本人承担",
       "contact": "联系人 及电话；电话 0758-2752890；邮箱 rsc@zqu.edu.cn"
     },
-    "id": 498,
+    "id": 654,
     "ownership": "公办"
   },
   {
@@ -15953,7 +21111,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 0758-8387203\n；邮箱 rsk333@163.com；地址 广东省肇庆市高要区祈福大道广东理工学院"
     },
-    "id": 499,
+    "id": 655,
     "ownership": "民办"
   },
   {
@@ -15980,7 +21138,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 500
+    "id": 656
   },
   {
     "title": "人才招聘Careers",
@@ -16006,7 +21164,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 501
+    "id": 657
   },
   {
     "title": "专任教师招聘",
@@ -16032,7 +21190,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 502
+    "id": 658
   },
   {
     "title": "深圳大学化学与环境工程学院李加强课题组博士后招聘",
@@ -16061,7 +21219,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "邮箱 jiaqiang.li@szu.edu.cn"
     },
-    "id": 503,
+    "id": 659,
     "ownership": "公办"
   },
   {
@@ -16091,7 +21249,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 陶伍海；邮箱 taowh@szu.edu.cn；地址 深圳大学沧海校区致理楼"
     },
-    "id": 504,
+    "id": 660,
     "ownership": "公办"
   },
   {
@@ -16121,7 +21279,7 @@ window.REAL_JOBS = [
       "signup": "（流动站邮箱）",
       "contact": "联系人 刘老师；邮箱 szumgt_postdoc@126.com"
     },
-    "id": 505,
+    "id": 661,
     "ownership": "公办"
   },
   {
@@ -16148,7 +21306,37 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 506
+    "id": 662
+  },
+  {
+    "title": "广东理工学院2027年银龄教师招聘简章",
+    "city": "肇庆",
+    "school": "广东理工学院（民办）",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-09-09",
+    "source": "广东理工学院（民办）官网",
+    "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/4491.htm",
+    "content": {
+      "intro": "广东理工学院2027年银龄教师招聘简章 发布时间：2026年09月09日 浏览次数： 来源： 广东理工学院 2027年 银龄教师招聘简章 一、学校简介 广东理工学院是经国家教育部批准成立的全日制普通本科高等院校，坐落于粤港澳大湾区面积最大和最具潜力的重要节点城市肇庆市，经过 20多年的努力，学校办学规模不断扩大，办学实",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "学术委员会主任、专业带头人、专任教师 、 专职督导",
+      "conditions": [
+        "详见官方公告原文"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "请将简历以 “ 姓名 +专业+应聘岗位 ” 方式命名，发送至邮 箱 rsk333@163.com",
+      "contact": "联系人 张老师；电话 0758-8387203\n；邮箱 rsk333@163.com；地址 广东省肇庆市高要区祈福大道广东理工学院"
+    },
+    "id": 663,
+    "ownership": "民办"
   },
   {
     "title": "广州理工学院2026年秋季专任教师招聘公告",
@@ -16178,37 +21366,7 @@ window.REAL_JOBS = [
       "signup": "报名采用电子邮箱投递（仅限博士）或招聘系统投递简历，每位应聘者只可应聘一个岗位；1.电子邮箱：应聘者填写人才引进报名表（可在官网中获取下载），连同个人简历以及学历、职称证明等材料发送至学校人事处电子邮箱rsc@gzist.edu.cn，邮件标题请注明：博士专任教师应聘+岗位代码+姓名；2.招聘系统：应聘者登录广州理工学院招聘系统进行报名和简历投递（招聘系统网址https://zp.gzist.edu.cn/）",
       "contact": "电话 020-87478493\n；邮箱 职称证明等材料发送至学校人事处电子邮箱rsc@gzist.edu.cn"
     },
-    "id": 507,
-    "ownership": "民办"
-  },
-  {
-    "title": "广东理工学院2027年银龄教师招聘简章",
-    "city": "肇庆",
-    "school": "广东理工学院（民办）",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "其他",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-09-09",
-    "source": "广东理工学院（民办）官网",
-    "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/4491.htm",
-    "content": {
-      "intro": "广东理工学院2027年银龄教师招聘简章 发布时间：2026年09月09日 浏览次数： 来源： 广东理工学院 2027年 银龄教师招聘简章 一、学校简介 广东理工学院是经国家教育部批准成立的全日制普通本科高等院校，坐落于粤港澳大湾区面积最大和最具潜力的重要节点城市肇庆市，经过 20多年的努力，学校办学规模不断扩大，办学实",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "学术委员会主任、专业带头人、专任教师 、 专职督导",
-      "conditions": [
-        "详见官方公告原文"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "请将简历以 “ 姓名 +专业+应聘岗位 ” 方式命名，发送至邮 箱 rsk333@163.com",
-      "contact": "联系人 张老师；电话 0758-8387203\n；邮箱 rsk333@163.com；地址 广东省肇庆市高要区祈福大道广东理工学院"
-    },
-    "id": 508,
+    "id": 664,
     "ownership": "民办"
   },
   {
@@ -16235,7 +21393,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 509
+    "id": 665
   },
   {
     "title": "广东科贸职业学院2026年高层次人才招聘考试公告（第三批）",
@@ -16261,7 +21419,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 510
+    "id": 666
   },
   {
     "title": "广州城建职业学院2026年秋季专任教师招聘公告",
@@ -16287,7 +21445,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 511
+    "id": 667
   },
   {
     "title": "广州城建职业学院智能制造与汽车学院专任教师招聘公告",
@@ -16313,7 +21471,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 512
+    "id": 668
   },
   {
     "title": "关于韶关市教育局直属学校2026年面向社会公开招聘教职员初检结论的公告",
@@ -16343,7 +21501,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 513
+    "id": 669
   },
   {
     "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第1号）",
@@ -16369,7 +21527,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 514
+    "id": 670
   },
   {
     "title": "肇庆学院2026年7月招聘科研助理公示",
@@ -16398,7 +21556,7 @@ window.REAL_JOBS = [
       "signup": "月招聘科研助理公告》，经公开报名、资格审核、面试、考察等工作程序，",
       "contact": "电话 0758－2752102\n；邮箱 rsk316@zqu.edu.cn"
     },
-    "id": 515,
+    "id": 671,
     "ownership": "公办"
   },
   {
@@ -16432,7 +21590,7 @@ window.REAL_JOBS = [
       "signup": "有意者请扫描以下二维码填写报名表，并把个人简历及相关证件（身份证、教师资格证、学历、学位证、职称证（如有）、获奖证书或其他岗位所需证件等）应聘材料电子文件压缩整理，以“姓名+应聘岗位”的形式命名并发送至邮箱gdcjxxoffice@163.com；收到应聘者报名表、应聘资料后，学校人事部门将组织有关部门进行资格初审，符合条件的，资格审核结果将通过电话、短信和邮件等形式通知应聘人员",
       "contact": "联系人 李老师；电话 0757-85551534；邮箱 的形式命名并发送至邮箱gdcjxxoffice@163.com"
     },
-    "id": 516,
+    "id": 672,
     "ownership": "公办"
   },
   {
@@ -16459,33 +21617,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 517
-  },
-  {
-    "title": "广州华立科技职业学院2026年招聘启事（二）",
-    "city": "广州市",
-    "school": "广州华立科技职业学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-08-26",
-    "source": "广州华立科技职业学院官网",
-    "sourceUrl": "https://www.gzhlxy.edu.cn/csrs/2026/0826/c751a75961/page.htm",
-    "ownership": "民办",
-    "content": {
-      "intro": "广州华立科技职业学院2026年招聘启事（二） 人事处 首 页 新闻动态 人才招聘 通知公告 资料信息 广州华立科技职业学院2026年招聘启事（二） 发布者：人事处 发布时间：2026-08-26 浏览次数： 10 一、学校 概况 广州华立科技职业学院是经广东省人民政府批准、国家教育部备案的全日制普通高职院校。学校始建于 1999 年 6 月，至今已有 27 年办学历史。现设有马克思主义学院、电力与智能制造学院、计算机信息工程学院、城建学",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 518
+    "id": 673
   },
   {
     "title": "广州城建职业学院清远校区心理教师招聘公告",
@@ -16511,7 +21643,33 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 519
+    "id": 674
+  },
+  {
+    "title": "广州华立科技职业学院2026年招聘启事（二）",
+    "city": "广州市",
+    "school": "广州华立科技职业学院",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-08-26",
+    "source": "广州华立科技职业学院官网",
+    "sourceUrl": "https://www.gzhlxy.edu.cn/csrs/2026/0826/c751a75961/page.htm",
+    "ownership": "民办",
+    "content": {
+      "intro": "广州华立科技职业学院2026年招聘启事（二） 人事处 首 页 新闻动态 人才招聘 通知公告 资料信息 广州华立科技职业学院2026年招聘启事（二） 发布者：人事处 发布时间：2026-08-26 浏览次数： 10 一、学校 概况 广州华立科技职业学院是经广东省人民政府批准、国家教育部备案的全日制普通高职院校。学校始建于 1999 年 6 月，至今已有 27 年办学历史。现设有马克思主义学院、电力与智能制造学院、计算机信息工程学院、城建学",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 675
   },
   {
     "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
@@ -16543,7 +21701,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至2026年12月31日截止；首批报名时间为2026年9月1日9:00至2026年9月30日16:00；学校视报名情况每1-2个月组织1次直接业务考核，剩余岗位动态情况将在学校网站发布",
       "contact": "电话 0751-6502208、0751-6501708"
     },
-    "id": 520
+    "id": 676
   },
   {
     "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告（第四批）",
@@ -16569,7 +21727,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 521
+    "id": 677
   },
   {
     "title": "人才招聘与师德师风建",
@@ -16595,7 +21753,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 522
+    "id": 678
   },
   {
     "title": "广东建设职业技术学院2026年公开招聘博士研究生公告",
@@ -16625,7 +21783,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至2026年11月30日截止；首批报名时间为2026年8月25日0:00至2026年9月30日23:59；后续采取滚动招聘方式，随时接受报名，招满为止",
       "contact": "电话 0763-3919523、0763-3919556；邮箱 rsc@gdcvi.edu.cn"
     },
-    "id": 523
+    "id": 679
   },
   {
     "title": "广州体育学院2026年第三批公开招聘非事业编制工作人员公告",
@@ -16651,7 +21809,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 524
+    "id": 680
   },
   {
     "title": "广州城建职业学院学生处（清远校区）职员招聘公告",
@@ -16677,33 +21835,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 525
-  },
-  {
-    "title": "广州华立学院2026-2027学年专任教师招聘启事",
-    "city": "广州市",
-    "school": "广州华立学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-08-14",
-    "source": "广州华立学院官网",
-    "sourceUrl": "https://www.hualixy.edu.cn/xsh__rczp1/rczp/content_82478",
-    "ownership": "民办",
-    "content": {
-      "intro": "广州华立学院2026-2027学年专任教师招聘启事_人才招聘_广州华立学院 全站群 × 搜索过于频繁，请输入验证码 确定 人才招聘 您的位置： 首页 > 人才招聘 广州华立学院2026-2027学年专任教师招聘启事 发布时间：2026-08-14 09:09:42 浏览次数： 次 【字体： 小 大 】 广州华立学院 2026 -2027学 年 专任教师招聘启事 学校简介 广州华立学院（原广东工业大学华立学院）建于1999年，2004年经",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 526
+    "id": 681
   },
   {
     "title": "广东交通职业技术学院2026年第二批公开招聘事业单位工作人员公告",
@@ -16732,7 +21864,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘实行网络报名；应聘人员请于2026年8月19日0:00至2026年8月27日23:59登录系统报名（网址：；请在报名系统内相应页面提交岗位所需要的有关材料",
       "contact": "电话 020-37854126、020－87025345；邮箱 hrd@gdcp.edu.cn"
     },
-    "id": 527
+    "id": 682
   },
   {
     "title": "202608/06广州中医药大学2026年第二批公开招聘工作人员公告",
@@ -16758,7 +21890,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 528
+    "id": 683
   },
   {
     "title": "广东药科大学2026年公开招聘专业技术人员公告",
@@ -16787,7 +21919,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至2026年12月31日截止；首批报名时间为2026年8月14日9:00至2026年8月21日17:00；后续采取滚动招聘方式，随时接受报名，招满即止",
       "contact": "电话 020-39352071、020-39352133；邮箱 rsc2071@126.com"
     },
-    "id": 529
+    "id": 684
   },
   {
     "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告（第三批）",
@@ -16813,7 +21945,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 530
+    "id": 685
   }
 ];
 if (window.REAL_JOBS && window.REAL_JOBS.length) { MOCK_JOBS = window.REAL_JOBS; }
