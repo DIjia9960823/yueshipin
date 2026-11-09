@@ -295,6 +295,26 @@ ul { list-style: none; }
 .c-head strong { color: var(--primary); font-size: 15px; }
 .c-fav { text-align: center; }
 
+/* ===== 公告小标签（正式编 / 即将截止 / 民办）===== */
+.job-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0 0 4px;
+}
+.tag {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.65;
+  white-space: nowrap;
+}
+.tag-formal { background: var(--success-bg); color: var(--success); }
+.tag-soon { background: var(--warning-bg); color: var(--warning); }
+.tag-private { background: #ede9fe; color: #6d28d9; }
+
 /* Empty state */
 .empty-state {
   padding: 72px 20px;
