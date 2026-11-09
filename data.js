@@ -1,6 +1,6 @@
 // 本文件由 crawler/crawler.py 自动生成，请勿手工修改
-// 生成时间：2026-11-09 22:44:57   共 685 条
-window.DATA_UPDATED = "2026-11-09 22:44";
+// 生成时间：2026-11-09 23:27:01   共 699 条
+window.DATA_UPDATED = "2026-11-09 23:27";
 window.REAL_JOBS = [
   {
     "title": "2026年广州市教育系统校园招聘“优才计划”公告",
@@ -65,70 +65,6 @@ window.REAL_JOBS = [
     "ownership": "公办"
   },
   {
-    "title": "深圳大学心理学院徐敏课题组诚聘科研助理1名",
-    "city": "高校",
-    "school": "深圳大学",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "其他",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "深圳大学官网",
-    "sourceUrl": "https://hr.szu.edu.cn/info/1016/25381.htm",
-    "content": {
-      "intro": "深圳大学心理学院徐敏课题组诚聘科研助理1名 发布时间：2026.11.09 发布者： 点击数：0 一、简介 1 、院所介绍 深圳大学心理学院现有基础心理学系、应用心理学系、脑疾病与认知科学研究中心，设有心理学、脑与认知科学等专业。学院秉承 “ 明心致理，笃行致远 ” 院训，锐意改革，紧密对接国家 “ 脑计划 ” 和民生",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "国（境）内外较高水平大学或研究机构本科或硕士毕业",
-        "具有良好的学术道德和严谨的科学态度，具有良好的沟通和人际交往能力，身体健康",
-        "具有心理学实验研究经验者优先",
-        "待遇 工资实行年薪制，具体工资待遇根据学历、研究经历等确定，由深圳大学人力资源部按月发放"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "注册，选择专职研究人员招聘类型进行简历投递",
-      "contact": "详见官方公告原文（具体信息以官方发布为准）"
-    },
-    "id": 3,
-    "ownership": "公办"
-  },
-  {
-    "title": "专职副研究员招聘公告-深圳大学经济学院陈锦濠团队 Recruitment of Full-Time Research Associate at College of Economics, Shenzhen University, Research Team of Tommy Chan",
-    "city": "高校",
-    "school": "深圳大学",
-    "level": "直属学校",
-    "stage": "高校",
-    "category": "其他",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "硕士及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "深圳大学官网",
-    "sourceUrl": "https://hr.szu.edu.cn/info/1016/25391.htm",
-    "content": {
-      "intro": "专职副研究员招聘公告-深圳大学经济学院陈锦濠团队 Recruitment of Full-Time Research Associate at College of Economics, Shenzhen University, Research Team of Tommy Chan 发布时间：2026.11.09 发",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "具有经济学、管理学（信息系统、电子商务、运营管理等）或数据科学等相关专业博士研究生学历及博士学位",
-        "具备较强的独立科研能力，在国内外重要学术期刊发表过专业论文（或具备高水平论文主笔产出潜力）"
-      ],
-      "process": "详见官方公告原文",
-      "signup": "欢迎申请人在投递前查阅陈老师学术档案与代表作(ORCID:0000-0001-9930-8897;ScopusAuthorID:56202307300)，深入了解团队的研究脉络与学术风格；申请程序与投递方式；注册，选择专职研究人员招聘类型进行简历投递",
-      "contact": "邮箱 tommy.chan@szu.edu.cn"
-    },
-    "id": 4,
-    "ownership": "公办"
-  },
-  {
     "title": "南方医科大学2026年科研助理岗位招聘公告",
     "city": "高校",
     "school": "南方医科大学",
@@ -155,7 +91,7 @@ window.REAL_JOBS = [
       "signup": "请将个人简历和相关证明材料发送至 附件中对应岗位的 邮箱 （标题请备注：科研助理 + 报名的部门名称）。",
       "contact": "电话 020-61648120、020-61648495"
     },
-    "id": 5,
+    "id": 3,
     "ownership": "公办"
   },
   {
@@ -186,7 +122,7 @@ window.REAL_JOBS = [
       "signup": "报名方式：采取推荐与公开招聘相结合的形式，应聘者可以投个人简历至；，或者到现场报名，报名地址：广州市白云区沙太南路",
       "contact": "联系人 朱老师；电话 18189098188；地址 广州市白云区沙太南路"
     },
-    "id": 6,
+    "id": 4,
     "ownership": "公办"
   },
   {
@@ -217,7 +153,7 @@ window.REAL_JOBS = [
       "signup": "报名方式：报名人员将个人简历发送至邮箱",
       "contact": "联系人 韩老师，联系方式；邮箱 1714685859@qq.com"
     },
-    "id": 7,
+    "id": 5,
     "ownership": "公办"
   },
   {
@@ -247,7 +183,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 王小康；电话 020-61647385\n；邮箱 857150668@qq.com"
     },
-    "id": 8,
+    "id": 6,
     "ownership": "公办"
   },
   {
@@ -277,7 +213,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 王小康；电话 020-61647385\n；邮箱 857150668@qq.com"
     },
-    "id": 9,
+    "id": 7,
     "ownership": "公办"
   },
   {
@@ -306,6 +242,70 @@ window.REAL_JOBS = [
       "process": "详见官方公告原文",
       "signup": "现将该通知发给你们，请做好宣传和报名工作",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
+    },
+    "id": 8,
+    "ownership": "公办"
+  },
+  {
+    "title": "深圳大学心理学院徐敏课题组诚聘科研助理1名",
+    "city": "高校",
+    "school": "深圳大学",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "深圳大学官网",
+    "sourceUrl": "https://hr.szu.edu.cn/info/1016/25381.htm",
+    "content": {
+      "intro": "深圳大学心理学院徐敏课题组诚聘科研助理1名 发布时间：2026.11.09 发布者： 点击数：0 一、简介 1 、院所介绍 深圳大学心理学院现有基础心理学系、应用心理学系、脑疾病与认知科学研究中心，设有心理学、脑与认知科学等专业。学院秉承 “ 明心致理，笃行致远 ” 院训，锐意改革，紧密对接国家 “ 脑计划 ” 和民生",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "国（境）内外较高水平大学或研究机构本科或硕士毕业",
+        "具有良好的学术道德和严谨的科学态度，具有良好的沟通和人际交往能力，身体健康",
+        "具有心理学实验研究经验者优先",
+        "待遇 工资实行年薪制，具体工资待遇根据学历、研究经历等确定，由深圳大学人力资源部按月发放"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "注册，选择专职研究人员招聘类型进行简历投递",
+      "contact": "详见官方公告原文（具体信息以官方发布为准）"
+    },
+    "id": 9,
+    "ownership": "公办"
+  },
+  {
+    "title": "专职副研究员招聘公告-深圳大学经济学院陈锦濠团队 Recruitment of Full-Time Research Associate at College of Economics, Shenzhen University, Research Team of Tommy Chan",
+    "city": "高校",
+    "school": "深圳大学",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "硕士及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "深圳大学官网",
+    "sourceUrl": "https://hr.szu.edu.cn/info/1016/25391.htm",
+    "content": {
+      "intro": "专职副研究员招聘公告-深圳大学经济学院陈锦濠团队 Recruitment of Full-Time Research Associate at College of Economics, Shenzhen University, Research Team of Tommy Chan 发布时间：2026.11.09 发",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "具有经济学、管理学（信息系统、电子商务、运营管理等）或数据科学等相关专业博士研究生学历及博士学位",
+        "具备较强的独立科研能力，在国内外重要学术期刊发表过专业论文（或具备高水平论文主笔产出潜力）"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "欢迎申请人在投递前查阅陈老师学术档案与代表作(ORCID:0000-0001-9930-8897;ScopusAuthorID:56202307300)，深入了解团队的研究脉络与学术风格；申请程序与投递方式；注册，选择专职研究人员招聘类型进行简历投递",
+      "contact": "邮箱 tommy.chan@szu.edu.cn"
     },
     "id": 10,
     "ownership": "公办"
@@ -494,37 +494,6 @@ window.REAL_JOBS = [
     "ownership": "民办"
   },
   {
-    "title": "广东建设职业技术学院2026年校编（非事业编制）辅导员招聘公告",
-    "city": "广州",
-    "school": "广东建设职业技术学院",
-    "level": "公告",
-    "stage": "高校",
-    "category": "其他",
-    "pendingReview": true,
-    "establishment": "合同制",
-    "headcount": 10,
-    "education": "详见原文",
-    "deadline": "2026-11-20",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242392.html",
-    "content": {
-      "intro": "广东建设职业技术学院是一所以建筑为特色，集理、工、商、贸为一体的综合性省属公办高职院校，是建筑业高素质技术技能人才培养的主要基地，被誉为“现代鲁班摇篮”，是广东省省域高水平高等职业院校建设单位、广东省党建工作示范高校、广东省课程思政示范高职院校、广东省教育评价改革示范校、全国现代学徒制试点单位。我校目前有广州、清远两个",
-      "targets": [
-        "2026年应届毕业生（非在职）和社会上具有国家承认学历的人员。"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "报名 → 资格审查 → 笔试 → 面试 → 体检 → 考察 → 公示 → 聘用",
-      "signup": "1.《广东省事业单位公开招聘人员报名表》（在报名系统填报后自动生成，导出签名后提交 PDF扫描件）；",
-      "contact": "电话 0763-3919523、0763-3919526；邮箱 gdcvizp2022@163.com"
-    },
-    "id": 17,
-    "ownership": "公办"
-  },
-  {
     "title": "2026年清远市清城区教育系统公开招聘编外教师公告",
     "city": "清远",
     "school": "清远市清城区教育系统",
@@ -552,7 +521,71 @@ window.REAL_JOBS = [
       "signup": "报名首日前取得国家承认的学历学位证书及符合岗位条件的人员；本条所规定处分期限的计算截至报名首日；年龄时间点的计算截至报名首日",
       "contact": "电话 0763-3333000\n\n\n\n"
     },
-    "id": 18
+    "id": 17
+  },
+  {
+    "title": "广东建设职业技术学院2026年校编（非事业编制）辅导员招聘公告",
+    "city": "广州",
+    "school": "广东建设职业技术学院",
+    "level": "公告",
+    "stage": "高校",
+    "category": "其他",
+    "pendingReview": true,
+    "establishment": "合同制",
+    "headcount": 10,
+    "education": "详见原文",
+    "deadline": "2026-11-20",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242392.html",
+    "content": {
+      "intro": "广东建设职业技术学院是一所以建筑为特色，集理、工、商、贸为一体的综合性省属公办高职院校，是建筑业高素质技术技能人才培养的主要基地，被誉为“现代鲁班摇篮”，是广东省省域高水平高等职业院校建设单位、广东省党建工作示范高校、广东省课程思政示范高职院校、广东省教育评价改革示范校、全国现代学徒制试点单位。我校目前有广州、清远两个",
+      "targets": [
+        "2026年应届毕业生（非在职）和社会上具有国家承认学历的人员。"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见原文"
+      ],
+      "process": "报名 → 资格审查 → 笔试 → 面试 → 体检 → 考察 → 公示 → 聘用",
+      "signup": "1.《广东省事业单位公开招聘人员报名表》（在报名系统填报后自动生成，导出签名后提交 PDF扫描件）；",
+      "contact": "电话 0763-3919523、0763-3919526；邮箱 gdcvizp2022@163.com"
+    },
+    "id": 18,
+    "ownership": "公办"
+  },
+  {
+    "title": "初中化学教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_647439.html",
+    "content": {
+      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中化学教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 19,
+    "ownership": "民办"
   },
   {
     "title": "11月校招宣讲会—高中教师（语数英物化）(应届生)",
@@ -584,7 +617,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 19,
+    "id": 20,
     "ownership": "民办"
   },
   {
@@ -617,7 +650,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 20,
+    "id": 21,
     "ownership": "民办"
   },
   {
@@ -650,7 +683,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 21,
+    "id": 22,
     "ownership": "民办"
   },
   {
@@ -683,7 +716,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 22,
+    "id": 23,
     "ownership": "民办"
   },
   {
@@ -716,7 +749,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 23
+    "id": 24
   },
   {
     "title": "初中物理教师",
@@ -748,7 +781,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 24,
+    "id": 25,
     "ownership": "民办"
   },
   {
@@ -781,7 +814,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 25,
+    "id": 26,
     "ownership": "民办"
   },
   {
@@ -814,7 +847,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 26
+    "id": 27
   },
   {
     "title": "小学语文教师(需当班主任)",
@@ -846,7 +879,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 27,
+    "id": 28,
     "ownership": "民办"
   },
   {
@@ -879,7 +912,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 28,
+    "id": 29,
     "ownership": "民办"
   },
   {
@@ -912,7 +945,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 29,
+    "id": 30,
     "ownership": "民办"
   },
   {
@@ -945,7 +978,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 30
+    "id": 31
   },
   {
     "title": "高中化学教师(骨干教师)",
@@ -977,7 +1010,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 31,
+    "id": 32,
     "ownership": "民办"
   },
   {
@@ -1010,7 +1043,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 32,
+    "id": 33,
     "ownership": "民办"
   },
   {
@@ -1043,7 +1076,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 33,
+    "id": 34,
     "ownership": "民办"
   },
   {
@@ -1076,7 +1109,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 34
+    "id": 35
   },
   {
     "title": "高中物理教师",
@@ -1108,7 +1141,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 35,
+    "id": 36,
     "ownership": "民办"
   },
   {
@@ -1141,7 +1174,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 36,
+    "id": 37,
     "ownership": "民办"
   },
   {
@@ -1174,7 +1207,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 37
+    "id": 38
   },
   {
     "title": "化学教师",
@@ -1206,7 +1239,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 38
+    "id": 39
   },
   {
     "title": "英语教师（DSE）",
@@ -1238,7 +1271,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 39
+    "id": 40
   },
   {
     "title": "高中语文教师(骨干教师)",
@@ -1270,7 +1303,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 40,
+    "id": 41,
     "ownership": "民办"
   },
   {
@@ -1303,7 +1336,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 41,
+    "id": 42,
     "ownership": "民办"
   },
   {
@@ -1336,7 +1369,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 42,
+    "id": 43,
     "ownership": "民办"
   },
   {
@@ -1369,7 +1402,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 43,
+    "id": 44,
     "ownership": "民办"
   },
   {
@@ -1402,40 +1435,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 44
-  },
-  {
-    "title": "职高数学教师",
-    "city": "惠州",
-    "school": "惠州市榕城职业技术学校",
-    "level": "万行职位",
-    "stage": "高职",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_752569.html",
-    "content": {
-      "intro": "薪资 6-9K/月；地点 惠州-博罗县；要求 本科、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "职高数学教师",
-      "conditions": [
-        "学历 本科",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 45,
-    "ownership": "民办"
+    "id": 45
   },
   {
     "title": "小学语文学科带头人(学科带头人)",
@@ -2389,6 +2389,534 @@ window.REAL_JOBS = [
     "ownership": "民办"
   },
   {
+    "title": "初中历史教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_636644.html",
+    "content": {
+      "intro": "薪资 5-7.5K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中历史教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 75,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中地理教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_647444.html",
+    "content": {
+      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中地理教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 76,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学数学教师（急聘，包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595839.html",
+    "content": {
+      "intro": "薪资 4.5-6K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学数学教师（急聘，包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 77,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学语文教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595838.html",
+    "content": {
+      "intro": "薪资 4.5-6K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学语文教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 78,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中体育教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_647448.html",
+    "content": {
+      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中体育教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 79,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中美术教师(青年教师)",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_747505.html",
+    "content": {
+      "intro": "薪资 4-6K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中美术教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 80,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中信息技术教师(青年教师)",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_746659.html",
+    "content": {
+      "intro": "薪资 4.5-6K/月；地点 茂名-高州市；要求 大专、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中信息技术教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 81,
+    "ownership": "民办"
+  },
+  {
+    "title": "舞蹈教师(青年教师)",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_749633.html",
+    "content": {
+      "intro": "薪资 4.5-6K/月；地点 茂名-高州市；要求 大专、经验不限。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "舞蹈教师(青年教师)",
+      "conditions": [
+        "学历 大专",
+        "经验 经验不限"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 82,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中政治教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595848.html",
+    "content": {
+      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中政治教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 83,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学英语教师（急聘，包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595841.html",
+    "content": {
+      "intro": "薪资 4.5-6K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学英语教师（急聘，包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 84,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学美术教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_636670.html",
+    "content": {
+      "intro": "薪资 4-6K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学美术教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 85,
+    "ownership": "民办"
+  },
+  {
+    "title": "小学体育教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_636671.html",
+    "content": {
+      "intro": "薪资 4-6K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "小学体育教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 86,
+    "ownership": "民办"
+  },
+  {
+    "title": "音乐教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中小学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595842.html",
+    "content": {
+      "intro": "薪资 4-6K/月；地点 茂名-高州市；要求 大专、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "音乐教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 87,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中数学教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_595845.html",
+    "content": {
+      "intro": "薪资 6-8K/月；地点 茂名-高州市；要求 大专、4年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中数学教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 4年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 88,
+    "ownership": "民办"
+  },
+  {
+    "title": "初中物理教师（包食宿）",
+    "city": "茂名",
+    "school": "高州市黄冈实验学校",
+    "level": "万行职位",
+    "stage": "中学",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "大专及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_647438.html",
+    "content": {
+      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、2年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "初中物理教师（包食宿）",
+      "conditions": [
+        "学历 大专",
+        "经验 2年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 89,
+    "ownership": "民办"
+  },
+  {
+    "title": "职高数学教师",
+    "city": "惠州",
+    "school": "惠州市榕城职业技术学校",
+    "level": "万行职位",
+    "stage": "高职",
+    "category": "万行职位",
+    "isPrivate": true,
+    "pendingReview": true,
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-11-09",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs_view_752569.html",
+    "content": {
+      "intro": "薪资 6-9K/月；地点 惠州-博罗县；要求 本科、1年以上。详情请点击原文查看。",
+      "targets": [
+        "以职位原文为准"
+      ],
+      "positions": "职高数学教师",
+      "conditions": [
+        "学历 本科",
+        "经验 1年以上"
+      ],
+      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
+      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
+      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
+    },
+    "id": 90,
+    "ownership": "民办"
+  },
+  {
     "title": "初中英语教师（急聘，包食宿）",
     "city": "茂名",
     "school": "高州市黄冈实验学校",
@@ -2418,7 +2946,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 75,
+    "id": 91,
     "ownership": "民办"
   },
   {
@@ -2451,40 +2979,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 76,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中化学教师（包食宿）",
-    "city": "茂名",
-    "school": "高州市黄冈实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "大专及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_647439.html",
-    "content": {
-      "intro": "薪资 5-8K/月；地点 茂名-高州市；要求 大专、2年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中化学教师（包食宿）",
-      "conditions": [
-        "学历 大专",
-        "经验 2年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 77,
+    "id": 92,
     "ownership": "民办"
   },
   {
@@ -2517,7 +3012,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 78,
+    "id": 93,
     "ownership": "民办"
   },
   {
@@ -2550,7 +3045,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 79,
+    "id": 94,
     "ownership": "民办"
   },
   {
@@ -2583,7 +3078,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 80,
+    "id": 95,
     "ownership": "民办"
   },
   {
@@ -2616,7 +3111,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 81,
+    "id": 96,
     "ownership": "民办"
   },
   {
@@ -2649,7 +3144,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 82,
+    "id": 97,
     "ownership": "民办"
   },
   {
@@ -2682,7 +3177,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 83,
+    "id": 98,
     "ownership": "民办"
   },
   {
@@ -2715,7 +3210,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 84,
+    "id": 99,
     "ownership": "民办"
   },
   {
@@ -2748,7 +3243,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 85,
+    "id": 100,
     "ownership": "民办"
   },
   {
@@ -2781,7 +3276,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 86,
+    "id": 101,
     "ownership": "民办"
   },
   {
@@ -2814,7 +3309,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 87,
+    "id": 102,
     "ownership": "民办"
   },
   {
@@ -2847,40 +3342,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 88,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中信息技术教师(青年教师)",
-    "city": "揭阳",
-    "school": "普宁市红领巾实验学校",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "大专及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_814969.html",
-    "content": {
-      "intro": "薪资 8-10K/月；地点 揭阳-普宁市；要求 大专、1年以上。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中信息技术教师(青年教师)",
-      "conditions": [
-        "学历 大专",
-        "经验 1年以上"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 89,
+    "id": 103,
     "ownership": "民办"
   },
   {
@@ -2913,7 +3375,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 90,
+    "id": 104,
     "ownership": "民办"
   },
   {
@@ -2945,7 +3407,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 91,
+    "id": 105,
     "ownership": "民办"
   },
   {
@@ -2978,7 +3440,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 92,
+    "id": 106,
     "ownership": "民办"
   },
   {
@@ -3011,7 +3473,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 93,
+    "id": 107,
     "ownership": "民办"
   },
   {
@@ -3044,7 +3506,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 94,
+    "id": 108,
     "ownership": "民办"
   },
   {
@@ -3077,7 +3539,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 95,
+    "id": 109,
     "ownership": "民办"
   },
   {
@@ -3110,7 +3572,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 96,
+    "id": 110,
     "ownership": "民办"
   },
   {
@@ -3143,7 +3605,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 97,
+    "id": 111,
     "ownership": "民办"
   },
   {
@@ -3176,7 +3638,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 98,
+    "id": 112,
     "ownership": "民办"
   },
   {
@@ -3209,7 +3671,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 99,
+    "id": 113,
     "ownership": "民办"
   },
   {
@@ -3242,7 +3704,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 100,
+    "id": 114,
     "ownership": "民办"
   },
   {
@@ -3275,7 +3737,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 101,
+    "id": 115,
     "ownership": "民办"
   },
   {
@@ -3308,7 +3770,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 102,
+    "id": 116,
     "ownership": "民办"
   },
   {
@@ -3341,7 +3803,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 103,
+    "id": 117,
     "ownership": "民办"
   },
   {
@@ -3374,7 +3836,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 104,
+    "id": 118,
     "ownership": "民办"
   },
   {
@@ -3407,7 +3869,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 105,
+    "id": 119,
     "ownership": "民办"
   },
   {
@@ -3440,7 +3902,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 106,
+    "id": 120,
     "ownership": "民办"
   },
   {
@@ -3473,7 +3935,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 107,
+    "id": 121,
     "ownership": "民办"
   },
   {
@@ -3506,7 +3968,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 108,
+    "id": 122,
     "ownership": "民办"
   },
   {
@@ -3539,7 +4001,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 109,
+    "id": 123,
     "ownership": "民办"
   },
   {
@@ -3572,7 +4034,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 110,
+    "id": 124,
     "ownership": "民办"
   },
   {
@@ -3605,7 +4067,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 111,
+    "id": 125,
     "ownership": "民办"
   },
   {
@@ -3638,7 +4100,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 112,
+    "id": 126,
     "ownership": "民办"
   },
   {
@@ -3671,7 +4133,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 113,
+    "id": 127,
     "ownership": "民办"
   },
   {
@@ -3704,7 +4166,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 114,
+    "id": 128,
     "ownership": "民办"
   },
   {
@@ -3737,7 +4199,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 115,
+    "id": 129,
     "ownership": "民办"
   },
   {
@@ -3770,7 +4232,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 116,
+    "id": 130,
     "ownership": "民办"
   },
   {
@@ -3803,7 +4265,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 117,
+    "id": 131,
     "ownership": "民办"
   },
   {
@@ -3836,7 +4298,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 118,
+    "id": 132,
     "ownership": "民办"
   },
   {
@@ -3869,7 +4331,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 119,
+    "id": 133,
     "ownership": "民办"
   },
   {
@@ -3902,7 +4364,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 120,
+    "id": 134,
     "ownership": "民办"
   },
   {
@@ -3935,7 +4397,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 121,
+    "id": 135,
     "ownership": "民办"
   },
   {
@@ -3968,7 +4430,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 122,
+    "id": 136,
     "ownership": "民办"
   },
   {
@@ -4001,7 +4463,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 123,
+    "id": 137,
     "ownership": "民办"
   },
   {
@@ -4034,7 +4496,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 124,
+    "id": 138,
     "ownership": "民办"
   },
   {
@@ -4066,7 +4528,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 125,
+    "id": 139,
     "ownership": "民办"
   },
   {
@@ -4099,7 +4561,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 126,
+    "id": 140,
     "ownership": "民办"
   },
   {
@@ -4132,7 +4594,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 127,
+    "id": 141,
     "ownership": "民办"
   },
   {
@@ -4165,7 +4627,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 128,
+    "id": 142,
     "ownership": "民办"
   },
   {
@@ -4198,7 +4660,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 129,
+    "id": 143,
     "ownership": "民办"
   },
   {
@@ -4231,7 +4693,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 130,
+    "id": 144,
     "ownership": "民办"
   },
   {
@@ -4264,7 +4726,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 131,
+    "id": 145,
     "ownership": "民办"
   },
   {
@@ -4297,7 +4759,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 132,
+    "id": 146,
     "ownership": "民办"
   },
   {
@@ -4330,7 +4792,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 133,
+    "id": 147,
     "ownership": "民办"
   },
   {
@@ -4363,7 +4825,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 134,
+    "id": 148,
     "ownership": "民办"
   },
   {
@@ -4396,7 +4858,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 135,
+    "id": 149,
     "ownership": "民办"
   },
   {
@@ -4429,7 +4891,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 136,
+    "id": 150,
     "ownership": "民办"
   },
   {
@@ -4462,7 +4924,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 137,
+    "id": 151,
     "ownership": "民办"
   },
   {
@@ -4495,7 +4957,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 138,
+    "id": 152,
     "ownership": "民办"
   },
   {
@@ -4528,7 +4990,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 139,
+    "id": 153,
     "ownership": "民办"
   },
   {
@@ -4561,7 +5023,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 140,
+    "id": 154,
     "ownership": "民办"
   },
   {
@@ -4594,7 +5056,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 141,
+    "id": 155,
     "ownership": "民办"
   },
   {
@@ -4627,7 +5089,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 142,
+    "id": 156,
     "ownership": "民办"
   },
   {
@@ -4660,7 +5122,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 143,
+    "id": 157,
     "ownership": "民办"
   },
   {
@@ -4693,7 +5155,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 144,
+    "id": 158,
     "ownership": "民办"
   },
   {
@@ -4726,7 +5188,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 145,
+    "id": 159,
     "ownership": "民办"
   },
   {
@@ -4759,7 +5221,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 146,
+    "id": 160,
     "ownership": "民办"
   },
   {
@@ -4792,7 +5254,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 147,
+    "id": 161,
     "ownership": "民办"
   },
   {
@@ -4825,7 +5287,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 148,
+    "id": 162,
     "ownership": "民办"
   },
   {
@@ -4858,7 +5320,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 149,
+    "id": 163,
     "ownership": "民办"
   },
   {
@@ -4891,7 +5353,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 150,
+    "id": 164,
     "ownership": "民办"
   },
   {
@@ -4924,7 +5386,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 151,
+    "id": 165,
     "ownership": "民办"
   },
   {
@@ -4957,7 +5419,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 152,
+    "id": 166,
     "ownership": "民办"
   },
   {
@@ -4990,7 +5452,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 153,
+    "id": 167,
     "ownership": "民办"
   },
   {
@@ -5023,7 +5485,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 154,
+    "id": 168,
     "ownership": "民办"
   },
   {
@@ -5056,7 +5518,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 155,
+    "id": 169,
     "ownership": "民办"
   },
   {
@@ -5089,7 +5551,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 156,
+    "id": 170,
     "ownership": "民办"
   },
   {
@@ -5122,7 +5584,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 157,
+    "id": 171,
     "ownership": "民办"
   },
   {
@@ -5155,7 +5617,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 158,
+    "id": 172,
     "ownership": "民办"
   },
   {
@@ -5188,7 +5650,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 159,
+    "id": 173,
     "ownership": "民办"
   },
   {
@@ -5221,7 +5683,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 160,
+    "id": 174,
     "ownership": "民办"
   },
   {
@@ -5254,7 +5716,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 161,
+    "id": 175,
     "ownership": "民办"
   },
   {
@@ -5287,7 +5749,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 162,
+    "id": 176,
     "ownership": "民办"
   },
   {
@@ -5320,7 +5782,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 163,
+    "id": 177,
     "ownership": "民办"
   },
   {
@@ -5352,7 +5814,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 164,
+    "id": 178,
     "ownership": "民办"
   },
   {
@@ -5385,7 +5847,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 165,
+    "id": 179,
     "ownership": "民办"
   },
   {
@@ -5418,7 +5880,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 166,
+    "id": 180,
     "ownership": "民办"
   },
   {
@@ -5451,7 +5913,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 167,
+    "id": 181,
     "ownership": "民办"
   },
   {
@@ -5484,7 +5946,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 168,
+    "id": 182,
     "ownership": "民办"
   },
   {
@@ -5517,7 +5979,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 169,
+    "id": 183,
     "ownership": "民办"
   },
   {
@@ -5550,7 +6012,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 170,
+    "id": 184,
     "ownership": "民办"
   },
   {
@@ -5583,7 +6045,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 171,
+    "id": 185,
     "ownership": "民办"
   },
   {
@@ -5616,7 +6078,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 172,
+    "id": 186,
     "ownership": "民办"
   },
   {
@@ -5649,7 +6111,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 173,
+    "id": 187,
     "ownership": "民办"
   },
   {
@@ -5682,7 +6144,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 174,
+    "id": 188,
     "ownership": "民办"
   },
   {
@@ -5715,7 +6177,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 175,
+    "id": 189,
     "ownership": "民办"
   },
   {
@@ -5748,7 +6210,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 176,
+    "id": 190,
     "ownership": "民办"
   },
   {
@@ -5781,7 +6243,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 177,
+    "id": 191,
     "ownership": "民办"
   },
   {
@@ -5814,7 +6276,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 178,
+    "id": 192,
     "ownership": "民办"
   },
   {
@@ -5847,7 +6309,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 179,
+    "id": 193,
     "ownership": "民办"
   },
   {
@@ -5880,7 +6342,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 180,
+    "id": 194,
     "ownership": "民办"
   },
   {
@@ -5913,7 +6375,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 181,
+    "id": 195,
     "ownership": "民办"
   },
   {
@@ -5946,7 +6408,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 182,
+    "id": 196,
     "ownership": "民办"
   },
   {
@@ -5979,7 +6441,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 183,
+    "id": 197,
     "ownership": "民办"
   },
   {
@@ -6012,7 +6474,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 184,
+    "id": 198,
     "ownership": "民办"
   },
   {
@@ -6045,7 +6507,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 185,
+    "id": 199,
     "ownership": "民办"
   },
   {
@@ -6078,7 +6540,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 186,
+    "id": 200,
     "ownership": "民办"
   },
   {
@@ -6111,7 +6573,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 187,
+    "id": 201,
     "ownership": "民办"
   },
   {
@@ -6144,7 +6606,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 188,
+    "id": 202,
     "ownership": "民办"
   },
   {
@@ -6177,7 +6639,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 189,
+    "id": 203,
     "ownership": "民办"
   },
   {
@@ -6210,7 +6672,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 190,
+    "id": 204,
     "ownership": "民办"
   },
   {
@@ -6243,7 +6705,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 191,
+    "id": 205,
     "ownership": "民办"
   },
   {
@@ -6276,7 +6738,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 192,
+    "id": 206,
     "ownership": "民办"
   },
   {
@@ -6309,7 +6771,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 193,
+    "id": 207,
     "ownership": "民办"
   },
   {
@@ -6342,7 +6804,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 194,
+    "id": 208,
     "ownership": "民办"
   },
   {
@@ -6375,7 +6837,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 195,
+    "id": 209,
     "ownership": "民办"
   },
   {
@@ -6408,7 +6870,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 196,
+    "id": 210,
     "ownership": "民办"
   },
   {
@@ -6441,7 +6903,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 197,
+    "id": 211,
     "ownership": "民办"
   },
   {
@@ -6474,7 +6936,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 198,
+    "id": 212,
     "ownership": "民办"
   },
   {
@@ -6507,7 +6969,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 199,
+    "id": 213,
     "ownership": "民办"
   },
   {
@@ -6540,7 +7002,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 200,
+    "id": 214,
     "ownership": "民办"
   },
   {
@@ -6573,7 +7035,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 201,
+    "id": 215,
     "ownership": "民办"
   },
   {
@@ -6606,7 +7068,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 202,
+    "id": 216,
     "ownership": "民办"
   },
   {
@@ -6639,7 +7101,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 203,
+    "id": 217,
     "ownership": "民办"
   },
   {
@@ -6672,7 +7134,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 204,
+    "id": 218,
     "ownership": "民办"
   },
   {
@@ -6705,7 +7167,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 205,
+    "id": 219,
     "ownership": "民办"
   },
   {
@@ -6738,7 +7200,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 206,
+    "id": 220,
     "ownership": "民办"
   },
   {
@@ -6771,7 +7233,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 207,
+    "id": 221,
     "ownership": "民办"
   },
   {
@@ -6804,7 +7266,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 208,
+    "id": 222,
     "ownership": "民办"
   },
   {
@@ -6837,7 +7299,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 209,
+    "id": 223,
     "ownership": "民办"
   },
   {
@@ -6870,7 +7332,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 210,
+    "id": 224,
     "ownership": "民办"
   },
   {
@@ -6903,7 +7365,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 211,
+    "id": 225,
     "ownership": "民办"
   },
   {
@@ -6936,7 +7398,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 212,
+    "id": 226,
     "ownership": "民办"
   },
   {
@@ -6969,7 +7431,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 213,
+    "id": 227,
     "ownership": "民办"
   },
   {
@@ -7002,7 +7464,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 214,
+    "id": 228,
     "ownership": "民办"
   },
   {
@@ -7035,7 +7497,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 215,
+    "id": 229,
     "ownership": "民办"
   },
   {
@@ -7068,7 +7530,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 216,
+    "id": 230,
     "ownership": "民办"
   },
   {
@@ -7101,7 +7563,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 217,
+    "id": 231,
     "ownership": "民办"
   },
   {
@@ -7134,7 +7596,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 218,
+    "id": 232,
     "ownership": "民办"
   },
   {
@@ -7167,7 +7629,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 219,
+    "id": 233,
     "ownership": "民办"
   },
   {
@@ -7200,7 +7662,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 220,
+    "id": 234,
     "ownership": "民办"
   },
   {
@@ -7233,7 +7695,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 221,
+    "id": 235,
     "ownership": "民办"
   },
   {
@@ -7266,7 +7728,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 222,
+    "id": 236,
     "ownership": "民办"
   },
   {
@@ -7299,7 +7761,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 223,
+    "id": 237,
     "ownership": "民办"
   },
   {
@@ -7332,7 +7794,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 224,
+    "id": 238,
     "ownership": "民办"
   },
   {
@@ -7365,7 +7827,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 225,
+    "id": 239,
     "ownership": "民办"
   },
   {
@@ -7398,7 +7860,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 226,
+    "id": 240,
     "ownership": "民办"
   },
   {
@@ -7431,7 +7893,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 227,
+    "id": 241,
     "ownership": "民办"
   },
   {
@@ -7464,7 +7926,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 228,
+    "id": 242,
     "ownership": "民办"
   },
   {
@@ -7497,7 +7959,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 229,
+    "id": 243,
     "ownership": "民办"
   },
   {
@@ -7530,7 +7992,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 230,
+    "id": 244,
     "ownership": "民办"
   },
   {
@@ -7563,7 +8025,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 231,
+    "id": 245,
     "ownership": "民办"
   },
   {
@@ -7596,7 +8058,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 232,
+    "id": 246,
     "ownership": "民办"
   },
   {
@@ -7629,7 +8091,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 233,
+    "id": 247,
     "ownership": "民办"
   },
   {
@@ -7662,7 +8124,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 234,
+    "id": 248,
     "ownership": "民办"
   },
   {
@@ -7695,7 +8157,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 235,
+    "id": 249,
     "ownership": "民办"
   },
   {
@@ -7728,7 +8190,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 236,
+    "id": 250,
     "ownership": "民办"
   },
   {
@@ -7761,7 +8223,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 237,
+    "id": 251,
     "ownership": "民办"
   },
   {
@@ -7794,7 +8256,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 238,
+    "id": 252,
     "ownership": "民办"
   },
   {
@@ -7827,7 +8289,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 239,
+    "id": 253,
     "ownership": "民办"
   },
   {
@@ -7860,7 +8322,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 240,
+    "id": 254,
     "ownership": "民办"
   },
   {
@@ -7893,7 +8355,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 241,
+    "id": 255,
     "ownership": "民办"
   },
   {
@@ -7926,7 +8388,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 242,
+    "id": 256,
     "ownership": "民办"
   },
   {
@@ -7959,7 +8421,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 243,
+    "id": 257,
     "ownership": "民办"
   },
   {
@@ -7992,7 +8454,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 244,
+    "id": 258,
     "ownership": "民办"
   },
   {
@@ -8025,7 +8487,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 245,
+    "id": 259,
     "ownership": "民办"
   },
   {
@@ -8058,7 +8520,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 246,
+    "id": 260,
     "ownership": "民办"
   },
   {
@@ -8091,7 +8553,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 247,
+    "id": 261,
     "ownership": "民办"
   },
   {
@@ -8123,7 +8585,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 248,
+    "id": 262,
     "ownership": "民办"
   },
   {
@@ -8156,7 +8618,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 249,
+    "id": 263,
     "ownership": "民办"
   },
   {
@@ -8189,7 +8651,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 250,
+    "id": 264,
     "ownership": "民办"
   },
   {
@@ -8222,7 +8684,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 251,
+    "id": 265,
     "ownership": "民办"
   },
   {
@@ -8255,7 +8717,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 252,
+    "id": 266,
     "ownership": "民办"
   },
   {
@@ -8288,7 +8750,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 253,
+    "id": 267,
     "ownership": "民办"
   },
   {
@@ -8321,7 +8783,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 254,
+    "id": 268,
     "ownership": "民办"
   },
   {
@@ -8354,7 +8816,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 255,
+    "id": 269,
     "ownership": "民办"
   },
   {
@@ -8387,7 +8849,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 256,
+    "id": 270,
     "ownership": "民办"
   },
   {
@@ -8420,7 +8882,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 257,
+    "id": 271,
     "ownership": "民办"
   },
   {
@@ -8453,7 +8915,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 258,
+    "id": 272,
     "ownership": "民办"
   },
   {
@@ -8486,7 +8948,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 259,
+    "id": 273,
     "ownership": "民办"
   },
   {
@@ -8519,7 +8981,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 260,
+    "id": 274,
     "ownership": "民办"
   },
   {
@@ -8552,7 +9014,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 261,
+    "id": 275,
     "ownership": "民办"
   },
   {
@@ -8585,7 +9047,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 262,
+    "id": 276,
     "ownership": "民办"
   },
   {
@@ -8618,7 +9080,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 263,
+    "id": 277,
     "ownership": "民办"
   },
   {
@@ -8651,7 +9113,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 264,
+    "id": 278,
     "ownership": "民办"
   },
   {
@@ -8684,7 +9146,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 265,
+    "id": 279,
     "ownership": "民办"
   },
   {
@@ -8717,7 +9179,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 266,
+    "id": 280,
     "ownership": "民办"
   },
   {
@@ -8750,7 +9212,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 267,
+    "id": 281,
     "ownership": "民办"
   },
   {
@@ -8783,7 +9245,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 268,
+    "id": 282,
     "ownership": "民办"
   },
   {
@@ -8816,7 +9278,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 269,
+    "id": 283,
     "ownership": "民办"
   },
   {
@@ -8849,7 +9311,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 270,
+    "id": 284,
     "ownership": "民办"
   },
   {
@@ -8882,7 +9344,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 271,
+    "id": 285,
     "ownership": "民办"
   },
   {
@@ -8915,7 +9377,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 272,
+    "id": 286,
     "ownership": "民办"
   },
   {
@@ -8948,7 +9410,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 273,
+    "id": 287,
     "ownership": "民办"
   },
   {
@@ -8981,7 +9443,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 274,
+    "id": 288,
     "ownership": "民办"
   },
   {
@@ -9014,7 +9476,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 275,
+    "id": 289,
     "ownership": "民办"
   },
   {
@@ -9047,7 +9509,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 276,
+    "id": 290,
     "ownership": "民办"
   },
   {
@@ -9080,7 +9542,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 277,
+    "id": 291,
     "ownership": "民办"
   },
   {
@@ -9113,7 +9575,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 278,
+    "id": 292,
     "ownership": "民办"
   },
   {
@@ -9146,7 +9608,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 279,
+    "id": 293,
     "ownership": "民办"
   },
   {
@@ -9179,7 +9641,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 280,
+    "id": 294,
     "ownership": "民办"
   },
   {
@@ -9212,7 +9674,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 281,
+    "id": 295,
     "ownership": "民办"
   },
   {
@@ -9245,7 +9707,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 282,
+    "id": 296,
     "ownership": "民办"
   },
   {
@@ -9278,7 +9740,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 283,
+    "id": 297,
     "ownership": "民办"
   },
   {
@@ -9305,7 +9767,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 284
+    "id": 298
   },
   {
     "title": "广东水利电力职业技术学院2026年项目制教师招聘公告",
@@ -9331,7 +9793,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 285
+    "id": 299
   },
   {
     "title": "广州华商职业学院实训室管理员招聘启事",
@@ -9357,7 +9819,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 286
+    "id": 300
   },
   {
     "title": "11-092026广东江门南粤学院2026-2027学年招聘公告查看详情>>",
@@ -9383,7 +9845,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 287
+    "id": 301
   },
   {
     "title": "非专任教师招聘",
@@ -9409,7 +9871,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 288
+    "id": 302
   },
   {
     "title": "茂名职业技术学院2026年度招聘教师（第二批）和2026年下半年",
@@ -9435,7 +9897,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 289
+    "id": 303
   },
   {
     "title": "电子电工(青年教师)",
@@ -9467,7 +9929,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 290
+    "id": 304
   },
   {
     "title": "初中政治老师(青年教师)",
@@ -9499,7 +9961,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 291,
+    "id": 305,
     "ownership": "民办"
   },
   {
@@ -9532,7 +9994,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 292,
+    "id": 306,
     "ownership": "民办"
   },
   {
@@ -9565,7 +10027,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 293,
+    "id": 307,
     "ownership": "民办"
   },
   {
@@ -9598,7 +10060,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 294,
+    "id": 308,
     "ownership": "民办"
   },
   {
@@ -9631,7 +10093,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 295,
+    "id": 309,
     "ownership": "民办"
   },
   {
@@ -9664,7 +10126,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 296,
+    "id": 310,
     "ownership": "民办"
   },
   {
@@ -9697,7 +10159,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 297,
+    "id": 311,
     "ownership": "民办"
   },
   {
@@ -9730,7 +10192,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 298,
+    "id": 312,
     "ownership": "民办"
   },
   {
@@ -9763,7 +10225,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 299,
+    "id": 313,
     "ownership": "民办"
   },
   {
@@ -9796,7 +10258,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 300,
+    "id": 314,
     "ownership": "民办"
   },
   {
@@ -9829,7 +10291,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 301,
+    "id": 315,
     "ownership": "民办"
   },
   {
@@ -9862,7 +10324,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 302,
+    "id": 316,
     "ownership": "民办"
   },
   {
@@ -9895,7 +10357,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 303,
+    "id": 317,
     "ownership": "民办"
   },
   {
@@ -9928,7 +10390,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 304,
+    "id": 318,
     "ownership": "民办"
   },
   {
@@ -9961,7 +10423,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 305,
+    "id": 319,
     "ownership": "民办"
   },
   {
@@ -9994,7 +10456,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 306,
+    "id": 320,
     "ownership": "民办"
   },
   {
@@ -10027,7 +10489,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 307,
+    "id": 321,
     "ownership": "民办"
   },
   {
@@ -10060,7 +10522,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 308,
+    "id": 322,
     "ownership": "民办"
   },
   {
@@ -10093,7 +10555,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 309,
+    "id": 323,
     "ownership": "民办"
   },
   {
@@ -10126,7 +10588,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 310,
+    "id": 324,
     "ownership": "民办"
   },
   {
@@ -10159,7 +10621,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 311,
+    "id": 325,
     "ownership": "民办"
   },
   {
@@ -10192,7 +10654,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 312,
+    "id": 326,
     "ownership": "民办"
   },
   {
@@ -10225,7 +10687,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 313,
+    "id": 327,
     "ownership": "民办"
   },
   {
@@ -10258,7 +10720,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 314,
+    "id": 328,
     "ownership": "民办"
   },
   {
@@ -10291,7 +10753,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 315,
+    "id": 329,
     "ownership": "民办"
   },
   {
@@ -10324,7 +10786,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 316,
+    "id": 330,
     "ownership": "民办"
   },
   {
@@ -10357,7 +10819,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 317,
+    "id": 331,
     "ownership": "民办"
   },
   {
@@ -10390,7 +10852,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 318,
+    "id": 332,
     "ownership": "民办"
   },
   {
@@ -10423,7 +10885,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 319,
+    "id": 333,
     "ownership": "民办"
   },
   {
@@ -10456,7 +10918,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 320,
+    "id": 334,
     "ownership": "民办"
   },
   {
@@ -10489,7 +10951,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 321,
+    "id": 335,
     "ownership": "民办"
   },
   {
@@ -10522,7 +10984,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 322,
+    "id": 336,
     "ownership": "民办"
   },
   {
@@ -10555,7 +11017,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 323,
+    "id": 337,
     "ownership": "民办"
   },
   {
@@ -10588,7 +11050,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 324,
+    "id": 338,
     "ownership": "民办"
   },
   {
@@ -10621,7 +11083,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 325,
+    "id": 339,
     "ownership": "民办"
   },
   {
@@ -10654,7 +11116,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 326,
+    "id": 340,
     "ownership": "民办"
   },
   {
@@ -10687,7 +11149,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 327,
+    "id": 341,
     "ownership": "民办"
   },
   {
@@ -10720,7 +11182,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 328,
+    "id": 342,
     "ownership": "民办"
   },
   {
@@ -10753,7 +11215,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 329,
+    "id": 343,
     "ownership": "民办"
   },
   {
@@ -10786,7 +11248,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 330,
+    "id": 344,
     "ownership": "民办"
   },
   {
@@ -10819,7 +11281,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 331,
+    "id": 345,
     "ownership": "民办"
   },
   {
@@ -10852,7 +11314,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 332,
+    "id": 346,
     "ownership": "民办"
   },
   {
@@ -10885,7 +11347,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 333,
+    "id": 347,
     "ownership": "民办"
   },
   {
@@ -10918,7 +11380,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 334,
+    "id": 348,
     "ownership": "民办"
   },
   {
@@ -10951,7 +11413,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 335,
+    "id": 349,
     "ownership": "民办"
   },
   {
@@ -10984,7 +11446,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 336,
+    "id": 350,
     "ownership": "民办"
   },
   {
@@ -11017,7 +11479,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 337,
+    "id": 351,
     "ownership": "民办"
   },
   {
@@ -11050,7 +11512,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 338,
+    "id": 352,
     "ownership": "民办"
   },
   {
@@ -11083,7 +11545,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 339,
+    "id": 353,
     "ownership": "民办"
   },
   {
@@ -11116,7 +11578,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 340,
+    "id": 354,
     "ownership": "民办"
   },
   {
@@ -11149,7 +11611,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 341,
+    "id": 355,
     "ownership": "民办"
   },
   {
@@ -11182,7 +11644,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 342,
+    "id": 356,
     "ownership": "民办"
   },
   {
@@ -11215,7 +11677,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 343,
+    "id": 357,
     "ownership": "民办"
   },
   {
@@ -11248,7 +11710,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 344,
+    "id": 358,
     "ownership": "民办"
   },
   {
@@ -11281,7 +11743,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 345,
+    "id": 359,
     "ownership": "民办"
   },
   {
@@ -11314,7 +11776,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 346,
+    "id": 360,
     "ownership": "民办"
   },
   {
@@ -11347,7 +11809,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 347,
+    "id": 361,
     "ownership": "民办"
   },
   {
@@ -11380,7 +11842,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 348,
+    "id": 362,
     "ownership": "民办"
   },
   {
@@ -11413,7 +11875,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 349,
+    "id": 363,
     "ownership": "民办"
   },
   {
@@ -11446,7 +11908,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 350,
+    "id": 364,
     "ownership": "民办"
   },
   {
@@ -11479,7 +11941,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 351,
+    "id": 365,
     "ownership": "民办"
   },
   {
@@ -11512,7 +11974,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 352,
+    "id": 366,
     "ownership": "民办"
   },
   {
@@ -11545,7 +12007,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 353,
+    "id": 367,
     "ownership": "民办"
   },
   {
@@ -11578,7 +12040,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 354,
+    "id": 368,
     "ownership": "民办"
   },
   {
@@ -11611,7 +12073,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 355,
+    "id": 369,
     "ownership": "民办"
   },
   {
@@ -11644,7 +12106,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 356,
+    "id": 370,
     "ownership": "民办"
   },
   {
@@ -11677,7 +12139,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 357,
+    "id": 371,
     "ownership": "民办"
   },
   {
@@ -11710,7 +12172,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 358,
+    "id": 372,
     "ownership": "民办"
   },
   {
@@ -11743,7 +12205,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 359,
+    "id": 373,
     "ownership": "民办"
   },
   {
@@ -11776,7 +12238,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 360,
+    "id": 374,
     "ownership": "民办"
   },
   {
@@ -11809,40 +12271,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 361,
-    "ownership": "民办"
-  },
-  {
-    "title": "初中美术教师(青年教师)",
-    "city": "云浮",
-    "school": "云浮市黄岗实验中学",
-    "level": "万行职位",
-    "stage": "中学",
-    "category": "万行职位",
-    "isPrivate": true,
-    "pendingReview": true,
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "本科及以上",
-    "deadline": "",
-    "recordedAt": "2026-11-09",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs_view_805512.html",
-    "content": {
-      "intro": "薪资 13-26W/年；地点 云浮-新兴县；要求 本科、经验不限。详情请点击原文查看。",
-      "targets": [
-        "以职位原文为准"
-      ],
-      "positions": "初中美术教师(青年教师)",
-      "conditions": [
-        "学历 本科",
-        "经验 经验不限"
-      ],
-      "process": "投递简历 → 学校筛选 → 面试（通过万行教师求职版 APP 投递）",
-      "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
-      "contact": "详见万行教师网原文（具体信息以官方发布为准）"
-    },
-    "id": 362,
+    "id": 375,
     "ownership": "民办"
   },
   {
@@ -11875,7 +12304,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 363,
+    "id": 376,
     "ownership": "民办"
   },
   {
@@ -11908,7 +12337,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 364,
+    "id": 377,
     "ownership": "民办"
   },
   {
@@ -11941,7 +12370,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 365,
+    "id": 378,
     "ownership": "民办"
   },
   {
@@ -11974,7 +12403,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 366,
+    "id": 379,
     "ownership": "民办"
   },
   {
@@ -12007,7 +12436,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 367,
+    "id": 380,
     "ownership": "民办"
   },
   {
@@ -12040,7 +12469,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 368,
+    "id": 381,
     "ownership": "民办"
   },
   {
@@ -12073,7 +12502,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 369,
+    "id": 382,
     "ownership": "民办"
   },
   {
@@ -12106,7 +12535,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 370,
+    "id": 383,
     "ownership": "民办"
   },
   {
@@ -12139,7 +12568,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 371,
+    "id": 384,
     "ownership": "民办"
   },
   {
@@ -12172,7 +12601,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 372,
+    "id": 385,
     "ownership": "民办"
   },
   {
@@ -12205,7 +12634,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 373,
+    "id": 386,
     "ownership": "民办"
   },
   {
@@ -12238,7 +12667,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 374,
+    "id": 387,
     "ownership": "民办"
   },
   {
@@ -12271,7 +12700,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 375,
+    "id": 388,
     "ownership": "民办"
   },
   {
@@ -12304,7 +12733,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 376,
+    "id": 389,
     "ownership": "民办"
   },
   {
@@ -12337,7 +12766,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 377,
+    "id": 390,
     "ownership": "民办"
   },
   {
@@ -12370,7 +12799,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 378,
+    "id": 391,
     "ownership": "民办"
   },
   {
@@ -12403,7 +12832,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 379,
+    "id": 392,
     "ownership": "民办"
   },
   {
@@ -12436,7 +12865,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 380,
+    "id": 393,
     "ownership": "民办"
   },
   {
@@ -12469,7 +12898,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 381,
+    "id": 394,
     "ownership": "民办"
   },
   {
@@ -12502,7 +12931,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 382,
+    "id": 395,
     "ownership": "民办"
   },
   {
@@ -12535,7 +12964,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 383,
+    "id": 396,
     "ownership": "民办"
   },
   {
@@ -12568,7 +12997,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 384,
+    "id": 397,
     "ownership": "民办"
   },
   {
@@ -12601,7 +13030,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 385,
+    "id": 398,
     "ownership": "民办"
   },
   {
@@ -12634,7 +13063,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 386,
+    "id": 399,
     "ownership": "民办"
   },
   {
@@ -12667,7 +13096,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 387,
+    "id": 400,
     "ownership": "民办"
   },
   {
@@ -12700,7 +13129,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 388,
+    "id": 401,
     "ownership": "民办"
   },
   {
@@ -12733,7 +13162,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 389,
+    "id": 402,
     "ownership": "民办"
   },
   {
@@ -12766,7 +13195,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 390,
+    "id": 403,
     "ownership": "民办"
   },
   {
@@ -12799,7 +13228,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 391,
+    "id": 404,
     "ownership": "民办"
   },
   {
@@ -12832,7 +13261,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 392,
+    "id": 405,
     "ownership": "民办"
   },
   {
@@ -12865,7 +13294,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 393,
+    "id": 406,
     "ownership": "民办"
   },
   {
@@ -12898,7 +13327,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 394,
+    "id": 407,
     "ownership": "民办"
   },
   {
@@ -12931,7 +13360,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 395,
+    "id": 408,
     "ownership": "民办"
   },
   {
@@ -12964,7 +13393,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 396,
+    "id": 409,
     "ownership": "民办"
   },
   {
@@ -12997,7 +13426,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 397,
+    "id": 410,
     "ownership": "民办"
   },
   {
@@ -13030,7 +13459,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 398,
+    "id": 411,
     "ownership": "民办"
   },
   {
@@ -13063,7 +13492,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 399,
+    "id": 412,
     "ownership": "民办"
   },
   {
@@ -13096,7 +13525,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 400,
+    "id": 413,
     "ownership": "民办"
   },
   {
@@ -13129,7 +13558,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 401,
+    "id": 414,
     "ownership": "民办"
   },
   {
@@ -13162,7 +13591,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 402,
+    "id": 415,
     "ownership": "民办"
   },
   {
@@ -13195,7 +13624,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 403,
+    "id": 416,
     "ownership": "民办"
   },
   {
@@ -13228,7 +13657,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 404,
+    "id": 417,
     "ownership": "民办"
   },
   {
@@ -13261,7 +13690,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 405,
+    "id": 418,
     "ownership": "民办"
   },
   {
@@ -13294,7 +13723,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 406,
+    "id": 419,
     "ownership": "民办"
   },
   {
@@ -13327,7 +13756,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 407,
+    "id": 420,
     "ownership": "民办"
   },
   {
@@ -13360,7 +13789,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 408,
+    "id": 421,
     "ownership": "民办"
   },
   {
@@ -13393,7 +13822,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 409,
+    "id": 422,
     "ownership": "民办"
   },
   {
@@ -13426,7 +13855,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 410,
+    "id": 423,
     "ownership": "民办"
   },
   {
@@ -13459,7 +13888,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 411,
+    "id": 424,
     "ownership": "民办"
   },
   {
@@ -13492,7 +13921,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 412,
+    "id": 425,
     "ownership": "民办"
   },
   {
@@ -13525,7 +13954,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 413,
+    "id": 426,
     "ownership": "民办"
   },
   {
@@ -13558,7 +13987,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 414,
+    "id": 427,
     "ownership": "民办"
   },
   {
@@ -13591,7 +14020,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 415,
+    "id": 428,
     "ownership": "民办"
   },
   {
@@ -13624,7 +14053,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 416,
+    "id": 429,
     "ownership": "民办"
   },
   {
@@ -13657,7 +14086,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 417,
+    "id": 430,
     "ownership": "民办"
   },
   {
@@ -13690,7 +14119,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 418,
+    "id": 431,
     "ownership": "民办"
   },
   {
@@ -13723,7 +14152,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 419,
+    "id": 432,
     "ownership": "民办"
   },
   {
@@ -13756,7 +14185,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 420,
+    "id": 433,
     "ownership": "民办"
   },
   {
@@ -13789,7 +14218,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 421,
+    "id": 434,
     "ownership": "民办"
   },
   {
@@ -13822,7 +14251,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 422,
+    "id": 435,
     "ownership": "民办"
   },
   {
@@ -13855,7 +14284,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 423,
+    "id": 436,
     "ownership": "民办"
   },
   {
@@ -13888,7 +14317,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 424,
+    "id": 437,
     "ownership": "民办"
   },
   {
@@ -13921,7 +14350,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 425,
+    "id": 438,
     "ownership": "民办"
   },
   {
@@ -13954,7 +14383,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 426,
+    "id": 439,
     "ownership": "民办"
   },
   {
@@ -13987,7 +14416,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 427,
+    "id": 440,
     "ownership": "民办"
   },
   {
@@ -14020,7 +14449,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 428,
+    "id": 441,
     "ownership": "民办"
   },
   {
@@ -14053,7 +14482,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 429,
+    "id": 442,
     "ownership": "民办"
   },
   {
@@ -14086,7 +14515,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 430,
+    "id": 443,
     "ownership": "民办"
   },
   {
@@ -14119,7 +14548,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 431,
+    "id": 444,
     "ownership": "民办"
   },
   {
@@ -14152,7 +14581,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 432,
+    "id": 445,
     "ownership": "民办"
   },
   {
@@ -14184,7 +14613,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 433,
+    "id": 446,
     "ownership": "民办"
   },
   {
@@ -14217,7 +14646,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 434,
+    "id": 447,
     "ownership": "民办"
   },
   {
@@ -14250,7 +14679,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 435,
+    "id": 448,
     "ownership": "民办"
   },
   {
@@ -14283,7 +14712,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 436,
+    "id": 449,
     "ownership": "民办"
   },
   {
@@ -14316,7 +14745,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 437,
+    "id": 450,
     "ownership": "民办"
   },
   {
@@ -14348,7 +14777,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 438,
+    "id": 451,
     "ownership": "民办"
   },
   {
@@ -14381,7 +14810,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 439,
+    "id": 452,
     "ownership": "民办"
   },
   {
@@ -14414,7 +14843,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 440,
+    "id": 453,
     "ownership": "民办"
   },
   {
@@ -14447,7 +14876,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 441,
+    "id": 454,
     "ownership": "民办"
   },
   {
@@ -14480,7 +14909,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 442,
+    "id": 455,
     "ownership": "民办"
   },
   {
@@ -14513,7 +14942,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 443,
+    "id": 456,
     "ownership": "民办"
   },
   {
@@ -14546,7 +14975,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 444,
+    "id": 457,
     "ownership": "民办"
   },
   {
@@ -14579,7 +15008,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 445,
+    "id": 458,
     "ownership": "民办"
   },
   {
@@ -14611,7 +15040,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 446,
+    "id": 459,
     "ownership": "民办"
   },
   {
@@ -14642,7 +15071,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 447,
+    "id": 460,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14675,7 +15104,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 448,
+    "id": 461,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14708,7 +15137,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 449,
+    "id": 462,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14741,7 +15170,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 450,
+    "id": 463,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14774,7 +15203,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 451,
+    "id": 464,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14807,7 +15236,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 452,
+    "id": 465,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14840,7 +15269,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 453,
+    "id": 466,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14873,7 +15302,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 454,
+    "id": 467,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14906,7 +15335,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 455,
+    "id": 468,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14939,7 +15368,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 456,
+    "id": 469,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -14972,7 +15401,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 457,
+    "id": 470,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15005,7 +15434,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 458,
+    "id": 471,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15038,7 +15467,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 459,
+    "id": 472,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15071,7 +15500,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 460,
+    "id": 473,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15104,7 +15533,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 461,
+    "id": 474,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15137,7 +15566,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 462,
+    "id": 475,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15170,7 +15599,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 463,
+    "id": 476,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15203,7 +15632,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 464,
+    "id": 477,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15236,7 +15665,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 465,
+    "id": 478,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15269,7 +15698,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 466,
+    "id": 479,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15302,7 +15731,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 467,
+    "id": 480,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15335,7 +15764,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 468,
+    "id": 481,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15368,7 +15797,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 469,
+    "id": 482,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15401,7 +15830,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 470,
+    "id": 483,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15434,7 +15863,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 471,
+    "id": 484,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15467,7 +15896,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 472,
+    "id": 485,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15500,7 +15929,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 473,
+    "id": 486,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15533,7 +15962,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 474,
+    "id": 487,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15566,7 +15995,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 475,
+    "id": 488,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15599,7 +16028,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 476,
+    "id": 489,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15632,7 +16061,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 477,
+    "id": 490,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15665,7 +16094,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 478,
+    "id": 491,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15698,7 +16127,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 479,
+    "id": 492,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15731,7 +16160,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 480,
+    "id": 493,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15764,7 +16193,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 481,
+    "id": 494,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15797,7 +16226,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 482,
+    "id": 495,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15830,7 +16259,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 483,
+    "id": 496,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15863,7 +16292,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 484,
+    "id": 497,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15896,7 +16325,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 485,
+    "id": 498,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15929,7 +16358,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 486,
+    "id": 499,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15962,7 +16391,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 487,
+    "id": 500,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -15995,7 +16424,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 488,
+    "id": 501,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16028,7 +16457,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 489,
+    "id": 502,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16061,7 +16490,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 490,
+    "id": 503,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16094,7 +16523,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 491,
+    "id": 504,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16127,7 +16556,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 492,
+    "id": 505,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16160,7 +16589,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 493,
+    "id": 506,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16193,7 +16622,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 494,
+    "id": 507,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16226,7 +16655,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 495,
+    "id": 508,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16259,7 +16688,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 496,
+    "id": 509,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16292,7 +16721,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 497,
+    "id": 510,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16325,7 +16754,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 498,
+    "id": 511,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16358,7 +16787,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 499,
+    "id": 512,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16391,7 +16820,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 500,
+    "id": 513,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16424,7 +16853,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 501,
+    "id": 514,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16457,7 +16886,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 502,
+    "id": 515,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16490,7 +16919,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 503,
+    "id": 516,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16523,7 +16952,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 504,
+    "id": 517,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16556,7 +16985,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 505,
+    "id": 518,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16589,7 +17018,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 506,
+    "id": 519,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16622,7 +17051,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 507,
+    "id": 520,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16655,7 +17084,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 508,
+    "id": 521,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16688,7 +17117,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 509,
+    "id": 522,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16721,7 +17150,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 510,
+    "id": 523,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16754,7 +17183,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 511,
+    "id": 524,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16787,7 +17216,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 512,
+    "id": 525,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16820,7 +17249,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 513,
+    "id": 526,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16853,7 +17282,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 514,
+    "id": 527,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16886,7 +17315,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 515,
+    "id": 528,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16919,7 +17348,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 516,
+    "id": 529,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16952,7 +17381,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 517,
+    "id": 530,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -16985,7 +17414,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 518,
+    "id": 531,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17018,7 +17447,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 519,
+    "id": 532,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17051,7 +17480,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 520,
+    "id": 533,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17083,7 +17512,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 521,
+    "id": 534,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17115,7 +17544,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 522,
+    "id": 535,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17147,7 +17576,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 523,
+    "id": 536,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17179,7 +17608,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 524,
+    "id": 537,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17211,7 +17640,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 525,
+    "id": 538,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17243,7 +17672,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 526,
+    "id": 539,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17275,7 +17704,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 527,
+    "id": 540,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17307,7 +17736,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 528,
+    "id": 541,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17339,7 +17768,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 529,
+    "id": 542,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17371,7 +17800,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 530,
+    "id": 543,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17404,7 +17833,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 531,
+    "id": 544,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17437,7 +17866,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 532,
+    "id": 545,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17470,7 +17899,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 533,
+    "id": 546,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17503,7 +17932,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 534,
+    "id": 547,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17536,7 +17965,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 535,
+    "id": 548,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17569,7 +17998,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 536,
+    "id": 549,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17602,7 +18031,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 537,
+    "id": 550,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17635,7 +18064,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 538,
+    "id": 551,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17668,7 +18097,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 539,
+    "id": 552,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17700,7 +18129,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 540,
+    "id": 553,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -17732,7 +18161,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 541,
+    "id": 554,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17765,7 +18194,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 542,
+    "id": 555,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17798,7 +18227,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 543,
+    "id": 556,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17831,7 +18260,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 544,
+    "id": 557,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17864,7 +18293,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 545,
+    "id": 558,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17897,7 +18326,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 546,
+    "id": 559,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17930,7 +18359,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 547,
+    "id": 560,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17963,7 +18392,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 548,
+    "id": 561,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -17996,7 +18425,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 549,
+    "id": 562,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18029,7 +18458,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 550,
+    "id": 563,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18062,7 +18491,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 551,
+    "id": 564,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18095,7 +18524,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 552,
+    "id": 565,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18128,7 +18557,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 553,
+    "id": 566,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18161,7 +18590,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 554,
+    "id": 567,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18194,7 +18623,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 555,
+    "id": 568,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18227,7 +18656,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 556,
+    "id": 569,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18260,7 +18689,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 557,
+    "id": 570,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18293,7 +18722,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 558,
+    "id": 571,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18326,7 +18755,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 559,
+    "id": 572,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18359,7 +18788,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 560,
+    "id": 573,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18392,7 +18821,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 561,
+    "id": 574,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18425,7 +18854,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 562,
+    "id": 575,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18458,7 +18887,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 563,
+    "id": 576,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18491,7 +18920,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 564,
+    "id": 577,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18523,7 +18952,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 565,
+    "id": 578,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -18555,7 +18984,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 566,
+    "id": 579,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -18587,7 +19016,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 567,
+    "id": 580,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -18618,7 +19047,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 568,
+    "id": 581,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -18649,7 +19078,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 569,
+    "id": 582,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18682,7 +19111,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 570,
+    "id": 583,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18715,7 +19144,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 571,
+    "id": 584,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18747,7 +19176,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 572,
+    "id": 585,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18782,7 +19211,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 573
+    "id": 586
   },
   {
     "title": "小学英语骨干教师(骨干教师)",
@@ -18814,7 +19243,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 574,
+    "id": 587,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -18845,7 +19274,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 575,
+    "id": 588,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -18876,7 +19305,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 576,
+    "id": 589,
     "isPrivate": true,
     "pendingReview": true,
     "ownership": "民办"
@@ -18909,7 +19338,7 @@ window.REAL_JOBS = [
       "signup": "本次公开招聘工作按照报名（资格初审）、考试网上确认、打印准考证、笔试、现场资格复审、面试、体检、组织考察、公示、办理聘用等程序进行；报名采取本人网络报名、现场宣讲会报名的方法进行；（1）时间：2026年11月10日（星期二）9:00至11月16日（星期一）17:00，逾期不接受报名",
       "contact": "电话 020）89185372、020）89185385"
     },
-    "id": 577
+    "id": 590
   },
   {
     "title": "广东工业大学揭阳校区2026年公开招聘聘用制职员公告",
@@ -18939,7 +19368,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘实行网络报名。应聘人员请于报名时间内登录报名系统（https://www.qgsydw.com/xxywzlzt/bmzl/ggdx）报名，按网上提示填写个人信息及上传岗位要求提供的佐证材料，材料清单如下：",
       "contact": "电话 0663-6603123、020-39322692"
     },
-    "id": 578
+    "id": 591
   },
   {
     "title": "小学语文教师(青年教师)",
@@ -18971,7 +19400,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 579,
+    "id": 592,
     "ownership": "民办"
   },
   {
@@ -18998,7 +19427,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 580
+    "id": 593
   },
   {
     "title": "广州城建职业学院医药健康学院实训管理员招聘公告",
@@ -19024,7 +19453,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 581
+    "id": 594
   },
   {
     "title": "广东医科大学非事业编制合同制人员招聘启事",
@@ -19050,7 +19479,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 582
+    "id": 595
   },
   {
     "title": "高中其他教师(青年教师)",
@@ -19079,7 +19508,7 @@ window.REAL_JOBS = [
       "signup": "在万行教师求职版 APP 在线投递，或点击原文联系招聘方",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 583,
+    "id": 596,
     "isPrivate": true,
     "pendingReview": true
   },
@@ -19114,7 +19543,7 @@ window.REAL_JOBS = [
       "signup": "简历投递地址（请同时投递到二级学院及人事处邮箱）；简历投递地址；请将以上材料发送到相应的邮箱",
       "contact": "邮箱 cxxxgc@163.com"
     },
-    "id": 584,
+    "id": 597,
     "ownership": "民办"
   },
   {
@@ -19148,7 +19577,7 @@ window.REAL_JOBS = [
       "signup": "国家优秀中小学教师培养计划（“国优计划”）毕业生按照取得的中小学教师资格证任教学科报名应聘相应学科教师岗位，研究生所学专业与岗位需求表中“专业及代码”“其它要求”中专业要求不一致的，不影响报名应聘；报考年龄为18至38周岁（即1987年11月10日至2008年11月9日期间出生）,报考人员所涉及年龄的时间点计算截至报名首日；公开招聘工作按照网上公告、网上报名、笔试确认、笔试、面试现场资格审查、面试、体检、选岗、考察、公示、递补、聘用等程",
       "contact": "电话 0763-5820802"
     },
-    "id": 585
+    "id": 598
   },
   {
     "title": "关于东莞理工学院2026年公开招聘专职辅",
@@ -19174,7 +19603,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 586
+    "id": 599
   },
   {
     "title": "非事业编制招聘",
@@ -19200,7 +19629,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 587
+    "id": 600
   },
   {
     "title": "[11-05]关于公布广东石油化工学院2026年人才招聘",
@@ -19226,7 +19655,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 588
+    "id": 601
   },
   {
     "title": "华南农业大学离退休工作处招聘公告",
@@ -19255,8 +19684,38 @@ window.REAL_JOBS = [
       "signup": "有意者请于 2026 年 11 月 12 日前将个人简历、毕业证书、学位证书及相关材料的电子版发送至邮箱 ltxgzc@scau.edu.cn",
       "contact": "邮箱 ltxgzc@scau.edu.cn"
     },
-    "id": 589,
+    "id": 602,
     "ownership": "公办"
+  },
+  {
+    "title": "深圳市第七高级中学专任教师招聘公告",
+    "city": "深圳",
+    "school": "深圳市第七高级中学专任教师",
+    "level": "公告",
+    "stage": "中学",
+    "category": "其他",
+    "pendingReview": true,
+    "establishment": "合同制",
+    "headcount": 1,
+    "education": "详见原文",
+    "deadline": "2026-11-16",
+    "recordedAt": "2026-11-04",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242364.html",
+    "content": {
+      "intro": "深圳市第七高级中学是深圳市“十五”规划重点民生工程，是深圳市教育局为提升西部教育品质、促进教育优质均衡发展而建设的一所大型寄宿制高中。学校位于粤港澳大湾区核心区域，紧靠国际会展中心，毗邻海上田园风景区，占地面积9.8万平方米，建筑面积7.2万平方米，办学规模为60个教学班，提供约3000个学位。 深圳市第七高级中学是一",
+      "targets": [
+        "详见原文"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见原文"
+      ],
+      "process": "报名 → 笔试 → 面试 → 考察 → 聘用",
+      "signup": "报名截止时间：2026年11月16日18：00 扫描下方二维码（见附件），填写信息、上传简历（简历命名“岗位-姓名-联系方式”）",
+      "contact": "联系人 严老师；电话 0755-85259660\n\n"
+    },
+    "id": 603
   },
   {
     "title": "深圳中学2026年11月面向2027年应届毕业生公开招聘教师公告",
@@ -19290,7 +19749,7 @@ window.REAL_JOBS = [
       "signup": "（3）国家优秀中小学教师培养计划（“国优计划”）毕业生按照取得的中小学教师资格证任教学科报名应聘相应学科教师岗位，所学专业与岗位要求专业不一致、本科与研究生专业不一致的不影响报名应聘；（4）应聘人员所学专业未列入《公务员专业目录》（无专业代码）的，可选择《公务员专业目录》中的相近专业报考，所学专业必修课程须与招聘岗位要求专业的主要课程基本一致，并在报名时提供毕业证书（已毕业的）、所学专业课程成绩单、课程对比情况说明及毕业院校设置专业的依",
       "contact": "电话 0755-29391989、0755-29391947\n\n"
     },
-    "id": 590,
+    "id": 604,
     "ownership": "公办"
   },
   {
@@ -19317,37 +19776,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 591
-  },
-  {
-    "title": "深圳市第七高级中学专任教师招聘公告",
-    "city": "深圳",
-    "school": "深圳市第七高级中学专任教师",
-    "level": "公告",
-    "stage": "中学",
-    "category": "其他",
-    "pendingReview": true,
-    "establishment": "合同制",
-    "headcount": 1,
-    "education": "详见原文",
-    "deadline": "2026-11-16",
-    "recordedAt": "2026-11-04",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242364.html",
-    "content": {
-      "intro": "深圳市第七高级中学是深圳市“十五”规划重点民生工程，是深圳市教育局为提升西部教育品质、促进教育优质均衡发展而建设的一所大型寄宿制高中。学校位于粤港澳大湾区核心区域，紧靠国际会展中心，毗邻海上田园风景区，占地面积9.8万平方米，建筑面积7.2万平方米，办学规模为60个教学班，提供约3000个学位。 深圳市第七高级中学是一",
-      "targets": [
-        "详见原文"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "详见原文"
-      ],
-      "process": "报名 → 笔试 → 面试 → 考察 → 聘用",
-      "signup": "报名截止时间：2026年11月16日18：00 扫描下方二维码（见附件），填写信息、上传简历（简历命名“岗位-姓名-联系方式”）",
-      "contact": "联系人 严老师；电话 0755-85259660\n\n"
-    },
-    "id": 592
+    "id": 605
   },
   {
     "title": "百万英才汇南粤--广东工业大学高层次人才招聘简章 2026-11-03",
@@ -19379,7 +19808,7 @@ window.REAL_JOBS = [
       "signup": "请应聘者将个人详细简历（包括教育经历、工作经历、学术成果等）有关材料发至学校各学院人才专员邮箱（见附表）并抄送至人事处高层次人才引进办公室邮箱（邮件标题请注明；请应聘者将个人详细简历（包括教育经历、工作经历、学术成果等）有关材料发至学校各学院人才专员老师邮箱（见附表）并抄送至人事处博士后管理办公室邮箱（邮件标题请注明",
       "contact": "联系人 罗老师；电话 020-39322509\n、020-39322270\n；邮箱 rcb@gdut.edu.cn"
     },
-    "id": 593,
+    "id": 606,
     "ownership": "公办"
   },
   {
@@ -19406,7 +19835,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 594
+    "id": 607
   },
   {
     "title": "广东外语外贸大学南国商学院2026年博士招聘启事",
@@ -19438,7 +19867,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 020-22245459、13299217553、19924326442；邮箱 ngrsc2024@163.com"
     },
-    "id": 595
+    "id": 608
   },
   {
     "title": "南方医科大学2026年科研助理岗位招聘",
@@ -19464,7 +19893,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 596
+    "id": 609
   },
   {
     "title": "广东白云学院银龄教师招聘公告",
@@ -19490,7 +19919,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 597
+    "id": 610
   },
   {
     "title": "碧职就业“职”通车|招聘信息汇总（第八十三期）",
@@ -19516,7 +19945,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 598
+    "id": 611
   },
   {
     "title": "碧职就业“职”通车|清远市清城区龙塘镇培英幼儿园招聘信息（第八十二期）",
@@ -19542,7 +19971,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 599
+    "id": 612
   },
   {
     "title": "碧职就业“职”通车|广东省联成教育投资有限公司招聘信息（第八十一期）",
@@ -19568,7 +19997,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 600
+    "id": 613
   },
   {
     "title": "碧职就业“职”通车|招聘信息汇总（第八十期）",
@@ -19594,7 +20023,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 601
+    "id": 614
   },
   {
     "title": "深圳大学土木与交通工程学院刘桐旭教授团队博士后招聘",
@@ -19623,7 +20052,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 刘老师；电话 15112511025\n；邮箱 tongxu.liu@szu.edu.cn；地址 深圳大学沧海校区致理楼"
     },
-    "id": 602,
+    "id": 615,
     "ownership": "公办"
   },
   {
@@ -19650,7 +20079,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 603
+    "id": 616
   },
   {
     "title": "深圳大学金融科技学院博士后招聘简章",
@@ -19679,7 +20108,7 @@ window.REAL_JOBS = [
       "signup": "导师联系邮箱；材料投递：应聘者请将；等材料打包，通过电子邮件发送至意向合作导师邮箱（邮件主题请注明：姓名",
       "contact": "联系人 王老师；邮箱 hc335@szu.edu.cn"
     },
-    "id": 604,
+    "id": 617,
     "ownership": "公办"
   },
   {
@@ -19709,7 +20138,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 伍若楠；电话 18045982395\n；邮箱 .wu@szu.edu.cn；地址 广东省深圳市南山区深圳大学沧海校区"
     },
-    "id": 605,
+    "id": 618,
     "ownership": "公办"
   },
   {
@@ -19740,7 +20169,7 @@ window.REAL_JOBS = [
       "signup": "填写《广州应用科技学院应聘人员登记表》（见附件），发送至学校电子 邮 箱，邮件主题请注明：姓名+专业+学历+职称+应聘岗位，合则约见。 联系地址：广东省肇庆市鼎湖区莲花镇丰乐路20号广州应用科技学院 行政中心 309人事处 办公室",
       "contact": "电话 0758-2610555；邮箱 rsc@gzasc.edu.cn；地址 广东省肇庆市鼎湖区莲花镇丰乐路20号广州应用科技学院"
     },
-    "id": 606,
+    "id": 619,
     "ownership": "民办"
   },
   {
@@ -19772,7 +20201,7 @@ window.REAL_JOBS = [
       "signup": "应聘材料发送至肇庆学院人力资源部邮箱：rsc@zqu.edu.cn抄送gccrcw@163.com，邮件请以“姓名+院校+学历程度+专业+毕业年月+高层次人才网”命名，例如：某某+校名+博士+软件工程+202307+高层次人才网；2.应聘者提交的应聘信息和相关佐证材料务必真实可信，并与个人应聘报名表及简历一致，经查证弄虚作假者，将取消录用资格，由此引起的一切后果与法律责任由应聘者本人承担",
       "contact": "电话 0758-2752890；邮箱 rsc@zqu.edu.cn抄送gccrcw"
     },
-    "id": 607
+    "id": 620
   },
   {
     "title": "广州华商职业学院产教融合办公室副主任招聘启事",
@@ -19798,7 +20227,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 608
+    "id": 621
   },
   {
     "title": "深圳大学传播学院杨洸教授团队招聘专职副研究员",
@@ -19827,7 +20256,7 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "联系人 邮箱；邮箱 leiyiming2018@outlook.com"
     },
-    "id": 609,
+    "id": 622,
     "ownership": "公办"
   },
   {
@@ -19857,7 +20286,7 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 610,
+    "id": 623,
     "ownership": "公办"
   },
   {
@@ -19884,7 +20313,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 611
+    "id": 624
   },
   {
     "title": "广州华商职业学院游泳池、实训室管理员招聘启事",
@@ -19910,7 +20339,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 612
+    "id": 625
   },
   {
     "title": "[10-24]广东石油化工学院2026年公开招聘辅导员（",
@@ -19936,7 +20365,39 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 613
+    "id": 626
+  },
+  {
+    "title": "广州华商职业学院面向海内外高薪引进高层次人才公告",
+    "city": "广州",
+    "school": "广州华商职业学院",
+    "level": "公告",
+    "stage": "高校",
+    "category": "其他",
+    "pendingReview": true,
+    "establishment": "合同制",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "2026-12-31",
+    "recordedAt": "2026-10-23",
+    "source": "万行教师网",
+    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242301.html",
+    "content": {
+      "intro": "一、学校基本情况 广州华商职业学院于2009年经广东省政府批准设立，是教育部备案、省教育厅主管的民办高校。学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学。获全国示范性职业院校等多项荣誉，设有广州、江门校区及香港教学中心，占地2000",
+      "targets": [
+        "学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "智能制造及自动化、新能源汽车检测与维修、电气自动化、机电一体化、低空经济、大数据、人工智能、智能体、酒店管理与数字化运营、餐饮智能管理、烹饪工艺与营养、口腔医学、健康管理、大数据与会计、康复治疗、医学营养、无人机应用、包装策划与设计等具有博士学位或副高以上职称、年龄45周岁以下的高层次领军人才",
+        "团队具备良好的工作基础，符合学校专业发展需要，具备较高的科技创新能力;团队带头人应具有较高的学术造诣和组织协调能力，学术水平在业内具有较高公认度;团队具有合理的专业结构和年龄结构，核心成员应具有博士研究生学历和学位或副高以上专业技术职务"
+      ],
+      "process": "报名 → 资格审查 → 考察 → 聘用",
+      "signup": "3.应聘人员填写《广州华商职业学院职位申请表》(见附件1)，连同本人身份证、学历、学位和职称证书、业绩材料扫描件压缩打包后发送到以下邮箱：hszyzp@126.com(邮件主题格式为：应聘者姓名-应聘专业领域-学历(学位)-职称-高层次人才网。附件大小请勿超过5M，尽量不要用邮箱的文件中转站发送附件，以免过期。)",
+      "contact": "电话 020-82666161、0750-6238967；邮箱 hszyzp@126.com"
+    },
+    "id": 627,
+    "ownership": "民办"
   },
   {
     "title": "广州华夏职业学院2026年秋季招聘公告",
@@ -19970,39 +20431,7 @@ window.REAL_JOBS = [
       "signup": "1.应聘人员下载《广州华夏职业学院应聘申请表》，填写应聘信息，将有关材料至招聘邮箱：gzhxrsc87868965@163.com(邮件标题及附件格式：姓名+学历+本人专业+应聘岗位+高层次人才网)",
       "contact": "联系人 人事处唐老师、潘老师；电话 020-87868965\n\n；邮箱 gzhxrsc87868965@163.com"
     },
-    "id": 614,
-    "ownership": "民办"
-  },
-  {
-    "title": "广州华商职业学院面向海内外高薪引进高层次人才公告",
-    "city": "广州",
-    "school": "广州华商职业学院",
-    "level": "公告",
-    "stage": "高校",
-    "category": "其他",
-    "pendingReview": true,
-    "establishment": "合同制",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "2026-12-31",
-    "recordedAt": "2026-10-23",
-    "source": "万行教师网",
-    "sourceUrl": "https://www.job910.com/jobs/zhaopin-242301.html",
-    "content": {
-      "intro": "一、学校基本情况 广州华商职业学院于2009年经广东省政府批准设立，是教育部备案、省教育厅主管的民办高校。学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学。获全国示范性职业院校等多项荣誉，设有广州、江门校区及香港教学中心，占地2000",
-      "targets": [
-        "学校坚持“创百年名校，育华夏英才”，依托产业，聚焦岗位，面向世界，服务就业，并面向塑造产业领袖人格，培养具有创业行为习惯人才的要求办学"
-      ],
-      "positions": "详见原文",
-      "conditions": [
-        "智能制造及自动化、新能源汽车检测与维修、电气自动化、机电一体化、低空经济、大数据、人工智能、智能体、酒店管理与数字化运营、餐饮智能管理、烹饪工艺与营养、口腔医学、健康管理、大数据与会计、康复治疗、医学营养、无人机应用、包装策划与设计等具有博士学位或副高以上职称、年龄45周岁以下的高层次领军人才",
-        "团队具备良好的工作基础，符合学校专业发展需要，具备较高的科技创新能力;团队带头人应具有较高的学术造诣和组织协调能力，学术水平在业内具有较高公认度;团队具有合理的专业结构和年龄结构，核心成员应具有博士研究生学历和学位或副高以上专业技术职务"
-      ],
-      "process": "报名 → 资格审查 → 考察 → 聘用",
-      "signup": "3.应聘人员填写《广州华商职业学院职位申请表》(见附件1)，连同本人身份证、学历、学位和职称证书、业绩材料扫描件压缩打包后发送到以下邮箱：hszyzp@126.com(邮件主题格式为：应聘者姓名-应聘专业领域-学历(学位)-职称-高层次人才网。附件大小请勿超过5M，尽量不要用邮箱的文件中转站发送附件，以免过期。)",
-      "contact": "电话 020-82666161、0750-6238967；邮箱 hszyzp@126.com"
-    },
-    "id": 615,
+    "id": 628,
     "ownership": "民办"
   },
   {
@@ -20029,7 +20458,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 616
+    "id": 629
   },
   {
     "title": "深圳大学心理学院唐苏勤课题组诚聘研究助理",
@@ -20058,7 +20487,7 @@ window.REAL_JOBS = [
       "signup": "申请人请将以上材料合并为一个PDF文件直接发送至邮箱：sqtang@szu.edu.cn，邮件标题主题为“研究助理+姓名”；注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "邮箱 sqtang@szu.edu.cn"
     },
-    "id": 617,
+    "id": 630,
     "ownership": "公办"
   },
   {
@@ -20088,7 +20517,7 @@ window.REAL_JOBS = [
       "signup": "本公告 从 发布之日起 ，招满为止。请 提供以下材料：应聘者须按要求填写应聘简历表（见附件），发送至： ngrsc2024@163.com ， 邮件及",
       "contact": "电话 020-22245459\n；邮箱 ngrsc2024@163.com"
     },
-    "id": 618
+    "id": 631
   },
   {
     "title": "广东外语外贸大学南国商学院 2026年网络与信息中心招聘启事",
@@ -20117,7 +20546,7 @@ window.REAL_JOBS = [
       "signup": "本公告 从 发布之日起 ，招满为止。请 提供以下材料：应聘者须按要求填写应聘简历表（见附件），发送至： ngrsc2024@163.com ， 邮件及",
       "contact": "电话 020-22245459\n；邮箱 ngrsc2024@163.com"
     },
-    "id": 619
+    "id": 632
   },
   {
     "title": "高层次人才招聘",
@@ -20143,7 +20572,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 620
+    "id": 633
   },
   {
     "title": "广东科贸职业学院2026年高层次人才招聘考试公告（第四批）",
@@ -20169,7 +20598,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 621
+    "id": 634
   },
   {
     "title": "[10-22]广东石油化工学院2026年公开招聘辅导员（",
@@ -20195,7 +20624,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 622
+    "id": 635
   },
   {
     "title": "广州体育学院公开招聘网",
@@ -20221,7 +20650,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 623
+    "id": 636
   },
   {
     "title": "“百万英才汇南粤”广东省清远市直教育系统2026年下半年公开招聘公告",
@@ -20255,7 +20684,7 @@ window.REAL_JOBS = [
       "signup": "本条所规定处分期限的计算截至报名截止日；报考应聘人员所涉及年龄的时间点计算截至报名首日；本次招聘实行网络报名",
       "contact": "电话 0763-3363113、0763-3361196"
     },
-    "id": 624
+    "id": 637
   },
   {
     "title": "广东科学技术职业学院2026年正高级教师招聘公告",
@@ -20281,7 +20710,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 625
+    "id": 638
   },
   {
     "title": "深圳大学黄飞课题组（植物代谢表观方向）招聘副研究员",
@@ -20310,7 +20739,7 @@ window.REAL_JOBS = [
       "signup": "注册，选择专职研究人员招聘类型进行简历投递",
       "contact": "联系人 黄飞；电话 18610608676\n；邮箱 huangfei@pku.edu.cn"
     },
-    "id": 626,
+    "id": 639,
     "ownership": "公办"
   },
   {
@@ -20341,7 +20770,7 @@ window.REAL_JOBS = [
       "signup": "1.应聘人员只可报考一个符合招聘条件的岗位，且必须使用有效期内的二代居民身份证或港澳居民身份证报名。如对所报岗位要求不清楚的，在报名前应向招聘单位咨询。应聘人员要诚信报名、诚信考试，必须在规定的时间内向招聘单位提交报名资料，并确保报名材料真实、全面、准确。 2.对学习和工作经历栏目，应按时间先后顺序，从高中开始，填写何年何月至何年何月在何地、何单位工作或学习、任何职（在党政机关、事业单位、国有企业工作的，还须注明在职在编或临聘人员）。对",
       "contact": "详见万行教师网原文（具体信息以官方发布为准）"
     },
-    "id": 627
+    "id": 640
   },
   {
     "title": "博士后人才招聘",
@@ -20367,33 +20796,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 628
-  },
-  {
-    "title": "202610/152026年广州中医药大学科研助理招聘公告（第六批）",
-    "city": "广州市",
-    "school": "广州中医药大学",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-10-15",
-    "source": "广州中医药大学官网",
-    "sourceUrl": "https://www.gzucm.edu.cn/info/1461/124541.htm",
-    "ownership": "公办",
-    "content": {
-      "intro": "2026年广州中医药大学科研助理招聘公告（第六批）-广州中医药大学 公开招聘 当前位置: 首 页 >> 招聘招标 >> 公开招聘 >> 正文 招聘招标 公开招聘 校内招聘 招标公告 2026年广州中医药大学科研助理招聘公告（第六批） 发布时间：2026年10月15日 10:47 来源： 撰稿人： 点击次数： 因工作需要，广州中医药大学 科技创新中心、医学信息工程学院 招聘科研助理共 4 名，现将招聘有关事项公告如下： 一、招聘对象 招聘",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 629
+    "id": 641
   },
   {
     "title": "[10-15]广东石油化工学院2026年公开招聘辅导员（",
@@ -20419,7 +20822,33 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 630
+    "id": 642
+  },
+  {
+    "title": "202610/152026年广州中医药大学科研助理招聘公告（第六批）",
+    "city": "广州市",
+    "school": "广州中医药大学",
+    "level": "高校",
+    "stage": "高校",
+    "category": "高校招聘",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "详见原文",
+    "deadline": "",
+    "recordedAt": "2026-10-15",
+    "source": "广州中医药大学官网",
+    "sourceUrl": "https://www.gzucm.edu.cn/info/1461/124541.htm",
+    "ownership": "公办",
+    "content": {
+      "intro": "2026年广州中医药大学科研助理招聘公告（第六批）-广州中医药大学 公开招聘 当前位置: 首 页 >> 招聘招标 >> 公开招聘 >> 正文 招聘招标 公开招聘 校内招聘 招标公告 2026年广州中医药大学科研助理招聘公告（第六批） 发布时间：2026年10月15日 10:47 来源： 撰稿人： 点击次数： 因工作需要，广州中医药大学 科技创新中心、医学信息工程学院 招聘科研助理共 4 名，现将招聘有关事项公告如下： 一、招聘对象 招聘",
+      "targets": [],
+      "positions": "详见原文",
+      "conditions": [],
+      "process": "",
+      "signup": "",
+      "contact": ""
+    },
+    "id": 643
   },
   {
     "title": "2026年校园招聘会报名啦-中山职业技术学院2027届毕业生校园招聘会邀请函",
@@ -20445,7 +20874,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 631
+    "id": 644
   },
   {
     "title": "深圳北理莫斯科大学2026年艺术中心招聘公告-2026/10/30截止2026-10-12",
@@ -20471,7 +20900,67 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 632
+    "id": 645
+  },
+  {
+    "title": "广东科技学院公开招聘心理咨询中心干事公告",
+    "city": "东莞",
+    "school": "广东科技学院（民办）",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-10-09",
+    "source": "广东科技学院（民办）官网",
+    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20261009/6989.html",
+    "content": {
+      "intro": "网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘心理咨询中心干事公告 发布日期：2026-10-09 字号：[ 大 中 小 ] 一、学校简介 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理",
+      "targets": [
+        "因学校发展需要，现面向社会公开招聘心理咨询中心干事"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见官方公告原文"
+      ],
+      "process": "详见官方公告原文",
+      "signup": "（二）学校根据投递的简历进行初选，通过初选后，学校电话通知以在线试讲或线下面试等方式进行综合考核",
+      "contact": "电话 0769-86211880  8621188；邮箱 gdkjxy@sina.com；地址 广东省东莞市南城区西湖路"
+    },
+    "id": 646,
+    "ownership": "民办"
+  },
+  {
+    "title": "广东科技学院公开招聘紧缺人才公告",
+    "city": "东莞",
+    "school": "广东科技学院（民办）",
+    "level": "直属学校",
+    "stage": "高校",
+    "category": "其他",
+    "establishment": "详见原文",
+    "headcount": 0,
+    "education": "本科及以上",
+    "deadline": "",
+    "recordedAt": "2026-10-08",
+    "source": "广东科技学院（民办）官网",
+    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260725/6983.html",
+    "content": {
+      "intro": "网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘紧缺人才公告 发布日期：2026-10-08 字号：[ 大 中 小 ] 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理学、经济学、文学、艺术",
+      "targets": [
+        "根据学校发展需要，现面向社会公开招聘"
+      ],
+      "positions": "详见原文",
+      "conditions": [
+        "详见官方公告原文"
+      ],
+      "process": "资格审查 → 面试 → 体检 → 考察 → 聘用",
+      "signup": "符合条件的意向人员请以电子邮件等方式将个人简历和其他证明材料发我校人事处邮箱或邮寄至我校人事处",
+      "contact": "电话 0769-86211880；邮箱 gdkjxy@sina.com"
+    },
+    "id": 647,
+    "ownership": "民办"
   },
   {
     "title": "教务处工作人员招聘启事",
@@ -20497,33 +20986,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 633
-  },
-  {
-    "title": "广东科技学院公开招聘紧缺人才公告",
-    "city": "东莞市",
-    "school": "广东科技学院",
-    "level": "高校",
-    "stage": "高校",
-    "category": "高校招聘",
-    "establishment": "详见原文",
-    "headcount": 0,
-    "education": "详见原文",
-    "deadline": "",
-    "recordedAt": "2026-10-08",
-    "source": "广东科技学院官网",
-    "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260725/6983.html?_d_id=8850c6395889af55a8095fc393e686",
-    "ownership": "民办",
-    "content": {
-      "intro": "广东科技学院公开招聘紧缺人才公告-广东科技学院—人事处 网站首页 部门概况 工作动态 通知公告 政策文件 人才引进 下载中心 人才引进 人才引进 您的当前位置： 首页 > 人才引进 人才引进 广东科技学院公开招聘紧缺人才公告 发布日期：2026-10-08 字号：[ 大 中 小 ] 广东科技学院创建于 2003年，是教育部批准设立的一所以工学为主，管理学、经济学、文学、艺术学等多学科协调发展的全日制普通本科院校，坐落于“粤港澳大湾区重要",
-      "targets": [],
-      "positions": "详见原文",
-      "conditions": [],
-      "process": "",
-      "signup": "",
-      "contact": ""
-    },
-    "id": 634
+    "id": 648
   },
   {
     "title": "广东创新科技职业学院高层次人才招聘启事",
@@ -20554,7 +21017,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "邮箱 gdcxrsc@163.com"
     },
-    "id": 635,
+    "id": 649,
     "ownership": "民办"
   },
   {
@@ -20587,7 +21050,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 020-22245459\n；邮箱 ngrsc2024@163.com"
     },
-    "id": 636
+    "id": 650
   },
   {
     "title": "​先进材料与技术研究院诚聘“青年百人计划”教师与博士后研究人员",
@@ -20620,7 +21083,7 @@ window.REAL_JOBS = [
       "signup": "格式发送至指定邮箱，邮件主题命名为：“应聘青百教师",
       "contact": "邮箱 xjcldzb@gdut.edu.cn"
     },
-    "id": 637,
+    "id": 651,
     "ownership": "公办"
   },
   {
@@ -20647,7 +21110,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 638
+    "id": 652
   },
   {
     "title": "惠州学院2026年公开招聘教学法、课程与教学论师资公告",
@@ -20676,7 +21139,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至；本次招聘实行邮件报名；详见各二级学院邮箱",
       "contact": "电话 0752-2529142\n、0752-2527273\n；邮箱 zhaopin@hzu.edu.cn"
     },
-    "id": 639,
+    "id": 653,
     "ownership": "公办"
   },
   {
@@ -20706,7 +21169,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至；随时接受报名，招满即止；招聘单位视报名情况每",
       "contact": "电话 0752-2529142、0752-2527273；邮箱 zhaopin@hzu.edu.dn"
     },
-    "id": 640,
+    "id": 654,
     "ownership": "公办"
   },
   {
@@ -20733,7 +21196,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 641
+    "id": 655
   },
   {
     "title": "深圳大学传播学院“百人计划”教授虞鑫团队博士后招聘",
@@ -20762,7 +21225,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 642,
+    "id": 656,
     "ownership": "公办"
   },
   {
@@ -20789,7 +21252,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 643
+    "id": 657
   },
   {
     "title": "深圳北理莫斯科大学2026年儿童青少年计算精神健康团队科研助理招聘公告-2026/10/15截止2026-09-21",
@@ -20815,7 +21278,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 644
+    "id": 658
   },
   {
     "title": "深圳北理莫斯科大学2026年人工智能研究院儿童青少年计算精神健康团队招聘公告-长期招聘2026-09-21",
@@ -20841,7 +21304,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 645
+    "id": 659
   },
   {
     "title": "深圳北理莫斯科大学2026年条件保障部招聘公告-2026/10/23截止2026-09-21",
@@ -20867,7 +21330,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 646
+    "id": 660
   },
   {
     "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第2号）",
@@ -20893,7 +21356,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 647
+    "id": 661
   },
   {
     "title": "计算机与软件学院科研项目助理招聘启事",
@@ -20919,7 +21382,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 648
+    "id": 662
   },
   {
     "title": "深圳北理莫斯科大学2026年俄语中心招聘公告-2026/10/15截止2026-09-16",
@@ -20945,7 +21408,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 649
+    "id": 663
   },
   {
     "title": "2027届毕业生校园招聘会安排",
@@ -20971,7 +21434,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 650
+    "id": 664
   },
   {
     "title": "2027届毕业生各专业招聘联系表",
@@ -20997,7 +21460,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 651
+    "id": 665
   },
   {
     "title": "2026年汕尾职业技术学院公开招聘专任教师公告",
@@ -21023,7 +21486,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 652
+    "id": 666
   },
   {
     "title": "韶关学院医学院附属医院2026年公开招聘医护人员",
@@ -21049,7 +21512,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 653
+    "id": 667
   },
   {
     "title": "肇庆学院2026年教学科研人员招聘公告",
@@ -21079,7 +21542,7 @@ window.REAL_JOBS = [
       "signup": "发送至应聘部门联系邮箱；详见上表）和人力资源部邮箱；应聘者提交的应聘信息和相关佐证材料务必真实可信，并与个人应聘报名表及简历一致，经查证弄虚作假者，将取消录用资格，由此引起的一切后果与法律责任由应聘者本人承担",
       "contact": "联系人 及电话；电话 0758-2752890；邮箱 rsc@zqu.edu.cn"
     },
-    "id": 654,
+    "id": 668,
     "ownership": "公办"
   },
   {
@@ -21111,7 +21574,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "电话 0758-8387203\n；邮箱 rsk333@163.com；地址 广东省肇庆市高要区祈福大道广东理工学院"
     },
-    "id": 655,
+    "id": 669,
     "ownership": "民办"
   },
   {
@@ -21138,7 +21601,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 656
+    "id": 670
   },
   {
     "title": "人才招聘Careers",
@@ -21153,7 +21616,7 @@ window.REAL_JOBS = [
     "deadline": "",
     "recordedAt": "2026-09-11",
     "source": "深圳理工大学官网",
-    "sourceUrl": "https://rczpw.suat-sz.edu.cn/rczp/zqzpgw.htm",
+    "sourceUrl": "http://rczpw.suat-sz.edu.cn/rczp/zqzpgw.htm",
     "ownership": "公办",
     "content": {
       "intro": "长期招聘岗位-人才招聘-深圳理工大学 菜单 MENU 学校主页 School Homepage 注册 Register 修改密码 退出登录 站内搜索 Search 首页 人才招聘 长期招聘岗位 教师 博士后 行政管理 教辅支撑 新闻动态 人才来了 招聘活动 首页 - 人才招聘 - 长期招聘岗位 人才招聘 长期招聘岗位 教师 博士后 行政管理 教辅支撑 深圳理工大学职位列表 长期招聘岗位 教师 博士后 行政管理 教辅支撑 深圳理工大学总医",
@@ -21164,7 +21627,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 657
+    "id": 671
   },
   {
     "title": "专任教师招聘",
@@ -21190,7 +21653,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 658
+    "id": 672
   },
   {
     "title": "深圳大学化学与环境工程学院李加强课题组博士后招聘",
@@ -21219,7 +21682,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "邮箱 jiaqiang.li@szu.edu.cn"
     },
-    "id": 659,
+    "id": 673,
     "ownership": "公办"
   },
   {
@@ -21249,7 +21712,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "联系人 陶伍海；邮箱 taowh@szu.edu.cn；地址 深圳大学沧海校区致理楼"
     },
-    "id": 660,
+    "id": 674,
     "ownership": "公办"
   },
   {
@@ -21279,7 +21742,7 @@ window.REAL_JOBS = [
       "signup": "（流动站邮箱）",
       "contact": "联系人 刘老师；邮箱 szumgt_postdoc@126.com"
     },
-    "id": 661,
+    "id": 675,
     "ownership": "公办"
   },
   {
@@ -21306,7 +21769,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 662
+    "id": 676
   },
   {
     "title": "广东理工学院2027年银龄教师招聘简章",
@@ -21335,7 +21798,7 @@ window.REAL_JOBS = [
       "signup": "请将简历以 “ 姓名 +专业+应聘岗位 ” 方式命名，发送至邮 箱 rsk333@163.com",
       "contact": "联系人 张老师；电话 0758-8387203\n；邮箱 rsk333@163.com；地址 广东省肇庆市高要区祈福大道广东理工学院"
     },
-    "id": 663,
+    "id": 677,
     "ownership": "民办"
   },
   {
@@ -21366,7 +21829,7 @@ window.REAL_JOBS = [
       "signup": "报名采用电子邮箱投递（仅限博士）或招聘系统投递简历，每位应聘者只可应聘一个岗位；1.电子邮箱：应聘者填写人才引进报名表（可在官网中获取下载），连同个人简历以及学历、职称证明等材料发送至学校人事处电子邮箱rsc@gzist.edu.cn，邮件标题请注明：博士专任教师应聘+岗位代码+姓名；2.招聘系统：应聘者登录广州理工学院招聘系统进行报名和简历投递（招聘系统网址https://zp.gzist.edu.cn/）",
       "contact": "电话 020-87478493\n；邮箱 职称证明等材料发送至学校人事处电子邮箱rsc@gzist.edu.cn"
     },
-    "id": 664,
+    "id": 678,
     "ownership": "民办"
   },
   {
@@ -21393,7 +21856,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 665
+    "id": 679
   },
   {
     "title": "广东科贸职业学院2026年高层次人才招聘考试公告（第三批）",
@@ -21419,7 +21882,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 666
+    "id": 680
   },
   {
     "title": "广州城建职业学院2026年秋季专任教师招聘公告",
@@ -21445,7 +21908,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 667
+    "id": 681
   },
   {
     "title": "广州城建职业学院智能制造与汽车学院专任教师招聘公告",
@@ -21471,7 +21934,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 668
+    "id": 682
   },
   {
     "title": "关于韶关市教育局直属学校2026年面向社会公开招聘教职员初检结论的公告",
@@ -21501,7 +21964,7 @@ window.REAL_JOBS = [
       "signup": "详见官方公告原文",
       "contact": "详见官方公告原文（具体信息以官方发布为准）"
     },
-    "id": 669
+    "id": 683
   },
   {
     "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第1号）",
@@ -21527,7 +21990,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 670
+    "id": 684
   },
   {
     "title": "肇庆学院2026年7月招聘科研助理公示",
@@ -21556,7 +22019,7 @@ window.REAL_JOBS = [
       "signup": "月招聘科研助理公告》，经公开报名、资格审核、面试、考察等工作程序，",
       "contact": "电话 0758－2752102\n；邮箱 rsk316@zqu.edu.cn"
     },
-    "id": 671,
+    "id": 685,
     "ownership": "公办"
   },
   {
@@ -21590,7 +22053,7 @@ window.REAL_JOBS = [
       "signup": "有意者请扫描以下二维码填写报名表，并把个人简历及相关证件（身份证、教师资格证、学历、学位证、职称证（如有）、获奖证书或其他岗位所需证件等）应聘材料电子文件压缩整理，以“姓名+应聘岗位”的形式命名并发送至邮箱gdcjxxoffice@163.com；收到应聘者报名表、应聘资料后，学校人事部门将组织有关部门进行资格初审，符合条件的，资格审核结果将通过电话、短信和邮件等形式通知应聘人员",
       "contact": "联系人 李老师；电话 0757-85551534；邮箱 的形式命名并发送至邮箱gdcjxxoffice@163.com"
     },
-    "id": 672,
+    "id": 686,
     "ownership": "公办"
   },
   {
@@ -21617,7 +22080,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 673
+    "id": 687
   },
   {
     "title": "广州城建职业学院清远校区心理教师招聘公告",
@@ -21643,7 +22106,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 674
+    "id": 688
   },
   {
     "title": "广州华立科技职业学院2026年招聘启事（二）",
@@ -21669,7 +22132,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 675
+    "id": 689
   },
   {
     "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
@@ -21701,7 +22164,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至2026年12月31日截止；首批报名时间为2026年9月1日9:00至2026年9月30日16:00；学校视报名情况每1-2个月组织1次直接业务考核，剩余岗位动态情况将在学校网站发布",
       "contact": "电话 0751-6502208、0751-6501708"
     },
-    "id": 676
+    "id": 690
   },
   {
     "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告（第四批）",
@@ -21727,7 +22190,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 677
+    "id": 691
   },
   {
     "title": "人才招聘与师德师风建",
@@ -21753,7 +22216,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 678
+    "id": 692
   },
   {
     "title": "广东建设职业技术学院2026年公开招聘博士研究生公告",
@@ -21783,7 +22246,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至2026年11月30日截止；首批报名时间为2026年8月25日0:00至2026年9月30日23:59；后续采取滚动招聘方式，随时接受报名，招满为止",
       "contact": "电话 0763-3919523、0763-3919556；邮箱 rsc@gdcvi.edu.cn"
     },
-    "id": 679
+    "id": 693
   },
   {
     "title": "广州体育学院2026年第三批公开招聘非事业编制工作人员公告",
@@ -21809,7 +22272,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 680
+    "id": 694
   },
   {
     "title": "广州城建职业学院学生处（清远校区）职员招聘公告",
@@ -21835,7 +22298,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 681
+    "id": 695
   },
   {
     "title": "广东交通职业技术学院2026年第二批公开招聘事业单位工作人员公告",
@@ -21864,7 +22327,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘实行网络报名；应聘人员请于2026年8月19日0:00至2026年8月27日23:59登录系统报名（网址：；请在报名系统内相应页面提交岗位所需要的有关材料",
       "contact": "电话 020-37854126、020－87025345；邮箱 hrd@gdcp.edu.cn"
     },
-    "id": 682
+    "id": 696
   },
   {
     "title": "202608/06广州中医药大学2026年第二批公开招聘工作人员公告",
@@ -21890,7 +22353,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 683
+    "id": 697
   },
   {
     "title": "广东药科大学2026年公开招聘专业技术人员公告",
@@ -21919,7 +22382,7 @@ window.REAL_JOBS = [
       "signup": "本次招聘长期报名，报名有效期至2026年12月31日截止；首批报名时间为2026年8月14日9:00至2026年8月21日17:00；后续采取滚动招聘方式，随时接受报名，招满即止",
       "contact": "电话 020-39352071、020-39352133；邮箱 rsc2071@126.com"
     },
-    "id": 684
+    "id": 698
   },
   {
     "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告（第三批）",
@@ -21945,7 +22408,7 @@ window.REAL_JOBS = [
       "signup": "",
       "contact": ""
     },
-    "id": 685
+    "id": 699
   }
 ];
 if (window.REAL_JOBS && window.REAL_JOBS.length) { MOCK_JOBS = window.REAL_JOBS; }
